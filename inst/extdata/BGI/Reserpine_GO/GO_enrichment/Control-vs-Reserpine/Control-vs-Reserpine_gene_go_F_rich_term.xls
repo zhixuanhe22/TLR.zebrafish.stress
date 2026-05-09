@@ -1,0 +1,514 @@
+go_f_term_id	go_f_term_candidate_gene_num	go_f_total_candidate_gene_num	go_f_term_gene_num	go_f_total_gene_num	go_f_rich_ratio	go_f_pvalue	go_f_qvalue	go_f_term_desc	go_f_term_level_1	go_f_term_level_2	gene_ids	gene_symbols
+GO:0005200	9	512	35	17977	0.257142857142857	4.194232e-07	0.0002151641	structural constituent of cytoskeleton	molecular_function	structural molecule activity	337223,386701,406303,445164,554127,573122,573216,641421,767746	tuba8l,tubb5,tuba2,tuba8l3,tubb2,tuba1c,tuba1a,tubb2b,zgc:153426
+GO:0004129	6	512	21	17977	0.285714285714286	1.953494e-05	0.0050107121	cytochrome-c oxidase activity	molecular_function	catalytic activity+++transporter activity	326975,335774,336118,406298,554103,557348	cox4i1,cox6a1,cox7c,ndufa4,cox7a2a,cox8a
+GO:0003677	68	512	1549	17977	0.0438992898644287	0.0002183979	0.0346112037	DNA binding	molecular_function	binding	100000471,100000492,100003955,100005291,100007087,100009655,100037309,101885420,103283056,140817,192323,192338,252851,30190,30498,30619,30674,323733,323882,324413,325603,336231,337598,353295,368248,386920,393599,393749,393843,393875,394048,394198,403077,405873,406350,406512,406815,436895,436999,445405,449559,449794,494487,497613,550421,550466,553189,554137,557048,558490,558540,563150,563719,564171,565952,566409,567365,567446,567638,569109,569414,571948,58098,724016,768130,792160,793507,83774	rtf1,mafaa,si:zfos-905g2.1,ercc6l,si:dkey-23i12.7,etv7,srebf2,e2f1,tet3,cebpd,mcm3,mcm2,mycn,egr2b,egr1,fli1a,tefa,top2a,insm1b,bhlhe40,polr1b,h3f3c,mcm4,smarca4a,rybpa,hist2h2l,ddb1,tfdp1b,dnase1l4.2,sox4b,h2afx,fosab,h2afvb,mycla,uhrf1,nfe2l3,aebp2,irf8,wdhd1,sars,tmem18,zgc:101846,nr1d1,rybpb,znf367,hmgb3b,dnmt3ab,hbp1,kmt2a,foxj2,mybl1,nr1d4a,foxo4,adnp2b,e2f8,mcm6,akap12b,nusap1,si:ch211-288g17.3,dbpb,purg,nr1d4b,arntl1a,npas4a,hmga1b,irf1b,fosl1b,cry2
+GO:0004386	12	512	132	17977	0.0909090909090909	0.0003952261	0.0346112037	helicase activity	molecular_function	catalytic activity	100005291,108180207,192323,192338,321948,336645,337598,353295,555838,566409,566947,799650	ercc6l,LOC108180207,mcm3,mcm2,ddx46,dhx16,mcm4,smarca4a,dhx34,mcm6,ddx3a,ddx21
+GO:0005094	2	512	2	17977	1	0.0008096188	0.0346112037	Rho GDP-dissociation inhibitor activity	molecular_function	molecular function regulator	394132,406770	arhgdig,arhgdia
+GO:0008017	16	512	220	17977	0.0727272727272727	0.000589037	0.0346112037	microtubule binding	molecular_function	binding	100136875,107966129,195818,30627,360145,393796,447853,449979,497403,559032,561067,566151,567446,568207,767754,793969	kif2c,tpx2,kif11,kif23,mxc,kif4,dlgap5,kif20ba,cenpf,map1b,mxf,gas2l3,nusap1,sybu,cenpe,ccser2a
+GO:0008190	3	512	6	17977	0.5	0.0004308058	0.0346112037	eukaryotic initiation factor 4E binding	molecular_function	binding	324490,386945,492482	eif4ebp3l,eif4ebp2,eif4ebp3
+GO:0017116	4	512	14	17977	0.285714285714286	0.0005185389	0.0346112037	single-stranded DNA-dependent ATP-dependent DNA helicase activity	molecular_function	catalytic activity	192323,192338,337598,566409	mcm3,mcm2,mcm4,mcm6
+GO:0019911	4	512	14	17977	0.285714285714286	0.0005185389	0.0346112037	structural constituent of myelin sheath	molecular_function	structural molecule activity	326281,368234,368319,447886	mbpa,plp1b,mbpb,zgc:101772
+GO:0044729	2	512	2	17977	1	0.0008096188	0.0346112037	hemi-methylated DNA-binding	molecular_function	binding	30498,406350	egr1,uhrf1
+GO:0047750	2	512	2	17977	1	0.0008096188	0.0346112037	cholestenol delta-isomerase activity	molecular_function	catalytic activity	436600,768138	ebp,ebpl
+GO:1990269	2	512	2	17977	1	0.0008096188	0.0346112037	RNA polymerase II C-terminal domain phosphoserine binding	molecular_function	binding	100000471,404599	rtf1,leo1
+GO:0016491	34	512	678	17977	0.0501474926253687	0.001054864	0.0416265563	oxidoreductase activity	molecular_function	catalytic activity	100006589,100141496,100333321,103283056,140615,30068,324079,326975,335774,352929,368670,373132,386661,393551,393647,393714,399487,406443,406662,414331,450010,541429,550369,552960,553712,559054,60640,677747,724056,751641,768185,794311,794398,799528	idh1,dmgdh,prodha,tet3,fads2,cat,adi1,cox4i1,cox6a1,gpx4b,dhrs1,p4ha2,scd,cyba,dus3l,cdo1,ywhaqa,ywhah,msmo1,cyp51,rdh14a,aoc2,nsdhl,cybrd1,zgc:112332,hmgcra,cyp19a1b,flj13639,alox5b.2,cyb5r2,hsd17b7,fmo5,zgc:65997,sqlea
+GO:0000978	47	512	1062	17977	0.044256120527307	0.001818031	0.0611217441	RNA polymerase II proximal promoter sequence-specific DNA binding	molecular_function	binding	100000492,100007087,100037309,100126111,100498672,101885420,110437786,140817,252851,30190,30498,30674,323882,324413,335901,393875,394198,405873,406512,436895,445405,493915,494487,550421,554137,556134,556200,558490,558540,559076,560787,563150,563719,564009,565869,565952,567365,569109,571403,571948,58098,724016,768186,792160,793278,793507,795099	mafaa,si:dkey-23i12.7,srebf2,znf1137,atoh1c,e2f1,LOC110437786,cebpd,mycn,egr2b,egr1,tefa,insm1b,bhlhe40,klf15,sox4b,fosab,mycla,nfe2l3,irf8,sars,atoh1b,nr1d1,znf367,hbp1,zbtb47a,si:ch211-117k10.3,foxj2,mybl1,klf11b,klf11a,nr1d4a,foxo4,ciarta,klf9,e2f8,akap12b,dbpb,znf395a,nr1d4b,arntl1a,npas4a,zgc:153115,irf1b,bcl6b,fosl1b,egr4
+GO:0003688	4	512	20	17977	0.2	0.002191581	0.0611217441	DNA replication origin binding	molecular_function	binding	192323,192338,337598,566409	mcm3,mcm2,mcm4,mcm6
+GO:0034784	2	512	3	17977	0.666666666666667	0.002382914	0.0611217441	pivalyl-CoA mutase activity	molecular_function	catalytic activity	445101,795400	rpusd4,lss
+GO:0034951	2	512	3	17977	0.666666666666667	0.002382914	0.0611217441	o-hydroxylaminobenzoate mutase activity	molecular_function	catalytic activity	445101,795400	rpusd4,lss
+GO:0042299	2	512	3	17977	0.666666666666667	0.002382914	0.0611217441	lupeol synthase activity	molecular_function	catalytic activity	445101,795400	rpusd4,lss
+GO:0042300	2	512	3	17977	0.666666666666667	0.002382914	0.0611217441	beta-amyrin synthase activity	molecular_function	catalytic activity	445101,795400	rpusd4,lss
+GO:0080011	2	512	3	17977	0.666666666666667	0.002382914	0.0611217441	baruol synthase activity	molecular_function	catalytic activity	445101,795400	rpusd4,lss
+GO:0005525	27	512	532	17977	0.0507518796992481	0.002847643	0.0695638504	GTP binding	molecular_function	binding	100001880,100005143,100007523,100148554,323464,334050,337223,360145,373105,386701,393993,406303,406659,445164,554127,561067,564565,564600,567448,570622,573122,573216,641421,767746,795167,795887,797005	si:dkey-202l22.6,si:ch211-197g15.8,si:dkey-79f11.10,si:dkeyp-9d4.2,lsg1,gtpbp4,tuba8l,mxc,rab13,tubb5,ralaa,tuba2,rhoac,tuba8l3,tubb2,mxf,arhgap35,sept12,mfn2,gbp2,tuba1c,tuba1a,tubb2b,zgc:153426,rac3b,LOC795887,mfhas1
+GO:0003678	6	512	53	17977	0.113207547169811	0.003828615	0.0778749976	DNA helicase activity	molecular_function	catalytic activity	100005291,108180207,192323,192338,337598,566409	ercc6l,LOC108180207,mcm3,mcm2,mcm4,mcm6
+GO:0003700	29	512	607	17977	0.0477759472817133	0.0047726	0.0778749976	DNA-binding transcription factor activity	molecular_function	transcription regulator activity	100000492,100007087,100009655,101885420,110437786,140817,252851,30619,30674,323882,393749,394198,405873,406512,436895,494487,550421,558490,563150,563719,565952,567253,567365,569109,571403,571948,58098,792160,793507	mafaa,si:dkey-23i12.7,etv7,e2f1,LOC110437786,cebpd,mycn,fli1a,tefa,insm1b,tfdp1b,fosab,mycla,nfe2l3,irf8,nr1d1,znf367,foxj2,nr1d4a,foxo4,e2f8,atf5b,akap12b,dbpb,znf395a,nr1d4b,arntl1a,irf1b,fosl1b
+GO:0003777	6	512	54	17977	0.111111111111111	0.004205819	0.0778749976	microtubule motor activity	molecular_function	catalytic activity	100136875,195818,30627,393796,449979,767754	kif2c,kif11,kif23,kif4,kif20ba,cenpe
+GO:0009922	3	512	13	17977	0.230769230769231	0.005307833	0.0778749976	fatty acid elongase activity	molecular_function	catalytic activity	334217,449816,678614	elovl7a,elovl1a,elovl2
+GO:0016538	5	512	40	17977	0.125	0.005313109	0.0778749976	cyclin-dependent protein serine/threonine kinase regulator activity	molecular_function	molecular function regulator	192295,415200,561930,58025,799608	ccna2,zgc:86839,cks2,ccnb1,ccnd2a
+GO:0016684	2	512	4	17977	0.5	0.004675895	0.0778749976	oxidoreductase activity, acting on peroxide as acceptor	molecular_function	catalytic activity	100149745,436933	sesn2,sesn1
+GO:0016717	2	512	4	17977	0.5	0.004675895	0.0778749976	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water	molecular_function	catalytic activity	140615,386661	fads2,scd
+GO:0070728	2	512	4	17977	0.5	0.004675895	0.0778749976	leucine binding	molecular_function	binding	100149745,436933	sesn2,sesn1
+GO:0097027	2	512	4	17977	0.5	0.004675895	0.0778749976	ubiquitin-protein transferase activator activity	molecular_function	molecular function regulator	324654,406353	aup1,cdc20
+GO:0102336	3	512	13	17977	0.230769230769231	0.005307833	0.0778749976	3-oxo-arachidoyl-CoA synthase activity	molecular_function	catalytic activity	334217,449816,678614	elovl7a,elovl1a,elovl2
+GO:0102337	3	512	13	17977	0.230769230769231	0.005307833	0.0778749976	3-oxo-cerotoyl-CoA synthase activity	molecular_function	catalytic activity	334217,449816,678614	elovl7a,elovl1a,elovl2
+GO:0102338	3	512	13	17977	0.230769230769231	0.005307833	0.0778749976	3-oxo-lignoceronyl-CoA synthase activity	molecular_function	catalytic activity	334217,449816,678614	elovl7a,elovl1a,elovl2
+GO:0102756	3	512	13	17977	0.230769230769231	0.005307833	0.0778749976	very-long-chain 3-ketoacyl-CoA synthase activity	molecular_function	catalytic activity	334217,449816,678614	elovl7a,elovl1a,elovl2
+GO:1990939	6	512	52	17977	0.115384615384615	0.003477071	0.0778749976	ATP-dependent microtubule motor activity	molecular_function	catalytic activity	100136875,195818,30627,393796,449979,767754	kif2c,kif11,kif23,kif4,kif20ba,cenpe
+GO:0000166	70	512	1819	17977	0.0384826827927433	0.00561807	0.0800574975	nucleotide binding	molecular_function	binding	100005291,100126123,100136875,100137124,108180207,140744,192323,192338,195818,280649,30488,30627,30724,321948,323464,323733,327060,334050,336473,336645,337223,337598,353295,360145,360218,373105,386701,393796,393993,406277,406303,406659,415254,445164,445405,449979,492781,494489,541538,553465,553615,554127,555838,558924,559403,561067,562242,562935,564600,566409,566947,567448,567919,568213,572469,573122,573216,57934,641421,767746,767754,777765,791894,794083,794238,796537,797005,797853,799650,80973	ercc6l,hsp70.1,kif2c,dgkh,LOC108180207,ckbb,mcm3,mcm2,kif11,plk1,csnk2a2a,kif23,melk,ddx46,lsg1,top2a,wee1,gtpbp4,glulb,dhx16,tuba8l,mcm4,smarca4a,mxc,pbk,rab13,tubb5,kif4,ralaa,rbm4.3,tuba2,rhoac,zgc:86598,tuba8l3,sars,kif20ba,mvda,atp2a1l,zgc:110540,sik1,zap70,tubb2,dhx34,abca1a,acaca,mxf,rps6kb1a,si:dkey-4p15.3,sept12,mcm6,ddx3a,mfn2,sik2b,tesk2,pim1,tuba1c,tuba1a,actb1,tubb2b,zgc:153426,cenpe,gk5,aurkb,pdk2a,abcg4b,kdrl,mfhas1,ube2a,ddx21,cdk1
+GO:0003743	6	512	62	17977	0.0967741935483871	0.008278536	0.1119211290	translation initiation factor activity	molecular_function	binding	323453,334234,334402,386945,393974,450062	eif4g2a,eif3c,brf1a,eif4ebp2,eif3g,eif1axa
+GO:0003924	20	512	389	17977	0.051413881748072	0.008290454	0.1119211290	GTPase activity	molecular_function	catalytic activity	323464,337223,360145,373105,386701,393993,406303,406659,445164,554127,561067,564565,564600,567448,570622,573122,573216,641421,767746,795167	lsg1,tuba8l,mxc,rab13,tubb5,ralaa,tuba2,rhoac,tuba8l3,tubb2,mxf,arhgap35,sept12,mfn2,gbp2,tuba1c,tuba1a,tubb2b,zgc:153426,rac3b
+GO:0015078	4	512	29	17977	0.137931034482759	0.008780069	0.1154916768	proton transmembrane transporter activity	molecular_function	transporter activity	100003139,393675,406301,559659	tcirg1a,atp5h,atp5g1,atp5ia
+GO:0005031	2	512	6	17977	0.333333333333333	0.01125427	0.1408156222	tumor necrosis factor-activated receptor activity	molecular_function	molecular transducer activity	100333821,406471	tnfrsf11a,tnfrsf1a
+GO:0036094	2	512	6	17977	0.333333333333333	0.01125427	0.1408156222	small molecule binding	molecular_function	binding	336492,751701	ptgdsb.1,ptgdsb.2
+GO:0008574	3	512	18	17977	0.166666666666667	0.01362826	0.1664594614	ATP-dependent microtubule motor activity, plus-end-directed	molecular_function	catalytic activity	195818,449979,767754	kif11,kif20ba,cenpe
+GO:0000247	1	512	1	17977	1	0.02848084	0.1781789137	C-8 sterol isomerase activity	molecular_function	catalytic activity	436600	ebp
+GO:0000250	1	512	1	17977	1	0.02848084	0.1781789137	lanosterol synthase activity	molecular_function	catalytic activity	795400	lss
+GO:0000253	1	512	1	17977	1	0.02848084	0.1781789137	3-keto sterol reductase activity	molecular_function	catalytic activity	768185	hsd17b7
+GO:0000386	1	512	1	17977	1	0.02848084	0.1781789137	second spliceosomal transesterification activity	molecular_function	catalytic activity	492495	slu7
+GO:0002055	1	512	1	17977	1	0.02848084	0.1781789137	adenine binding	molecular_function	binding	393641	aprt
+GO:0004018	1	512	1	17977	1	0.02848084	0.1781789137	N6-(1,2-dicarboxyethyl)AMP AMP-lyase (fumarate-forming) activity	molecular_function	catalytic activity	334431	adsl
+GO:0004161	1	512	1	17977	1	0.02848084	0.1781789137	dimethylallyltranstransferase activity	molecular_function	catalytic activity	552997	fdps
+GO:0004163	1	512	1	17977	1	0.02848084	0.1781789137	diphosphomevalonate decarboxylase activity	molecular_function	catalytic activity	492781	mvda
+GO:0004337	1	512	1	17977	1	0.02848084	0.1781789137	geranyltranstransferase activity	molecular_function	catalytic activity	552997	fdps
+GO:0004421	1	512	1	17977	1	0.02848084	0.1781789137	hydroxymethylglutaryl-CoA synthase activity	molecular_function	catalytic activity	394060	hmgcs1
+GO:0004452	1	512	1	17977	1	0.02848084	0.1781789137	isopentenyl-diphosphate delta-isomerase activity	molecular_function	catalytic activity	553513	idi1
+GO:0004465	2	512	8	17977	0.25	0.02022912	0.1781789137	lipoprotein lipase activity	molecular_function	catalytic activity	30354,393096	lpl,lipg
+GO:0004667	1	512	1	17977	1	0.02848084	0.1781789137	prostaglandin-D synthase activity	molecular_function	catalytic activity	336492	ptgdsb.1
+GO:0004769	1	512	1	17977	1	0.02848084	0.1781789137	steroid delta-isomerase activity	molecular_function	catalytic activity	436600	ebp
+GO:0004799	1	512	1	17977	1	0.02848084	0.1781789137	thymidylate synthase activity	molecular_function	catalytic activity	81540	tyms
+GO:0004859	2	512	9	17977	0.222222222222222	0.02552397	0.1781789137	phospholipase inhibitor activity	molecular_function	molecular function regulator	325557,570638	anxa2a,apoc1
+GO:0005198	8	512	122	17977	0.0655737704918033	0.02345739	0.1781789137	structural molecule activity	molecular_function	structural molecule activity	100033387,103911405,30646,386701,550431,553718,664698,81582	nefmb,otog,gfap,tubb5,cldn19,nefma,neflb,cldnc
+GO:0008289	10	512	162	17977	0.0617283950617284	0.01779147	0.1781789137	lipid binding	molecular_function	binding	171478,30314,30724,334189,406301,445125,561279,567365,58128,794414	fabp3,apoeb,melk,insig1,atp5g1,pltp,pdzd8,akap12b,fabp7a,osbp2
+GO:0008398	1	512	1	17977	1	0.02848084	0.1781789137	sterol 14-demethylase activity	molecular_function	catalytic activity	414331	cyp51
+GO:0008705	1	512	1	17977	1	0.02848084	0.1781789137	methionine synthase activity	molecular_function	catalytic activity	378847	mtr
+GO:0010309	1	512	1	17977	1	0.02848084	0.1781789137	acireductone dioxygenase [iron(II)-requiring] activity	molecular_function	catalytic activity	324079	adi1
+GO:0015019	1	512	1	17977	1	0.02848084	0.1781789137	heparan-alpha-glucosaminide N-acetyltransferase activity	molecular_function	catalytic activity	100329505	hgsnat
+GO:0016213	1	512	1	17977	1	0.02848084	0.1781789137	linoleoyl-CoA desaturase activity	molecular_function	catalytic activity	140615	fads2
+GO:0016722	1	512	1	17977	1	0.02848084	0.1781789137	oxidoreductase activity, oxidizing metal ions	molecular_function	catalytic activity	552960	cybrd1
+GO:0016741	1	512	1	17977	1	0.02848084	0.1781789137	transferase activity, transferring one-carbon groups	molecular_function	catalytic activity	81540	tyms
+GO:0017168	1	512	1	17977	1	0.02848084	0.1781789137	5-oxoprolinase (ATP-hydrolyzing) activity	molecular_function	catalytic activity	100151110	oplah
+GO:0017172	1	512	1	17977	1	0.02848084	0.1781789137	cysteine dioxygenase activity	molecular_function	catalytic activity	393714	cdo1
+GO:0035727	1	512	1	17977	1	0.02848084	0.1781789137	lysophosphatidic acid binding	molecular_function	binding	30608	gap43
+GO:0035755	1	512	1	17977	1	0.02848084	0.1781789137	cardiolipin hydrolase activity	molecular_function	catalytic activity	567338	pld6
+GO:0042083	1	512	1	17977	1	0.02848084	0.1781789137	5,10-methylenetetrahydrofolate-dependent methyltransferase activity	molecular_function	catalytic activity	81540	tyms
+GO:0043395	1	512	1	17977	1	0.02848084	0.1781789137	heparan sulfate proteoglycan binding	molecular_function	binding	30314	apoeb
+GO:0043422	1	512	1	17977	1	0.02848084	0.1781789137	protein kinase B binding	molecular_function	binding	563432	si:ch211-79e4.4
+GO:0046935	3	512	23	17977	0.130434782608696	0.02663923	0.1781789137	1-phosphatidylinositol-3-kinase regulator activity	molecular_function	molecular function regulator	335409,406311,445073	socs3a,pik3r3a,socs1a
+GO:0047865	1	512	1	17977	1	0.02848084	0.1781789137	dimethylglycine dehydrogenase activity	molecular_function	catalytic activity	100141496	dmgdh
+GO:0050786	1	512	1	17977	1	0.02848084	0.1781789137	RAGE receptor binding	molecular_function	binding	436825	s100b
+GO:0051787	3	512	20	17977	0.15	0.01825716	0.1781789137	misfolded protein binding	molecular_function	binding	100126123,393775,562935	hsp70.1,clu,si:dkey-4p15.3
+GO:0070626	1	512	1	17977	1	0.02848084	0.1781789137	(S)-2-(5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido)succinate AMP-lyase (fumarate-forming) activity	molecular_function	catalytic activity	334431	adsl
+GO:0071813	1	512	1	17977	1	0.02848084	0.1781789137	lipoprotein particle binding	molecular_function	binding	387529	ldlra
+GO:1901611	1	512	1	17977	1	0.02848084	0.1781789137	phosphatidylglycerol binding	molecular_function	binding	445125	pltp
+GO:1990404	2	512	8	17977	0.25	0.02022912	0.1781789137	protein ADP-ribosylase activity	molecular_function	catalytic activity	791754,799852	si:ch211-219a4.3,si:ch211-219a4.6
+GO:0003682	10	512	178	17977	0.0561797752808989	0.03155065	0.1950058247	chromatin binding	molecular_function	binding	192323,192338,321452,327035,337598,436999,562678,569904,792168,797303	mcm3,mcm2,smc2,rnf2,mcm4,wdhd1,ncaph2,hmgn2,ing5a,tada2a
+GO:0016853	7	512	109	17977	0.0642201834862385	0.0362578	0.2214315643	isomerase activity	molecular_function	catalytic activity	323733,335519,336612,445101,553513,560753,795400	top2a,ppiab,ppiaa,rpusd4,idi1,tpi1b,lss
+GO:0016018	2	512	11	17977	0.181818181818182	0.03755977	0.2214731266	cyclosporin A binding	molecular_function	binding	335519,336612	ppiab,ppiaa
+GO:0016702	3	512	26	17977	0.115384615384615	0.0367436	0.2214731266	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen	molecular_function	catalytic activity	373132,393714,724056	p4ha2,cdo1,alox5b.2
+GO:0070840	2	512	11	17977	0.181818181818182	0.03755977	0.2214731266	dynein complex binding	molecular_function	binding	394246,497403	pafah1b1a,cenpf
+GO:0000036	1	512	2	17977	0.5	0.05615205	0.2323064649	acyl carrier activity	molecular_function	molecular carrier activity+++binding	573619	ndufab1a
+GO:0001054	1	512	2	17977	0.5	0.05615205	0.2323064649	RNA polymerase I activity	molecular_function	catalytic activity	325603	polr1b
+GO:0003948	1	512	2	17977	0.5	0.05615205	0.2323064649	N4-(beta-N-acetylglucosaminyl)-L-asparaginase activity	molecular_function	catalytic activity	566517	aga
+GO:0003989	1	512	2	17977	0.5	0.05615205	0.2323064649	acetyl-CoA carboxylase activity	molecular_function	catalytic activity	559403	acaca
+GO:0003999	1	512	2	17977	0.5	0.05615205	0.2323064649	adenine phosphoribosyltransferase activity	molecular_function	catalytic activity	393641	aprt
+GO:0004137	1	512	2	17977	0.5	0.05615205	0.2323064649	deoxycytidine kinase activity	molecular_function	catalytic activity	541538	zgc:110540
+GO:0004370	1	512	2	17977	0.5	0.05615205	0.2323064649	glycerol kinase activity	molecular_function	catalytic activity	777765	gk5
+GO:0004420	1	512	2	17977	0.5	0.05615205	0.2323064649	hydroxymethylglutaryl-CoA reductase (NADPH) activity	molecular_function	catalytic activity	559054	hmgcra
+GO:0004450	1	512	2	17977	0.5	0.05615205	0.2323064649	isocitrate dehydrogenase (NADP+) activity	molecular_function	catalytic activity	100006589	idh1
+GO:0004487	1	512	2	17977	0.5	0.05615205	0.2323064649	methylenetetrahydrofolate dehydrogenase (NAD+) activity	molecular_function	catalytic activity	100004977	mthfd2
+GO:0004506	1	512	2	17977	0.5	0.05615205	0.2323064649	squalene monooxygenase activity	molecular_function	catalytic activity	799528	sqlea
+GO:0004768	1	512	2	17977	0.5	0.05615205	0.2323064649	stearoyl-CoA 9-desaturase activity	molecular_function	catalytic activity	386661	scd
+GO:0004807	1	512	2	17977	0.5	0.05615205	0.2323064649	triose-phosphate isomerase activity	molecular_function	catalytic activity	560753	tpi1b
+GO:0004828	1	512	2	17977	0.5	0.05615205	0.2323064649	serine-tRNA ligase activity	molecular_function	catalytic activity	445405	sars
+GO:0005185	1	512	2	17977	0.5	0.05615205	0.2323064649	neurohypophyseal hormone activity	molecular_function	binding+++molecular function regulator	352920	oxt
+GO:0005501	1	512	2	17977	0.5	0.05615205	0.2323064649	retinoid binding	molecular_function	binding	30077	rbp4
+GO:0005504	3	512	27	17977	0.111111111111111	0.04048853	0.2323064649	fatty acid binding	molecular_function	binding	171478,570638,58128	fabp3,apoc1,fabp7a
+GO:0008929	1	512	2	17977	0.5	0.05615205	0.2323064649	methylglyoxal synthase activity	molecular_function	catalytic activity	560753	tpi1b
+GO:0010385	1	512	2	17977	0.5	0.05615205	0.2323064649	double-stranded methylated DNA binding	molecular_function	binding	30498	egr1
+GO:0016866	1	512	2	17977	0.5	0.05615205	0.2323064649	intramolecular transferase activity	molecular_function	catalytic activity	795400	lss
+GO:0016913	1	512	2	17977	0.5	0.05615205	0.2323064649	follicle-stimulating hormone activity	molecular_function	binding+++molecular function regulator	402987	cga
+GO:0032896	1	512	2	17977	0.5	0.05615205	0.2323064649	palmitoyl-CoA 9-desaturase activity	molecular_function	catalytic activity	386661	scd
+GO:0035174	1	512	2	17977	0.5	0.05615205	0.2323064649	histone serine kinase activity	molecular_function	catalytic activity	791894	aurkb
+GO:0042282	1	512	2	17977	0.5	0.05615205	0.2323064649	hydroxymethylglutaryl-CoA reductase activity	molecular_function	catalytic activity	559054	hmgcra
+GO:0043120	1	512	2	17977	0.5	0.05615205	0.2323064649	tumor necrosis factor binding	molecular_function	binding	406471	tnfrsf1a
+GO:0043786	1	512	2	17977	0.5	0.05615205	0.2323064649	cinnamate reductase activity	molecular_function	catalytic activity	393647	dus3l
+GO:0046556	1	512	2	17977	0.5	0.05615205	0.2323064649	alpha-L-arabinofuranosidase activity	molecular_function	catalytic activity	103911405	otog
+GO:0046624	1	512	2	17977	0.5	0.05615205	0.2323064649	sphingolipid transporter activity	molecular_function	transporter activity	445176	mfsd2ab
+GO:0047066	1	512	2	17977	0.5	0.05615205	0.2323064649	phospholipid-hydroperoxide glutathione peroxidase activity	molecular_function	catalytic activity	352929	gpx4b
+GO:0047613	1	512	2	17977	0.5	0.05615205	0.2323064649	aconitate decarboxylase activity	molecular_function	catalytic activity	562007	irg1l
+GO:0047780	1	512	2	17977	0.5	0.05615205	0.2323064649	citrate dehydratase activity	molecular_function	catalytic activity	322670	aco2
+GO:0050178	1	512	2	17977	0.5	0.05615205	0.2323064649	phenylpyruvate tautomerase activity	molecular_function	catalytic activity	751093	mif
+GO:0051978	1	512	2	17977	0.5	0.05615205	0.2323064649	lysophospholipid transporter activity	molecular_function	transporter activity	445176	mfsd2ab
+GO:0098973	1	512	2	17977	0.5	0.05615205	0.2323064649	structural constituent of postsynaptic actin cytoskeleton	molecular_function	structural molecule activity	57934	actb1
+GO:0120017	1	512	2	17977	0.5	0.05615205	0.2323064649	intermembrane ceramide transfer activity	molecular_function	transporter activity	445125	pltp
+GO:1904121	1	512	2	17977	0.5	0.05615205	0.2323064649	phosphatidylethanolamine transporter activity	molecular_function	transporter activity	445125	pltp
+GO:1990518	1	512	2	17977	0.5	0.05615205	0.2323064649	single-stranded DNA-dependent ATP-dependent 3'-5' DNA helicase activity	molecular_function	catalytic activity	566409	mcm6
+GO:0000035	1	512	3	17977	0.333333333333333	0.08303662	0.2583264976	acyl binding	molecular_function	binding	573619	ndufab1a
+GO:0000293	1	512	3	17977	0.333333333333333	0.08303662	0.2583264976	ferric-chelate reductase activity	molecular_function	catalytic activity	552960	cybrd1
+GO:0000995	1	512	3	17977	0.333333333333333	0.08303662	0.2583264976	RNA polymerase III general transcription initiation factor activity	molecular_function	transcription regulator activity	334402	brf1a
+GO:0003785	2	512	17	17977	0.117647058823529	0.08308747	0.2583264976	actin monomer binding	molecular_function	binding	402820,566329	tmsb,tmsb2
+GO:0003918	1	512	3	17977	0.333333333333333	0.08303662	0.2583264976	DNA topoisomerase type II (ATP-hydrolyzing) activity	molecular_function	catalytic activity	323733	top2a
+GO:0003994	1	512	3	17977	0.333333333333333	0.08303662	0.2583264976	aconitate hydratase activity	molecular_function	catalytic activity	322670	aco2
+GO:0004586	1	512	3	17977	0.333333333333333	0.08303662	0.2583264976	ornithine decarboxylase activity	molecular_function	catalytic activity	114426	odc1
+GO:0004657	1	512	3	17977	0.333333333333333	0.08303662	0.2583264976	proline dehydrogenase activity	molecular_function	catalytic activity	100333321	prodha
+GO:0004903	1	512	3	17977	0.333333333333333	0.08303662	0.2583264976	growth hormone receptor activity	molecular_function	molecular transducer activity	560202	ghrb
+GO:0005041	1	512	3	17977	0.333333333333333	0.08303662	0.2583264976	low-density lipoprotein particle receptor activity	molecular_function	cargo receptor activity	387529	ldlra
+GO:0005080	2	512	16	17977	0.125	0.07467697	0.2583264976	protein kinase C binding	molecular_function	binding	406452,560560	sqstm1,ywhag2
+GO:0005515	16	512	381	17977	0.041994750656168	0.07963835	0.2583264976	protein binding	molecular_function	binding	280649,30277,323201,324490,335888,337132,405787,406372,447856,450062,567192,568207,58098,792160,796537,797137	plk1,mdka,marcksb,eif4ebp3l,mylipa,anxa5b,fibpb,wdr5,utp3,eif1axa,cd59,sybu,arntl1a,irf1b,kdrl,ier2a
+GO:0008121	1	512	3	17977	0.333333333333333	0.08303662	0.2583264976	ubiquinol-cytochrome-c reductase activity	molecular_function	catalytic activity	436768	uqcrq
+GO:0008131	1	512	3	17977	0.333333333333333	0.08303662	0.2583264976	primary amine oxidase activity	molecular_function	catalytic activity	541429	aoc2
+GO:0008201	5	512	80	17977	0.0625	0.07793771	0.2583264976	heparin binding	molecular_function	binding	266988,30277,30314,30354,393096	smoc2,mdka,apoeb,lpl,lipg
+GO:0010997	1	512	3	17977	0.333333333333333	0.08303662	0.2583264976	anaphase-promoting complex binding	molecular_function	binding	406353	cdc20
+GO:0015293	6	512	106	17977	0.0566037735849057	0.08231264	0.2583264976	symporter activity	molecular_function	transporter activity	100534752,322362,323439,393932,445176,561024	slc16a1a,slc25a3b,slc1a3a,slc15a4,mfsd2ab,slc6a13l
+GO:0015369	1	512	3	17977	0.333333333333333	0.08303662	0.2583264976	calcium:proton antiporter activity	molecular_function	transporter activity	558687	cax2
+GO:0015450	1	512	3	17977	0.333333333333333	0.08303662	0.2583264976	P-P-bond-hydrolysis-driven protein transmembrane transporter activity	molecular_function	transporter activity	436772	sec61g
+GO:0015616	1	512	3	17977	0.333333333333333	0.08303662	0.2583264976	DNA translocase activity	molecular_function	catalytic activity	100005291	ercc6l
+GO:0015929	1	512	3	17977	0.333333333333333	0.08303662	0.2583264976	hexosaminidase activity	molecular_function	catalytic activity	565372	hexdc
+GO:0016290	1	512	3	17977	0.333333333333333	0.08303662	0.2583264976	palmitoyl-CoA hydrolase activity	molecular_function	catalytic activity	406370	pla2g6
+GO:0016405	1	512	3	17977	0.333333333333333	0.08303662	0.2583264976	CoA-ligase activity	molecular_function	catalytic activity	335159	acsbg2
+GO:0018024	3	512	36	17977	0.0833333333333333	0.08214032	0.2583264976	histone-lysine N-methyltransferase activity	molecular_function	catalytic activity	557048,664754,768133	kmt2a,ezh1,ezh2
+GO:0019955	3	512	34	17977	0.0882352941176471	0.07171319	0.2583264976	cytokine binding	molecular_function	binding	100333821,560202,565104	tnfrsf11a,ghrb,lifrb
+GO:0032549	1	512	3	17977	0.333333333333333	0.08303662	0.2583264976	ribonucleoside binding	molecular_function	binding	325603	polr1b
+GO:0034632	1	512	3	17977	0.333333333333333	0.08303662	0.2583264976	retinol transmembrane transporter activity	molecular_function	transporter activity	30077	rbp4
+GO:0042169	1	512	3	17977	0.333333333333333	0.08303662	0.2583264976	SH2 domain binding	molecular_function	binding	568356	afap1
+GO:0044548	1	512	3	17977	0.333333333333333	0.08303662	0.2583264976	S100 protein binding	molecular_function	binding	436825	s100b
+GO:0046873	2	512	15	17977	0.133333333333333	0.06656169	0.2583264976	metal ion transmembrane transporter activity	molecular_function	transporter activity	571446,58153	LOC571446,slc40a1
+GO:0047499	1	512	3	17977	0.333333333333333	0.08303662	0.2583264976	calcium-independent phospholipase A2 activity	molecular_function	catalytic activity	406370	pla2g6
+GO:0050840	2	512	15	17977	0.133333333333333	0.06656169	0.2583264976	extracellular matrix binding	molecular_function	binding	266988,321357	smoc2,sparc
+GO:0051010	2	512	17	17977	0.117647058823529	0.08308747	0.2583264976	microtubule plus-end binding	molecular_function	binding	394246,562450	pafah1b1a,clip3
+GO:0051213	5	512	78	17977	0.0641025641025641	0.07158015	0.2583264976	dioxygenase activity	molecular_function	catalytic activity	103283056,324079,373132,393714,724056	tet3,adi1,p4ha2,cdo1,alox5b.2
+GO:0061575	2	512	15	17977	0.133333333333333	0.06656169	0.2583264976	cyclin-dependent protein serine/threonine kinase activator activity	molecular_function	molecular function regulator	415200,561930	zgc:86839,cks2
+GO:0070579	1	512	3	17977	0.333333333333333	0.08303662	0.2583264976	methylcytosine dioxygenase activity	molecular_function	catalytic activity	103283056	tet3
+GO:0097001	1	512	3	17977	0.333333333333333	0.08303662	0.2583264976	ceramide binding	molecular_function	binding	445125	pltp
+GO:0097363	1	512	3	17977	0.333333333333333	0.08303662	0.2583264976	protein O-GlcNAc transferase activity	molecular_function	catalytic activity	337685	ogt.1
+GO:0101005	1	512	3	17977	0.333333333333333	0.08303662	0.2583264976	ubiquitinyl hydrolase activity	molecular_function	catalytic activity	794838	LOC794838
+GO:1990757	1	512	3	17977	0.333333333333333	0.08303662	0.2583264976	ubiquitin ligase activator activity	molecular_function	molecular function regulator	406353	cdc20
+GO:1990841	2	512	15	17977	0.133333333333333	0.06656169	0.2583264976	promoter-specific chromatin binding	molecular_function	binding	30498,768133	egr1,ezh2
+GO:0000976	5	512	85	17977	0.0588235294117647	0.0951054	0.2653909464	transcription regulatory region sequence-specific DNA binding	molecular_function	binding	406204,436895,564009,58098,792160	per1b,irf8,ciarta,arntl1a,irf1b
+GO:0001006	1	512	4	17977	0.25	0.1091569	0.2653909464	RNA polymerase III type 3 promoter sequence-specific DNA binding	molecular_function	binding	334402	brf1a
+GO:0001217	1	512	4	17977	0.25	0.1091569	0.2653909464	bacterial-type RNA polymerase transcriptional repressor activity, sequence-specific DNA binding	molecular_function	transcription regulator activity	565952	e2f8
+GO:0001222	1	512	4	17977	0.25	0.1091569	0.2653909464	transcription corepressor binding	molecular_function	binding	406204	per1b
+GO:0003724	4	512	63	17977	0.0634920634920635	0.1046338	0.2653909464	RNA helicase activity	molecular_function	catalytic activity	321948,336645,566947,799650	ddx46,dhx16,ddx3a,ddx21
+GO:0003774	7	512	134	17977	0.0522388059701493	0.08867672	0.2653909464	motor activity	molecular_function	catalytic activity	100136875,195818,30627,393796,406297,449979,767754	kif2c,kif11,kif23,kif4,dynll1,kif20ba,cenpe
+GO:0003950	3	512	40	17977	0.075	0.1047856	0.2653909464	NAD+ ADP-ribosyltransferase activity	molecular_function	catalytic activity	100884135,791754,799852	gig2i,si:ch211-219a4.3,si:ch211-219a4.6
+GO:0004051	1	512	4	17977	0.25	0.1091569	0.2653909464	arachidonate 5-lipoxygenase activity	molecular_function	catalytic activity	724056	alox5b.2
+GO:0004096	1	512	4	17977	0.25	0.1091569	0.2653909464	catalase activity	molecular_function	catalytic activity+++antioxidant activity	30068	cat
+GO:0004105	1	512	4	17977	0.25	0.1091569	0.2653909464	choline-phosphate cytidylyltransferase activity	molecular_function	catalytic activity	100001552	pcyt1ba
+GO:0004128	1	512	4	17977	0.25	0.1091569	0.2653909464	cytochrome-b5 reductase activity, acting on NAD(P)H	molecular_function	catalytic activity	751641	cyb5r2
+GO:0004356	1	512	4	17977	0.25	0.1091569	0.2653909464	glutamate-ammonia ligase activity	molecular_function	catalytic activity	336473	glulb
+GO:0004534	1	512	4	17977	0.25	0.1091569	0.2653909464	5'-3' exoribonuclease activity	molecular_function	catalytic activity	321940	xrn2
+GO:0004563	1	512	4	17977	0.25	0.1091569	0.2653909464	beta-N-acetylhexosaminidase activity	molecular_function	catalytic activity	565372	hexdc
+GO:0004705	1	512	4	17977	0.25	0.1091569	0.2653909464	JUN kinase activity	molecular_function	catalytic activity	569698	mapk10
+GO:0004869	2	512	19	17977	0.105263157894737	0.1007019	0.2653909464	cysteine-type endopeptidase inhibitor activity	molecular_function	molecular function regulator	368621,561073	si:busm1-57f23.1,zgc:194981
+GO:0004925	1	512	4	17977	0.25	0.1091569	0.2653909464	prolactin receptor activity	molecular_function	molecular transducer activity	565104	lifrb
+GO:0005112	2	512	19	17977	0.105263157894737	0.1007019	0.2653909464	Notch binding	molecular_function	binding	30120,30141	dlc,dlb
+GO:0005524	55	512	1623	17977	0.0338878619839803	0.09977621	0.2653909464	ATP binding	molecular_function	binding	100005291,100126123,100136875,100137124,100307076,108180207,140744,192323,192338,195818,280649,30488,30627,30724,321452,321948,323733,327060,336473,336645,337598,353295,360218,393796,406277,415254,445405,449979,492781,494489,541538,553465,553615,555838,558924,559403,562242,562935,565111,566409,566947,567919,568213,569698,572469,57934,767754,777765,791894,794083,794238,796537,797853,799650,80973	ercc6l,hsp70.1,kif2c,dgkh,bub1,LOC108180207,ckbb,mcm3,mcm2,kif11,plk1,csnk2a2a,kif23,melk,smc2,ddx46,top2a,wee1,glulb,dhx16,mcm4,smarca4a,pbk,kif4,rbm4.3,zgc:86598,sars,kif20ba,mvda,atp2a1l,zgc:110540,sik1,zap70,dhx34,abca1a,acaca,rps6kb1a,si:dkey-4p15.3,peak1,mcm6,ddx3a,sik2b,tesk2,mapk10,pim1,actb1,cenpe,gk5,aurkb,pdk2a,abcg4b,kdrl,ube2a,ddx21,cdk1
+GO:0008097	1	512	4	17977	0.25	0.1091569	0.2653909464	5S rRNA binding	molecular_function	binding	322404	nop53
+GO:0008142	1	512	4	17977	0.25	0.1091569	0.2653909464	oxysterol binding	molecular_function	binding	334189	insig1
+GO:0009008	1	512	4	17977	0.25	0.1091569	0.2653909464	DNA-methyltransferase activity	molecular_function	catalytic activity	553189	dnmt3ab
+GO:0015288	1	512	4	17977	0.25	0.1091569	0.2653909464	porin activity	molecular_function	transporter activity	334582	vdac1
+GO:0016262	1	512	4	17977	0.25	0.1091569	0.2653909464	protein N-acetylglucosaminyltransferase activity	molecular_function	catalytic activity	337685	ogt.1
+GO:0016896	1	512	4	17977	0.25	0.1091569	0.2653909464	exoribonuclease activity, producing 5'-phosphomonoesters	molecular_function	catalytic activity	321940	xrn2
+GO:0017150	1	512	4	17977	0.25	0.1091569	0.2653909464	tRNA dihydrouridine synthase activity	molecular_function	catalytic activity	393647	dus3l
+GO:0019136	1	512	4	17977	0.25	0.1091569	0.2653909464	deoxynucleoside kinase activity	molecular_function	catalytic activity	541538	zgc:110540
+GO:0019841	1	512	4	17977	0.25	0.1091569	0.2653909464	retinol binding	molecular_function	binding	30077	rbp4
+GO:0030160	1	512	4	17977	0.25	0.1091569	0.2653909464	GKAP/Homer scaffold activity	molecular_function	binding+++structural molecule activity	572407	si:ch1073-450f2.1
+GO:0031210	2	512	18	17977	0.111111111111111	0.09176987	0.2653909464	phosphatidylcholine binding	molecular_function	binding	100001552,445125	pcyt1ba,pltp
+GO:0031625	4	512	62	17977	0.0645161290322581	0.1001141	0.2653909464	ubiquitin protein ligase binding	molecular_function	binding	100000242,100126123,541318,794380	zgc:92606,hsp70.1,spopla,zgc:194655
+GO:0035877	1	512	4	17977	0.25	0.1091569	0.2653909464	death effector domain binding	molecular_function	binding	561021	si:dkey-103e21.5
+GO:0038187	1	512	4	17977	0.25	0.1091569	0.2653909464	pattern recognition receptor activity	molecular_function	molecular transducer activity	100332583	LOC100332583
+GO:0042030	1	512	4	17977	0.25	0.1091569	0.2653909464	ATPase inhibitor activity	molecular_function	molecular function regulator	797213	si:ch211-42i9.8
+GO:0043295	1	512	4	17977	0.25	0.1091569	0.2653909464	glutathione binding	molecular_function	binding	564619	gstr
+GO:0044183	2	512	18	17977	0.111111111111111	0.09176987	0.2653909464	protein binding involved in protein folding	molecular_function	binding	100126123,562935	hsp70.1,si:dkey-4p15.3
+GO:0047429	1	512	4	17977	0.25	0.1091569	0.2653909464	nucleoside-triphosphate diphosphatase activity	molecular_function	catalytic activity	324134	asmtl
+GO:0048306	2	512	18	17977	0.111111111111111	0.09176987	0.2653909464	calcium-dependent protein binding	molecular_function	binding	325758,436825	si:ch211-105c13.3,s100b
+GO:0050699	1	512	4	17977	0.25	0.1091569	0.2653909464	WW domain binding	molecular_function	binding	406656	ndfip2
+GO:0061133	1	512	4	17977	0.25	0.1091569	0.2653909464	endopeptidase activator activity	molecular_function	molecular function regulator	30647	psme2
+GO:0070300	1	512	4	17977	0.25	0.1091569	0.2653909464	phosphatidic acid binding	molecular_function	binding	445125	pltp
+GO:0070891	1	512	4	17977	0.25	0.1091569	0.2653909464	lipoteichoic acid binding	molecular_function	binding	567192	cd59
+GO:0090554	1	512	4	17977	0.25	0.1091569	0.2653909464	phosphatidylcholine-translocating ATPase activity	molecular_function	catalytic activity+++transporter activity	558924	abca1a
+GO:0090556	1	512	4	17977	0.25	0.1091569	0.2653909464	phosphatidylserine-translocating ATPase activity	molecular_function	catalytic activity+++transporter activity	558924	abca1a
+GO:0102148	1	512	4	17977	0.25	0.1091569	0.2653909464	N-acetyl-beta-D-galactosaminidase activity	molecular_function	catalytic activity	565372	hexdc
+GO:1903924	1	512	4	17977	0.25	0.1091569	0.2653909464	estradiol binding	molecular_function	binding	567365	akap12b
+GO:0005506	8	512	170	17977	0.0470588235294118	0.1133041	0.2741745439	iron ion binding	molecular_function	binding	324079,373132,386661,393714,406662,414331,60640,724056	adi1,p4ha2,scd,cdo1,msmo1,cyp51,cyp19a1b,alox5b.2
+GO:0003697	4	512	65	17977	0.0615384615384615	0.1139454	0.2744318789	single-stranded DNA binding	molecular_function	binding	192323,192338,337598,566409	mcm3,mcm2,mcm4,mcm6
+GO:0004620	3	512	42	17977	0.0714285714285714	0.1169292	0.2789985098	phospholipase activity	molecular_function	catalytic activity	30354,393096,492789	lpl,lipg,zgc:101699
+GO:0071949	3	512	42	17977	0.0714285714285714	0.1169292	0.2789985098	FAD binding	molecular_function	binding	100333321,751641,83774	prodha,cyb5r2,cry2
+GO:0016887	8	512	172	17977	0.0465116279069767	0.1189314	0.2824620750	ATPase activity	molecular_function	catalytic activity	100126123,100136875,100535316,30627,321452,449979,494489,562935	hsp70.1,kif2c,LOC100535316,kif23,smc2,kif20ba,atp2a1l,si:dkey-4p15.3
+GO:0008168	9	512	201	17977	0.0447761194029851	0.1213828	0.2856393413	methyltransferase activity	molecular_function	catalytic activity	324134,378847,393741,406719,553189,557048,664754,768133,81540	asmtl,mtr,pcmtl,prdm8,dnmt3ab,kmt2a,ezh1,ezh2,tyms
+GO:0046983	9	512	201	17977	0.0447761194029851	0.1213828	0.2856393413	protein dimerization activity	molecular_function	binding	100037309,100498672,101885420,252851,324413,405873,493915,58098,724016	srebf2,atoh1c,e2f1,mycn,bhlhe40,mycla,atoh1b,arntl1a,npas4a
+GO:0005544	4	512	67	17977	0.0597014925373134	0.1236078	0.2895470384	calcium-dependent phospholipid binding	molecular_function	binding	325557,337132,492789,554118	anxa2a,anxa5b,zgc:101699,anxa13l
+GO:0004477	1	512	5	17977	0.2	0.1345345	0.2912075886	methenyltetrahydrofolate cyclohydrolase activity	molecular_function	catalytic activity	100004977	mthfd2
+GO:0004488	1	512	5	17977	0.2	0.1345345	0.2912075886	methylenetetrahydrofolate dehydrogenase (NADP+) activity	molecular_function	catalytic activity	100004977	mthfd2
+GO:0004499	1	512	5	17977	0.2	0.1345345	0.2912075886	N,N-dimethylaniline monooxygenase activity	molecular_function	catalytic activity	794311	fmo5
+GO:0004634	1	512	5	17977	0.2	0.1345345	0.2912075886	phosphopyruvate hydratase activity	molecular_function	catalytic activity	334116	eno1a
+GO:0004719	1	512	5	17977	0.2	0.1345345	0.2912075886	protein-L-isoaspartate (D-aspartate) O-methyltransferase activity	molecular_function	catalytic activity	393741	pcmtl
+GO:0008308	1	512	5	17977	0.2	0.1345345	0.2912075886	voltage-gated anion channel activity	molecular_function	transporter activity	334582	vdac1
+GO:0008796	1	512	5	17977	0.2	0.1345345	0.2912075886	bis(5'-nucleosyl)-tetraphosphatase activity	molecular_function	catalytic activity	323464	lsg1
+GO:0015129	1	512	5	17977	0.2	0.1345345	0.2912075886	lactate transmembrane transporter activity	molecular_function	transporter activity	100534752	slc16a1a
+GO:0016174	1	512	5	17977	0.2	0.1345345	0.2912075886	NAD(P)H oxidase activity	molecular_function	catalytic activity	794311	fmo5
+GO:0016891	1	512	5	17977	0.2	0.1345345	0.2912075886	endoribonuclease activity, producing 5'-phosphomonoesters	molecular_function	catalytic activity	567338	pld6
+GO:0030284	1	512	5	17977	0.2	0.1345345	0.2912075886	estrogen receptor activity	molecular_function	molecular transducer activity	567365	akap12b
+GO:0030628	1	512	5	17977	0.2	0.1345345	0.2912075886	pre-mRNA 3'-splice site binding	molecular_function	binding	492495	slu7
+GO:0032422	1	512	5	17977	0.2	0.1345345	0.2912075886	purine-rich negative regulatory element binding	molecular_function	binding	569414	purg
+GO:0035255	1	512	5	17977	0.2	0.1345345	0.2912075886	ionotropic glutamate receptor binding	molecular_function	binding	572407	si:ch1073-450f2.1
+GO:0035925	1	512	5	17977	0.2	0.1345345	0.2912075886	mRNA 3'-UTR AU-rich region binding	molecular_function	binding	394092	nudt21
+GO:0043912	1	512	5	17977	0.2	0.1345345	0.2912075886	D-lysine oxidase activity	molecular_function	catalytic activity	541429	aoc2
+GO:0050750	1	512	5	17977	0.2	0.1345345	0.2912075886	low-density lipoprotein particle receptor binding	molecular_function	binding	30314	apoeb
+GO:1990050	1	512	5	17977	0.2	0.1345345	0.2912075886	phosphatidic acid transporter activity	molecular_function	transporter activity	445125	pltp
+GO:0004198	2	512	23	17977	0.0869565217391304	0.1385177	0.2960815837	calcium-dependent cysteine-type endopeptidase activity	molecular_function	catalytic activity	555435,678524	adgb,zgc:136872
+GO:0004806	2	512	23	17977	0.0869565217391304	0.1385177	0.2960815837	triglyceride lipase activity	molecular_function	catalytic activity	30354,393096	lpl,lipg
+GO:0097153	2	512	23	17977	0.0869565217391304	0.1385177	0.2960815837	cysteine-type endopeptidase activity involved in apoptotic process	molecular_function	catalytic activity	140621,561021	casp3a,si:dkey-103e21.5
+GO:0004623	2	512	24	17977	0.0833333333333333	0.1483995	0.3145824112	phospholipase A2 activity	molecular_function	catalytic activity	100149324,492789	proca1,zgc:101699
+GO:0005540	2	512	24	17977	0.0833333333333333	0.1483995	0.3145824112	hyaluronic acid binding	molecular_function	binding	323465,493635	vcanb,hapln1a
+GO:0003854	1	512	6	17977	0.166666666666667	0.1591905	0.3240663750	3-beta-hydroxy-delta5-steroid dehydrogenase activity	molecular_function	catalytic activity	550369	nsdhl
+GO:0004536	1	512	6	17977	0.166666666666667	0.1591905	0.3240663750	deoxyribonuclease activity	molecular_function	catalytic activity	393843	dnase1l4.2
+GO:0005381	1	512	6	17977	0.166666666666667	0.1591905	0.3240663750	iron ion transmembrane transporter activity	molecular_function	transporter activity	58153	slc40a1
+GO:0015187	1	512	6	17977	0.166666666666667	0.1591905	0.3240663750	glycine transmembrane transporter activity	molecular_function	transporter activity	767662	slc25a38a
+GO:0016763	2	512	25	17977	0.08	0.1584181	0.3240663750	transferase activity, transferring pentosyl groups	molecular_function	catalytic activity	791754,799852	si:ch211-219a4.3,si:ch211-219a4.6
+GO:0017075	2	512	25	17977	0.08	0.1584181	0.3240663750	syntaxin-1 binding	molecular_function	binding	559698,568207	sypa,sybu
+GO:0019992	1	512	6	17977	0.166666666666667	0.1591905	0.3240663750	diacylglycerol binding	molecular_function	binding	445125	pltp
+GO:0044389	1	512	6	17977	0.166666666666667	0.1591905	0.3240663750	ubiquitin-like protein ligase binding	molecular_function	binding	799852	si:ch211-219a4.6
+GO:0051015	10	512	242	17977	0.0413223140495868	0.154323	0.3240663750	actin filament binding	molecular_function	binding	100038776,100536888,323201,323285,335474,336504,386817,394243,566151,566764	actr3b,espnla,marcksb,scinla,arpc1b,arpc5a,shroom2a,arpc1a,gas2l3,scin
+GO:1990239	1	512	6	17977	0.166666666666667	0.1591905	0.3240663750	steroid hormone binding	molecular_function	binding	567365	akap12b
+GO:0004879	4	512	75	17977	0.0533333333333333	0.1654384	0.3354541470	nuclear receptor activity	molecular_function	transcription regulator activity	494487,563150,567365,571948	nr1d1,nr1d4a,akap12b,nr1d4b
+GO:0016298	2	512	26	17977	0.0769230769230769	0.1685576	0.3404332630	lipase activity	molecular_function	catalytic activity	30354,393096	lpl,lipg
+GO:0000254	1	512	7	17977	0.142857142857143	0.1831455	0.3416496055	C-4 methylsterol oxidase activity	molecular_function	catalytic activity	406662	msmo1
+GO:0001972	1	512	7	17977	0.142857142857143	0.1831455	0.3416496055	retinoic acid binding	molecular_function	binding	336492	ptgdsb.1
+GO:0003729	8	512	190	17977	0.0421052631578947	0.1758794	0.3416496055	mRNA binding	molecular_function	binding	30967,323453,334222,393815,394092,402952,403025,406277	igf2bp3,eif4g2a,hnrnpa0b,qki2,nudt21,zgc:77262,casc3,rbm4.3
+GO:0003886	1	512	7	17977	0.142857142857143	0.1831455	0.3416496055	DNA (cytosine-5-)-methyltransferase activity	molecular_function	catalytic activity	553189	dnmt3ab
+GO:0004530	1	512	7	17977	0.142857142857143	0.1831455	0.3416496055	deoxyribonuclease I activity	molecular_function	catalytic activity	393843	dnase1l4.2
+GO:0004559	1	512	7	17977	0.142857142857143	0.1831455	0.3416496055	alpha-mannosidase activity	molecular_function	catalytic activity	100003570	man2b2
+GO:0004656	1	512	7	17977	0.142857142857143	0.1831455	0.3416496055	procollagen-proline 4-dioxygenase activity	molecular_function	catalytic activity	373132	p4ha2
+GO:0004711	1	512	7	17977	0.142857142857143	0.1831455	0.3416496055	ribosomal protein S6 kinase activity	molecular_function	catalytic activity	562242	rps6kb1a
+GO:0004715	3	512	51	17977	0.0588235294117647	0.1771407	0.3416496055	non-membrane spanning protein tyrosine kinase activity	molecular_function	catalytic activity	30724,327060,553615	melk,wee1,zap70
+GO:0004740	1	512	7	17977	0.142857142857143	0.1831455	0.3416496055	pyruvate dehydrogenase (acetyl-transferring) kinase activity	molecular_function	catalytic activity	794083	pdk2a
+GO:0004842	8	512	190	17977	0.0421052631578947	0.1758794	0.3416496055	ubiquitin-protein transferase activity	molecular_function	catalytic activity	100535316,192314,321575,335888,368848,406350,561226,563681	LOC100535316,dtl,maea,mylipa,g2e3,uhrf1,lnx1,si:ch211-212k18.15
+GO:0005315	1	512	7	17977	0.142857142857143	0.1831455	0.3416496055	inorganic phosphate transmembrane transporter activity	molecular_function	transporter activity	322362	slc25a3b
+GO:0005337	1	512	7	17977	0.142857142857143	0.1831455	0.3416496055	nucleoside transmembrane transporter activity	molecular_function	transporter activity	503537	slc29a2
+GO:0008198	2	512	27	17977	0.0740740740740741	0.1788032	0.3416496055	ferrous iron binding	molecular_function	binding	393714,406286	cdo1,zgc:56095
+GO:0008420	1	512	7	17977	0.142857142857143	0.1831455	0.3416496055	RNA polymerase II CTD heptapeptide repeat phosphatase activity	molecular_function	catalytic activity	321465	ctdsp2
+GO:0008429	1	512	7	17977	0.142857142857143	0.1831455	0.3416496055	phosphatidylethanolamine binding	molecular_function	binding	445125	pltp
+GO:0008525	1	512	7	17977	0.142857142857143	0.1831455	0.3416496055	phosphatidylcholine transporter activity	molecular_function	transporter activity	445125	pltp
+GO:0015662	1	512	7	17977	0.142857142857143	0.1831455	0.3416496055	ATPase activity, coupled to transmembrane movement of ions, phosphorylative mechanism	molecular_function	catalytic activity+++transporter activity	494489	atp2a1l
+GO:0030250	1	512	7	17977	0.142857142857143	0.1831455	0.3416496055	guanylate cyclase activator activity	molecular_function	molecular function regulator	114426	odc1
+GO:0031072	2	512	27	17977	0.0740740740740741	0.1788032	0.3416496055	heat shock protein binding	molecular_function	binding	100126123,562935	hsp70.1,si:dkey-4p15.3
+GO:0034185	1	512	7	17977	0.142857142857143	0.1831455	0.3416496055	apolipoprotein binding	molecular_function	binding	30354	lpl
+GO:0000981	41	512	1244	17977	0.0329581993569132	0.1838161	0.3416581859	DNA-binding transcription factor activity, RNA polymerase II-specific	molecular_function	transcription regulator activity	100000492,100007087,100009655,100037309,100126111,100498672,101883087,101885420,140817,252851,30190,30498,30619,30674,324413,335901,393749,393875,394198,405873,406512,436895,493915,554137,556134,556200,558490,558540,559076,560787,563719,565869,565952,569109,569414,58098,724016,768186,792160,793507,795099	mafaa,si:dkey-23i12.7,etv7,srebf2,znf1137,atoh1c,LOC101883087,e2f1,cebpd,mycn,egr2b,egr1,fli1a,tefa,bhlhe40,klf15,tfdp1b,sox4b,fosab,mycla,nfe2l3,irf8,atoh1b,hbp1,zbtb47a,si:ch211-117k10.3,foxj2,mybl1,klf11b,klf11a,foxo4,klf9,e2f8,dbpb,purg,arntl1a,npas4a,zgc:153115,irf1b,fosl1b,egr4
+GO:0003714	5	512	107	17977	0.0467289719626168	0.1898909	0.3481357243	transcription corepressor activity	molecular_function	transcription regulator activity	402921,569908,692261,791754,799852	bcor,elmsan1a,zgc:136336,si:ch211-219a4.3,si:ch211-219a4.6
+GO:0003779	13	512	346	17977	0.0375722543352601	0.1900156	0.3481357243	actin binding	molecular_function	binding	321575,323285,335474,337142,394235,394243,402820,406384,559032,566151,566329,566764,799355	maea,scinla,arpc1b,cnn3b,pfn2,arpc1a,tmsb,gmfb,map1b,gas2l3,tmsb2,scin,pfn1
+GO:0008094	2	512	28	17977	0.0714285714285714	0.1891404	0.3481357243	DNA-dependent ATPase activity	molecular_function	catalytic activity	323733,353295	top2a,smarca4a
+GO:0035064	2	512	28	17977	0.0714285714285714	0.1891404	0.3481357243	methylated histone binding	molecular_function	binding	406350,792168	uhrf1,ing5a
+GO:0051082	4	512	80	17977	0.05	0.1938118	0.3538272363	unfolded protein binding	molecular_function	binding	100126123,562935,568182,641576	hsp70.1,si:dkey-4p15.3,pfdn5,zgc:122979
+GO:0003916	1	512	8	17977	0.125	0.2064192	0.3626474301	DNA topoisomerase activity	molecular_function	catalytic activity	323733	top2a
+GO:0003993	1	512	8	17977	0.125	0.2064192	0.3626474301	acid phosphatase activity	molecular_function	catalytic activity	557652	si:dkeyp-27c8.2
+GO:0004111	1	512	8	17977	0.125	0.2064192	0.3626474301	creatine kinase activity	molecular_function	catalytic activity	140744	ckbb
+GO:0005021	1	512	8	17977	0.125	0.2064192	0.3626474301	vascular endothelial growth factor-activated receptor activity	molecular_function	molecular transducer activity+++catalytic activity	796537	kdrl
+GO:0005049	1	512	8	17977	0.125	0.2064192	0.3626474301	nuclear export signal receptor activity	molecular_function	molecular carrier activity	407710	xpo7
+GO:0016765	1	512	8	17977	0.125	0.2064192	0.3626474301	transferase activity, transferring alkyl or aryl (other than methyl) groups	molecular_function	catalytic activity	552997	fdps
+GO:0016780	1	512	8	17977	0.125	0.2064192	0.3626474301	phosphotransferase activity, for other substituted phosphate groups	molecular_function	catalytic activity	559970	si:dkey-205h13.1
+GO:0019838	2	512	29	17977	0.0689655172413793	0.199556	0.3626474301	growth factor binding	molecular_function	binding	560202,796537	ghrb,kdrl
+GO:0031369	1	512	8	17977	0.125	0.2064192	0.3626474301	translation initiation factor binding	molecular_function	binding	334234	eif3c
+GO:0031419	1	512	8	17977	0.125	0.2064192	0.3626474301	cobalamin binding	molecular_function	binding	378847	mtr
+GO:0047498	1	512	8	17977	0.125	0.2064192	0.3626474301	calcium-dependent phospholipase A2 activity	molecular_function	catalytic activity	492789	zgc:101699
+GO:0042393	5	512	111	17977	0.045045045045045	0.2098985	0.3675014693	histone binding	molecular_function	binding	353295,406350,406372,415200,561930	smarca4a,uhrf1,wdr5,zgc:86839,cks2
+GO:0003723	25	512	738	17977	0.0338753387533875	0.2119748	0.3698743959	RNA binding	molecular_function	binding	100332577,30967,321940,321948,323453,334222,334234,336645,393815,393974,394092,402952,403025,406277,406341,445101,450062,554137,555838,560384,563247,566947,571411,791754,799650	nop9,igf2bp3,xrn2,ddx46,eif4g2a,hnrnpa0b,eif3c,dhx16,qki2,eif3g,nudt21,zgc:77262,casc3,rbm4.3,caprin1b,rpusd4,eif1axa,hbp1,dhx34,mbnl2,rsl1d1,ddx3a,bicc1b,si:ch211-219a4.3,ddx21
+GO:0043565	11	512	294	17977	0.0374149659863946	0.2187738	0.3804439302	sequence-specific DNA binding	molecular_function	binding	100000492,100009655,30498,30619,30674,494487,558490,563150,563719,567365,571948	mafaa,etv7,egr1,fli1a,tefa,nr1d1,foxj2,nr1d4a,foxo4,akap12b,nr1d4b
+GO:0016616	3	512	57	17977	0.0526315789473684	0.2210924	0.3806053732	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	molecular_function	catalytic activity	100006589,550369,559054	idh1,nsdhl,hmgcra
+GO:0043130	3	512	57	17977	0.0526315789473684	0.2210924	0.3806053732	ubiquitin binding	molecular_function	binding	324654,415200,561930	aup1,zgc:86839,cks2
+GO:0050661	2	512	31	17977	0.0645161290322581	0.2205713	0.3806053732	NADP binding	molecular_function	binding	559054,794311	hmgcra,fmo5
+GO:0004322	1	512	9	17977	0.111111111111111	0.2290311	0.3827132062	ferroxidase activity	molecular_function	catalytic activity	406286	zgc:56095
+GO:0005158	1	512	9	17977	0.111111111111111	0.2290311	0.3827132062	insulin receptor binding	molecular_function	binding	393285	irs2a
+GO:0005347	1	512	9	17977	0.111111111111111	0.2290311	0.3827132062	ATP transmembrane transporter activity	molecular_function	transporter activity	569227	slc25a25b
+GO:0008301	1	512	9	17977	0.111111111111111	0.2290311	0.3827132062	DNA binding, bending	molecular_function	binding	550466	hmgb3b
+GO:0008553	1	512	9	17977	0.111111111111111	0.2290311	0.3827132062	proton-exporting ATPase activity, phosphorylative mechanism	molecular_function	catalytic activity+++transporter activity	494489	atp2a1l
+GO:0016936	1	512	9	17977	0.111111111111111	0.2290311	0.3827132062	galactoside binding	molecular_function	binding	337597	lgals9l1
+GO:0044877	1	512	9	17977	0.111111111111111	0.2290311	0.3827132062	protein-containing complex binding	molecular_function	binding	393280	nuf2
+GO:0050811	1	512	9	17977	0.111111111111111	0.2290311	0.3827132062	GABA receptor binding	molecular_function	binding	100000242	zgc:92606
+GO:0051018	1	512	9	17977	0.111111111111111	0.2290311	0.3827132062	protein kinase A binding	molecular_function	binding	567365	akap12b
+GO:0042802	4	512	87	17977	0.0459770114942529	0.2357738	0.3927011669	identical protein binding	molecular_function	binding	30120,30314,394092,552960	dlc,apoeb,nudt21,cybrd1
+GO:0001227	3	512	61	17977	0.0491803278688525	0.2514924	0.4071445472	DNA-binding transcription repressor activity, RNA polymerase II-specific	molecular_function	transcription regulator activity	323882,494487,793278	insm1b,nr1d1,bcl6b
+GO:0004143	1	512	10	17977	0.1	0.251	0.4071445472	diacylglycerol kinase activity	molecular_function	catalytic activity	100137124	dgkh
+GO:0008353	1	512	10	17977	0.1	0.251	0.4071445472	RNA polymerase II CTD heptapeptide repeat kinase activity	molecular_function	catalytic activity	80973	cdk1
+GO:0015501	1	512	10	17977	0.1	0.251	0.4071445472	glutamate:sodium symporter activity	molecular_function	transporter activity	323439	slc1a3a
+GO:0015631	2	512	34	17977	0.0588235294117647	0.252382	0.4071445472	tubulin binding	molecular_function	binding	436836,449651	stmn4l,stmn2a
+GO:0016829	6	512	149	17977	0.0402684563758389	0.2516444	0.4071445472	lyase activity	molecular_function	catalytic activity	322670,334116,334431,492781,560753,562007	aco2,eno1a,adsl,mvda,tpi1b,irg1l
+GO:0046933	1	512	10	17977	0.1	0.251	0.4071445472	proton-transporting ATP synthase activity, rotational mechanism	molecular_function	catalytic activity+++transporter activity	335709	atp5d
+GO:0048038	1	512	10	17977	0.1	0.251	0.4071445472	quinone binding	molecular_function	binding	541429	aoc2
+GO:0070491	1	512	10	17977	0.1	0.251	0.4071445472	repressing transcription factor binding	molecular_function	binding	692261	zgc:136336
+GO:0071933	1	512	10	17977	0.1	0.251	0.4071445472	Arp2/3 complex binding	molecular_function	binding	406384	gmfb
+GO:0004115	1	512	11	17977	0.0909090909090909	0.272344	0.4293204440	3',5'-cyclic-AMP phosphodiesterase activity	molecular_function	catalytic activity	563432	si:ch211-79e4.4
+GO:0004865	1	512	11	17977	0.0909090909090909	0.272344	0.4293204440	protein serine/threonine phosphatase inhibitor activity	molecular_function	molecular function regulator	564838	ppp1r14ba
+GO:0005546	2	512	36	17977	0.0555555555555556	0.2736604	0.4293204440	phosphatidylinositol-4,5-bisphosphate binding	molecular_function	binding	323285,566764	scinla,scin
+GO:0008093	1	512	11	17977	0.0909090909090909	0.272344	0.4293204440	cytoskeletal adaptor activity	molecular_function	binding	566151	gas2l3
+GO:0008239	1	512	11	17977	0.0909090909090909	0.272344	0.4293204440	dipeptidyl-peptidase activity	molecular_function	catalytic activity	322527	dpp3
+GO:0017046	2	512	36	17977	0.0555555555555556	0.2736604	0.4293204440	peptide hormone binding	molecular_function	binding	560202,58153	ghrb,slc40a1
+GO:0043548	1	512	11	17977	0.0909090909090909	0.272344	0.4293204440	phosphatidylinositol 3-kinase binding	molecular_function	binding	393285	irs2a
+GO:0051117	1	512	11	17977	0.0909090909090909	0.272344	0.4293204440	ATPase binding	molecular_function	binding	100003139	tcirg1a
+GO:0070615	2	512	36	17977	0.0555555555555556	0.2736604	0.4293204440	nucleosome-dependent ATPase activity	molecular_function	catalytic activity	100005291,353295	ercc6l,smarca4a
+GO:0050660	3	512	64	17977	0.046875	0.2746717	0.4295932381	flavin adenine dinucleotide binding	molecular_function	binding	393647,794311,799528	dus3l,fmo5,sqlea
+GO:0005516	5	512	125	17977	0.04	0.2844009	0.4421141264	calmodulin binding	molecular_function	binding	30608,323201,337142,554173,567365	gap43,marcksb,cnn3b,aspm,akap12b
+GO:0017124	2	512	37	17977	0.0540540540540541	0.2842933	0.4421141264	SH3 domain binding	molecular_function	binding	393815,568356	qki2,afap1
+GO:0005332	1	512	12	17977	0.0833333333333333	0.2930809	0.4488074678	gamma-aminobutyric acid:sodium symporter activity	molecular_function	transporter activity	561024	slc6a13l
+GO:0009982	1	512	12	17977	0.0833333333333333	0.2930809	0.4488074678	pseudouridine synthase activity	molecular_function	catalytic activity	445101	rpusd4
+GO:0016628	1	512	12	17977	0.0833333333333333	0.2930809	0.4488074678	oxidoreductase activity, acting on the CH-CH group of donors, NAD or NADP as acceptor	molecular_function	catalytic activity	393647	dus3l
+GO:0042800	1	512	12	17977	0.0833333333333333	0.2930809	0.4488074678	histone methyltransferase activity (H3-K4 specific)	molecular_function	catalytic activity	557048	kmt2a
+GO:0043138	1	512	12	17977	0.0833333333333333	0.2930809	0.4488074678	3'-5' DNA helicase activity	molecular_function	catalytic activity	192338	mcm2
+GO:0004601	2	512	38	17977	0.0526315789473684	0.2949109	0.4502657491	peroxidase activity	molecular_function	catalytic activity+++antioxidant activity	30068,352929	cat,gpx4b
+GO:0004497	5	512	128	17977	0.0390625	0.3010191	0.4582278881	monooxygenase activity	molecular_function	catalytic activity	399487,406443,414331,60640,794311	ywhaqa,ywhah,cyp51,cyp19a1b,fmo5
+GO:0001530	1	512	13	17977	0.0769230769230769	0.313228	0.4617412759	lipopolysaccharide binding	molecular_function	binding	567192	cd59
+GO:0001671	1	512	13	17977	0.0769230769230769	0.313228	0.4617412759	ATPase activator activity	molecular_function	molecular function regulator	64269	atp1b2a
+GO:0003810	1	512	13	17977	0.0769230769230769	0.313228	0.4617412759	protein-glutamine gamma-glutamyltransferase activity	molecular_function	catalytic activity	767742	f13a1a.1
+GO:0004197	4	512	98	17977	0.0408163265306122	0.3052486	0.4617412759	cysteine-type endopeptidase activity	molecular_function	catalytic activity	100332674,140621,321453,561021	usp48,casp3a,ctsla,si:dkey-103e21.5
+GO:0005388	1	512	13	17977	0.0769230769230769	0.313228	0.4617412759	calcium-transporting ATPase activity	molecular_function	catalytic activity+++transporter activity	494489	atp2a1l
+GO:0008320	1	512	13	17977	0.0769230769230769	0.313228	0.4617412759	protein transmembrane transporter activity	molecular_function	transporter activity	436772	sec61g
+GO:0017025	1	512	13	17977	0.0769230769230769	0.313228	0.4617412759	TBP-class protein binding	molecular_function	binding	334402	brf1a
+GO:0030515	1	512	13	17977	0.0769230769230769	0.313228	0.4617412759	snoRNA binding	molecular_function	binding	321058	wdr3
+GO:0042803	4	512	99	17977	0.0404040404040404	0.3116945	0.4617412759	protein homodimerization activity	molecular_function	binding	406720,497403,560753,567338	golga5,cenpf,tpi1b,pld6
+GO:0045236	1	512	13	17977	0.0769230769230769	0.313228	0.4617412759	CXCR chemokine receptor binding	molecular_function	binding	101883535	cxcl11.5
+GO:0097199	1	512	13	17977	0.0769230769230769	0.313228	0.4617412759	cysteine-type endopeptidase activity involved in apoptotic signaling pathway	molecular_function	catalytic activity	561021	si:dkey-103e21.5
+GO:0052689	2	512	40	17977	0.05	0.3160697	0.4645952897	carboxylic ester hydrolase activity	molecular_function	catalytic activity	30354,393096	lpl,lipg
+GO:0015347	1	512	14	17977	0.0714285714285714	0.332802	0.4822808644	sodium-independent organic anion transmembrane transporter activity	molecular_function	transporter activity	562772	slco1c1
+GO:0016641	1	512	14	17977	0.0714285714285714	0.332802	0.4822808644	oxidoreductase activity, acting on the CH-NH2 group of donors, oxygen as acceptor	molecular_function	catalytic activity	541429	aoc2
+GO:0017134	1	512	14	17977	0.0714285714285714	0.332802	0.4822808644	fibroblast growth factor binding	molecular_function	binding	405787	fibpb
+GO:0019901	4	512	102	17977	0.0392156862745098	0.3310996	0.4822808644	protein kinase binding	molecular_function	binding	406659,415200,561930,795167	rhoac,zgc:86839,cks2,rac3b
+GO:0042056	1	512	14	17977	0.0714285714285714	0.332802	0.4822808644	chemoattractant activity	molecular_function	binding+++molecular function regulator	101883535	cxcl11.5
+GO:0003755	2	512	42	17977	0.0476190476190476	0.33708	0.4871043380	peptidyl-prolyl cis-trans isomerase activity	molecular_function	catalytic activity	335519,336612	ppiab,ppiaa
+GO:0000062	1	512	15	17977	0.0666666666666667	0.3518192	0.4877925665	fatty-acyl-CoA binding	molecular_function	binding	619256	acbd7
+GO:0004190	1	512	15	17977	0.0666666666666667	0.3518192	0.4877925665	aspartic-type endopeptidase activity	molecular_function	catalytic activity	336746	zgc:63831
+GO:0004708	1	512	15	17977	0.0666666666666667	0.3518192	0.4877925665	MAP kinase kinase activity	molecular_function	catalytic activity	360218	pbk
+GO:0004857	1	512	15	17977	0.0666666666666667	0.3518192	0.4877925665	enzyme inhibitor activity	molecular_function	molecular function regulator	447856	utp3
+GO:0008199	1	512	15	17977	0.0666666666666667	0.3518192	0.4877925665	ferric iron binding	molecular_function	binding	406286	zgc:56095
+GO:0008933	1	512	15	17977	0.0666666666666667	0.3518192	0.4877925665	lytic transglycosylase activity	molecular_function	catalytic activity	100003570	man2b2
+GO:0015924	1	512	15	17977	0.0666666666666667	0.3518192	0.4877925665	mannosyl-oligosaccharide mannosidase activity	molecular_function	catalytic activity	100003570	man2b2
+GO:0016208	1	512	15	17977	0.0666666666666667	0.3518192	0.4877925665	AMP binding	molecular_function	binding	393641	aprt
+GO:0016818	1	512	15	17977	0.0666666666666667	0.3518192	0.4877925665	hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides	molecular_function	catalytic activity	323464	lsg1
+GO:0019894	1	512	15	17977	0.0666666666666667	0.3518192	0.4877925665	kinesin binding	molecular_function	binding	568207	sybu
+GO:0031386	1	512	15	17977	0.0666666666666667	0.3518192	0.4877925665	protein tag	molecular_function	protein tag	794380	zgc:194655
+GO:0044653	1	512	15	17977	0.0666666666666667	0.3518192	0.4877925665	dextrin alpha-glucosidase activity	molecular_function	catalytic activity	100003570	man2b2
+GO:0044654	1	512	15	17977	0.0666666666666667	0.3518192	0.4877925665	starch alpha-glucosidase activity	molecular_function	catalytic activity	100003570	man2b2
+GO:0051087	2	512	43	17977	0.0465116279069767	0.3475137	0.4877925665	chaperone binding	molecular_function	binding	641576,797213	zgc:122979,si:ch211-42i9.8
+GO:0052859	1	512	15	17977	0.0666666666666667	0.3518192	0.4877925665	glucan endo-1,4-beta-glucosidase activity	molecular_function	catalytic activity	100003570	man2b2
+GO:0004602	1	512	16	17977	0.0625	0.3702953	0.5092801311	glutathione peroxidase activity	molecular_function	catalytic activity+++antioxidant activity	352929	gpx4b
+GO:0004860	1	512	16	17977	0.0625	0.3702953	0.5092801311	protein kinase inhibitor activity	molecular_function	molecular function regulator	555222	sh3bp5a
+GO:0070530	1	512	16	17977	0.0625	0.3702953	0.5092801311	K63-linked polyubiquitin modification-dependent protein binding	molecular_function	binding	406452	sqstm1
+GO:0003951	1	512	17	17977	0.0588235294117647	0.3882458	0.5269050143	NAD+ kinase activity	molecular_function	catalytic activity	100137124	dgkh
+GO:0005518	1	512	17	17977	0.0588235294117647	0.3882458	0.5269050143	collagen binding	molecular_function	binding	321357	sparc
+GO:0015248	1	512	17	17977	0.0588235294117647	0.3882458	0.5269050143	sterol transporter activity	molecular_function	transporter activity	794414	osbp2
+GO:0016740	53	512	1781	17977	0.0297585626052779	0.3882127	0.5269050143	transferase activity	molecular_function	catalytic activity	100137124,140744,280649,30488,30724,321575,323201,324134,325603,327035,327060,334026,334217,335888,337685,360218,378847,393641,393741,394060,406350,415254,449816,541538,552997,553189,553465,553508,553615,553952,557048,559970,562242,563681,564619,567919,568531,569698,572469,664754,678614,768133,777709,777765,777792,791754,791894,794083,796537,797853,799852,80973,81540	dgkh,ckbb,plk1,csnk2a2a,melk,maea,marcksb,asmtl,polr1b,rnf2,wee1,si:dkey-40c23.2,elovl7a,mylipa,ogt.1,pbk,mtr,aprt,pcmtl,hmgcs1,uhrf1,zgc:86598,elovl1a,zgc:110540,fdps,dnmt3ab,sik1,ugt8,zap70,ugt2a2,kmt2a,si:dkey-205h13.1,rps6kb1a,si:ch211-212k18.15,gstr,sik2b,ubr1,mapk10,pim1,ezh1,elovl2,ezh2,zdhhc3b,gk5,sult2st3,si:ch211-219a4.3,aurkb,pdk2a,kdrl,ube2a,si:ch211-219a4.6,cdk1,tyms
+GO:0030165	1	512	17	17977	0.0588235294117647	0.3882458	0.5269050143	PDZ domain binding	molecular_function	binding	30120	dlc
+GO:0000049	2	512	48	17977	0.0416666666666667	0.3987508	0.5397339325	tRNA binding	molecular_function	binding	445405,565454	sars,si:ch211-153b23.3
+GO:0004467	1	512	18	17977	0.0555555555555556	0.4056856	0.5448081487	long-chain fatty acid-CoA ligase activity	molecular_function	catalytic activity	335159	acsbg2
+GO:0005496	1	512	18	17977	0.0555555555555556	0.4056856	0.5448081487	steroid binding	molecular_function	binding	567365	akap12b
+GO:0030674	1	512	18	17977	0.0555555555555556	0.4056856	0.5448081487	protein binding, bridging	molecular_function	binding	192314	dtl
+GO:0004693	1	512	19	17977	0.0526315789473684	0.4226291	0.5559198162	cyclin-dependent protein serine/threonine kinase activity	molecular_function	molecular transducer activity+++catalytic activity	80973	cdk1
+GO:0005179	4	512	116	17977	0.0344827586206897	0.4216574	0.5559198162	hormone activity	molecular_function	binding+++molecular function regulator	352920,402917,402987,492507	oxt,lhb,cga,crhb
+GO:0005215	1	512	19	17977	0.0526315789473684	0.4226291	0.5559198162	transporter activity	molecular_function	transporter activity	445176	mfsd2ab
+GO:0008324	1	512	19	17977	0.0526315789473684	0.4226291	0.5559198162	cation transmembrane transporter activity	molecular_function	transporter activity	558687	cax2
+GO:0030295	1	512	19	17977	0.0526315789473684	0.4226291	0.5559198162	protein kinase activator activity	molecular_function	molecular function regulator	107966129	tpx2
+GO:0035615	1	512	19	17977	0.0526315789473684	0.4226291	0.5559198162	clathrin adaptor activity	molecular_function	binding+++cargo receptor activity	393279	ap1s1
+GO:0042054	1	512	19	17977	0.0526315789473684	0.4226291	0.5559198162	histone methyltransferase activity	molecular_function	catalytic activity	557048	kmt2a
+GO:1901981	1	512	19	17977	0.0526315789473684	0.4226291	0.5559198162	phosphatidylinositol phosphate binding	molecular_function	binding	30608	gap43
+GO:0008134	2	512	51	17977	0.0392156862745098	0.4285865	0.5623142570	transcription factor binding	molecular_function	binding	353295,497403	smarca4a,cenpf
+GO:0008234	5	512	151	17977	0.033112582781457	0.4307364	0.5636932990	cysteine-type peptidase activity	molecular_function	catalytic activity	100332674,140621,321453,561021,678524	usp48,casp3a,ctsla,si:dkey-103e21.5,zgc:136872
+GO:0003727	1	512	20	17977	0.05	0.4390905	0.5645449286	single-stranded RNA binding	molecular_function	binding	100332583	LOC100332583
+GO:0008028	1	512	20	17977	0.05	0.4390905	0.5645449286	monocarboxylic acid transmembrane transporter activity	molecular_function	transporter activity	100534752	slc16a1a
+GO:0008195	1	512	20	17977	0.05	0.4390905	0.5645449286	phosphatidate phosphatase activity	molecular_function	catalytic activity	799099	lpin1
+GO:0016787	43	512	1463	17977	0.0293916609706083	0.4373542	0.5645449286	hydrolase activity	molecular_function	catalytic activity	100003570,100004977,100005291,100126133,100150316,100151110,100332674,108180207,140621,192323,192338,30354,321453,321465,321940,321948,322527,323464,336645,336746,337598,353295,393096,393843,393993,394092,406370,492789,553513,561021,563432,565145,565372,566409,566517,566947,567338,567448,567837,678524,768133,792472,799099	man2b2,mthfd2,ercc6l,ppt2,pcsk9,oplah,usp48,LOC108180207,casp3a,mcm3,mcm2,lpl,ctsla,ctdsp2,xrn2,ddx46,dpp3,lsg1,dhx16,zgc:63831,mcm4,smarca4a,lipg,dnase1l4.2,ralaa,nudt21,pla2g6,zgc:101699,idi1,si:dkey-103e21.5,si:ch211-79e4.4,adamts1,hexdc,mcm6,aga,ddx3a,pld6,mfn2,si:dkey-193c22.1,zgc:136872,ezh2,zgc:158446,lpin1
+GO:0031418	1	512	20	17977	0.05	0.4390905	0.5645449286	L-ascorbic acid binding	molecular_function	binding	373132	p4ha2
+GO:0032934	1	512	20	17977	0.05	0.4390905	0.5645449286	sterol binding	molecular_function	binding	794414	osbp2
+GO:0097200	1	512	20	17977	0.05	0.4390905	0.5645449286	cysteine-type endopeptidase activity involved in execution phase of apoptosis	molecular_function	catalytic activity	561021	si:dkey-103e21.5
+GO:0004518	3	512	87	17977	0.0344827586206897	0.4525484	0.5736064754	nuclease activity	molecular_function	catalytic activity	321940,393843,567338	xrn2,dnase1l4.2,pld6
+GO:0004707	1	512	21	17977	0.0476190476190476	0.4550835	0.5736064754	MAP kinase activity	molecular_function	catalytic activity	569698	mapk10
+GO:0004714	4	512	121	17977	0.0330578512396694	0.453419	0.5736064754	transmembrane receptor protein tyrosine kinase activity	molecular_function	molecular transducer activity+++catalytic activity	327060,360218,553615,796537	wee1,pbk,zap70,kdrl
+GO:0004896	2	512	53	17977	0.0377358490566038	0.448038	0.5736064754	cytokine receptor activity	molecular_function	molecular transducer activity	560202,565104	ghrb,lifrb
+GO:0008474	1	512	21	17977	0.0476190476190476	0.4550835	0.5736064754	palmitoyl-(protein) hydrolase activity	molecular_function	catalytic activity	100126133	ppt2
+GO:0015175	1	512	21	17977	0.0476190476190476	0.4550835	0.5736064754	neutral amino acid transmembrane transporter activity	molecular_function	transporter activity	323439	slc1a3a
+GO:0016831	1	512	21	17977	0.0476190476190476	0.4550835	0.5736064754	carboxy-lyase activity	molecular_function	catalytic activity	492781	mvda
+GO:0046961	1	512	21	17977	0.0476190476190476	0.4550835	0.5736064754	proton-transporting ATPase activity, rotational mechanism	molecular_function	catalytic activity+++transporter activity	100003139	tcirg1a
+GO:0003824	13	512	432	17977	0.0300925925925926	0.4596068	0.5778879618	catalytic activity	molecular_function	catalytic activity	100001552,100003570,100004977,100151110,114426,140744,334431,336473,393647,393843,559403,560753,790938	pcyt1ba,man2b2,mthfd2,oplah,odc1,ckbb,adsl,glulb,dus3l,dnase1l4.2,acaca,tpi1b,zgc:158423
+GO:0005201	3	512	89	17977	0.0337078651685393	0.4673712	0.5862137545	extracellular matrix structural constituent	molecular_function	structural molecule activity	101884317,336471,560145	si:ch73-261i21.5,col1a2,col27a1b
+GO:0016790	1	512	22	17977	0.0454545454545455	0.4706213	0.5874178270	thiolester hydrolase activity	molecular_function	catalytic activity	100126133	ppt2
+GO:0030234	1	512	22	17977	0.0454545454545455	0.4706213	0.5874178270	enzyme regulator activity	molecular_function	molecular function regulator	335774	cox6a1
+GO:0004519	2	512	56	17977	0.0357142857142857	0.4765003	0.5933122667	endonuclease activity	molecular_function	catalytic activity	393843,567338	dnase1l4.2,pld6
+GO:0004553	2	512	57	17977	0.0350877192982456	0.4857879	0.5976239633	hydrolase activity, hydrolyzing O-glycosyl compounds	molecular_function	catalytic activity	100003570,565372	man2b2,hexdc
+GO:0005313	1	512	23	17977	0.0434782608695652	0.4857169	0.5976239633	L-glutamate transmembrane transporter activity	molecular_function	transporter activity	323439	slc1a3a
+GO:0008009	2	512	57	17977	0.0350877192982456	0.4857879	0.5976239633	chemokine activity	molecular_function	binding+++molecular function regulator	101883535,563952	cxcl11.5,ccl34b.1
+GO:0016773	1	512	23	17977	0.0434782608695652	0.4857169	0.5976239633	phosphotransferase activity, alcohol group as acceptor	molecular_function	catalytic activity	777765	gk5
+GO:0051959	1	512	23	17977	0.0434782608695652	0.4857169	0.5976239633	dynein light intermediate chain binding	molecular_function	binding	406297	dynll1
+GO:0000175	1	512	24	17977	0.0416666666666667	0.5003829	0.6123655350	3'-5'-exoribonuclease activity	molecular_function	catalytic activity	321940	xrn2
+GO:0005096	7	512	234	17977	0.0299145299145299	0.5013519	0.6123655350	GTPase activator activity	molecular_function	molecular function regulator	394132,406608,406770,492676,559362,561339,777731	arhgdig,arhgap11a,arhgdia,tbc1d15,si:ch211-266k8.4,rap1gap2a,smap1
+GO:0005385	1	512	24	17977	0.0416666666666667	0.5003829	0.6123655350	zinc ion transmembrane transporter activity	molecular_function	transporter activity	58153	slc40a1
+GO:0003707	1	512	25	17977	0.04	0.5146315	0.6197322993	steroid hormone receptor activity	molecular_function	molecular transducer activity	567365	akap12b
+GO:0004364	1	512	25	17977	0.04	0.5146315	0.6197322993	glutathione transferase activity	molecular_function	catalytic activity	564619	gstr
+GO:0005319	1	512	25	17977	0.04	0.5146315	0.6197322993	lipid transporter activity	molecular_function	transporter activity	558924	abca1a
+GO:0015171	1	512	25	17977	0.04	0.5146315	0.6197322993	amino acid transmembrane transporter activity	molecular_function	transporter activity	449771	slc38a4
+GO:0016836	1	512	25	17977	0.04	0.5146315	0.6197322993	hydro-lyase activity	molecular_function	catalytic activity	322670	aco2
+GO:0031492	1	512	25	17977	0.04	0.5146315	0.6197322993	nucleosomal DNA binding	molecular_function	binding	569904	hmgn2
+GO:0008194	2	512	61	17977	0.0327868852459016	0.5218905	0.6255369778	UDP-glycosyltransferase activity	molecular_function	catalytic activity	553508,553952	ugt8,ugt2a2
+GO:0042626	2	512	61	17977	0.0327868852459016	0.5218905	0.6255369778	ATPase activity, coupled to transmembrane movement of substances	molecular_function	catalytic activity+++transporter activity	558924,794238	abca1a,abcg4b
+GO:0003713	3	512	97	17977	0.0309278350515464	0.524735	0.6274803147	transcription coactivator activity	molecular_function	transcription regulator activity	768133,797303,799099	ezh2,tada2a,lpin1
+GO:0004177	1	512	26	17977	0.0384615384615385	0.5284744	0.6290194135	aminopeptidase activity	molecular_function	catalytic activity	322527	dpp3
+GO:0045505	1	512	26	17977	0.0384615384615385	0.5284744	0.6290194135	dynein intermediate chain binding	molecular_function	binding	406297	dynll1
+GO:0016772	1	512	27	17977	0.037037037037037	0.5419233	0.6420476972	transferase activity, transferring phosphorus-containing groups	molecular_function	catalytic activity	140744	ckbb
+GO:0070006	1	512	27	17977	0.037037037037037	0.5419233	0.6420476972	metalloaminopeptidase activity	molecular_function	catalytic activity	322527	dpp3
+GO:0003712	4	512	136	17977	0.0294117647058824	0.5446114	0.6437457332	transcription coregulator activity	molecular_function	transcription regulator activity	368248,497613,768130,768133	rybpa,rybpb,hmga1b,ezh2
+GO:0004114	1	512	29	17977	0.0344827586206897	0.5676834	0.6652584000	3',5'-cyclic-nucleotide phosphodiesterase activity	molecular_function	catalytic activity	563432	si:ch211-79e4.4
+GO:0004527	1	512	29	17977	0.0344827586206897	0.5676834	0.6652584000	exonuclease activity	molecular_function	catalytic activity	321940	xrn2
+GO:0004674	15	512	537	17977	0.0279329608938547	0.5679984	0.6652584000	protein serine/threonine kinase activity	molecular_function	catalytic activity	280649,30488,30724,327060,360218,415254,553465,562242,567919,568213,569698,572469,791894,794083,80973	plk1,csnk2a2a,melk,wee1,pbk,zgc:86598,sik1,rps6kb1a,sik2b,tesk2,mapk10,pim1,aurkb,pdk2a,cdk1
+GO:0031490	1	512	29	17977	0.0344827586206897	0.5676834	0.6652584000	chromatin DNA binding	molecular_function	binding	323882	insm1b
+GO:0001786	1	512	30	17977	0.0333333333333333	0.580016	0.6696157874	phosphatidylserine binding	molecular_function	binding	30608	gap43
+GO:0004672	20	512	719	17977	0.0278164116828929	0.5760522	0.6696157874	protein kinase activity	molecular_function	catalytic activity	100307076,280649,30488,30724,327060,360218,406277,415254,553465,553615,562242,565111,567919,568213,569698,572469,791894,794083,796537,80973	bub1,plk1,csnk2a2a,melk,wee1,pbk,rbm4.3,zgc:86598,sik1,zap70,rps6kb1a,peak1,sik2b,tesk2,mapk10,pim1,aurkb,pdk2a,kdrl,cdk1
+GO:0004864	1	512	30	17977	0.0333333333333333	0.580016	0.6696157874	protein phosphatase inhibitor activity	molecular_function	molecular function regulator	564838	ppp1r14ba
+GO:0005509	20	512	719	17977	0.0278164116828929	0.5760522	0.6696157874	calcium ion binding	molecular_function	binding	266988,30120,30141,30724,321357,323285,323465,325423,325557,325758,337132,387529,393460,436825,492789,554118,566764,569227,573010,678524	smoc2,dlc,dlb,melk,sparc,scinla,vcanb,fstl1a,anxa2a,si:ch211-105c13.3,anxa5b,ldlra,ldlrb,s100b,zgc:101699,anxa13l,scin,slc25a25b,scgn,zgc:136872
+GO:0009055	1	512	30	17977	0.0333333333333333	0.580016	0.6696157874	electron transfer activity	molecular_function	catalytic activity	554103	cox7a2a
+GO:0016779	2	512	68	17977	0.0294117647058824	0.5808558	0.6696157874	nucleotidyltransferase activity	molecular_function	catalytic activity	325603,565454	polr1b,si:ch211-153b23.3
+GO:0031624	1	512	30	17977	0.0333333333333333	0.580016	0.6696157874	ubiquitin conjugating enzyme binding	molecular_function	binding	563681	si:ch211-212k18.15
+GO:0016874	3	512	106	17977	0.0283018867924528	0.5849877	0.6728670182	ligase activity	molecular_function	catalytic activity	336473,445405,559403	glulb,sars,acaca
+GO:0003899	1	512	31	17977	0.032258064516129	0.5919975	0.6748771500	DNA-directed 5'-3' RNA polymerase activity	molecular_function	catalytic activity	325603	polr1b
+GO:0003953	1	512	31	17977	0.032258064516129	0.5919975	0.6748771500	NAD+ nucleosidase activity	molecular_function	catalytic activity	100332583	LOC100332583
+GO:0008092	1	512	31	17977	0.032258064516129	0.5919975	0.6748771500	cytoskeletal protein binding	molecular_function	binding	325557	anxa2a
+GO:0019003	1	512	31	17977	0.032258064516129	0.5919975	0.6748771500	GDP binding	molecular_function	binding	393993	ralaa
+GO:0046982	6	512	219	17977	0.0273972602739726	0.5955563	0.6774287847	protein heterodimerization activity	molecular_function	binding	336231,386920,394048,394246,403077,449794	h3f3c,hist2h2l,h2afx,pafah1b1a,h2afvb,zgc:101846
+GO:0048020	1	512	32	17977	0.03125	0.6036378	0.6851021934	CCR chemokine receptor binding	molecular_function	binding	563952	ccl34b.1
+GO:0003725	1	512	33	17977	0.0303030303030303	0.6149467	0.6918150375	double-stranded RNA binding	molecular_function	binding	565454	si:ch211-153b23.3
+GO:0005507	1	512	33	17977	0.0303030303030303	0.6149467	0.6918150375	copper ion binding	molecular_function	binding	541429	aoc2
+GO:0019706	1	512	33	17977	0.0303030303030303	0.6149467	0.6918150375	protein-cysteine S-palmitoyltransferase activity	molecular_function	catalytic activity	777709	zdhhc3b
+GO:0051287	1	512	33	17977	0.0303030303030303	0.6149467	0.6918150375	NAD binding	molecular_function	binding	100006589	idh1
+GO:0016705	3	512	112	17977	0.0267857142857143	0.6223486	0.6986101352	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	molecular_function	catalytic activity	373132,414331,60640	p4ha2,cyp51,cyp19a1b
+GO:0000287	3	512	113	17977	0.0265486725663717	0.6283476	0.7038041895	magnesium ion binding	molecular_function	binding	100006589,327060,334116	idh1,wee1,eno1a
+GO:0015485	1	512	35	17977	0.0285714285714286	0.6366074	0.7115023882	cholesterol binding	molecular_function	binding	794414	osbp2
+GO:0016409	1	512	36	17977	0.0277777777777778	0.6469773	0.7215203367	palmitoyltransferase activity	molecular_function	catalytic activity	777709	zdhhc3b
+GO:0005243	1	512	37	17977	0.027027027027027	0.6570519	0.7311662141	gap junction channel activity	molecular_function	transporter activity	114405	cx27.5
+GO:0005184	1	512	38	17977	0.0263157894736842	0.6668395	0.7377703972	neuropeptide hormone activity	molecular_function	binding+++molecular function regulator	352920	oxt
+GO:0030246	4	512	159	17977	0.0251572327044025	0.6673011	0.7377703972	carbohydrate binding	molecular_function	binding	100003570,323465,337597,567812	man2b2,vcanb,lgals9l1,si:ch211-10a23.2
+GO:0061631	1	512	38	17977	0.0263157894736842	0.6668395	0.7377703972	ubiquitin conjugating enzyme activity	molecular_function	catalytic activity	797853	ube2a
+GO:0016301	19	512	722	17977	0.0263157894736842	0.6718084	0.7411563639	kinase activity	molecular_function	catalytic activity	100137124,140744,280649,30488,30724,323201,327060,360218,415254,541538,553615,562242,569698,572469,777765,791894,794083,796537,80973	dgkh,ckbb,plk1,csnk2a2a,melk,marcksb,wee1,pbk,zgc:86598,zgc:110540,zap70,rps6kb1a,mapk10,pim1,gk5,aurkb,pdk2a,kdrl,cdk1
+GO:0004812	1	512	39	17977	0.0256410256410256	0.6763483	0.7445636865	aminoacyl-tRNA ligase activity	molecular_function	catalytic activity	445405	sars
+GO:0004713	3	512	126	17977	0.0238095238095238	0.7002953	0.7676313865	protein tyrosine kinase activity	molecular_function	catalytic activity	327060,553615,796537	wee1,zap70,kdrl
+GO:0005125	4	512	166	17977	0.0240963855421687	0.6998028	0.7676313865	cytokine activity	molecular_function	binding+++molecular function regulator	101883535,563952,751093,798441	cxcl11.5,ccl34b.1,mif,mstnb
+GO:0020037	4	512	169	17977	0.0236686390532544	0.7130144	0.7782476323	heme binding	molecular_function	binding	30068,393551,414331,60640	cat,cyba,cyp51,cyp19a1b
+GO:0051539	1	512	43	17977	0.0232558139534884	0.7117506	0.7782476323	4 iron, 4 sulfur cluster binding	molecular_function	binding	322670	aco2
+GO:0005044	1	512	45	17977	0.0222222222222222	0.7279746	0.7895369340	scavenger receptor activity	molecular_function	cargo receptor activity	192340	scarb2a
+GO:0008171	1	512	45	17977	0.0222222222222222	0.7279746	0.7895369340	O-methyltransferase activity	molecular_function	catalytic activity	324134	asmtl
+GO:0015020	1	512	45	17977	0.0222222222222222	0.7279746	0.7895369340	glucuronosyltransferase activity	molecular_function	catalytic activity	553952	ugt2a2
+GO:0001228	2	512	95	17977	0.0210526315789474	0.7576192	0.8199549570	DNA-binding transcription activator activity, RNA polymerase II-specific	molecular_function	transcription regulator activity	393875,567253	sox4b,atf5b
+GO:0046872	84	512	3149	17977	0.0266751349634805	0.7654783	0.8267165640	metal ion binding	molecular_function	binding	100003570,100006589,100126111,100137124,100151562,100191015,103283056,192338,30068,30190,30354,30498,321575,322527,322670,323733,323882,324079,325603,327035,327060,334026,334402,335888,335901,368248,368848,373132,378847,386661,393096,393144,393551,393647,393714,406286,406350,406452,406719,406815,414331,436825,492495,494487,494489,497613,541429,550421,552960,553189,556134,556200,557048,559076,559403,560145,560384,560787,561226,563150,563432,563681,565104,565145,565869,566660,567338,567365,568531,569227,569908,571276,571403,571948,573010,60640,724056,768133,768186,777731,791894,792168,793278,795099	man2b2,idh1,znf1137,dgkh,fgd5a,zgc:194221,tet3,mcm2,cat,egr2b,lpl,egr1,maea,dpp3,aco2,top2a,insm1b,adi1,polr1b,rnf2,wee1,si:dkey-40c23.2,brf1a,mylipa,klf15,rybpa,g2e3,p4ha2,mtr,scd,lipg,trim25,cyba,dus3l,cdo1,zgc:56095,uhrf1,sqstm1,prdm8,aebp2,cyp51,s100b,slu7,nr1d1,atp2a1l,rybpb,aoc2,znf367,cybrd1,dnmt3ab,zbtb47a,si:ch211-117k10.3,kmt2a,klf11b,acaca,col27a1b,mbnl2,klf11a,lnx1,nr1d4a,si:ch211-79e4.4,si:ch211-212k18.15,lifrb,adamts1,klf9,trim66,pld6,akap12b,ubr1,slc25a25b,elmsan1a,znf592,znf395a,nr1d4b,scgn,cyp19a1b,alox5b.2,ezh2,zgc:153115,smap1,aurkb,ing5a,bcl6b,egr4
+GO:0005102	4	512	183	17977	0.0218579234972678	0.7690296	0.8288071109	signaling receptor binding	molecular_function	binding	100536977,450053,553615,798441	si:ch1073-406l10.2,angptl7,zap70,mstnb
+GO:0016788	1	512	51	17977	0.0196078431372549	0.7713795	0.8295968208	hydrolase activity, acting on ester bonds	molecular_function	catalytic activity	567338	pld6
+GO:0008083	3	512	142	17977	0.0211267605633803	0.7736863	0.8303369705	growth factor activity	molecular_function	binding+++molecular function regulator	30277,406384,798441	mdka,gmfb,mstnb
+GO:0017095	1	512	52	17977	0.0192307692307692	0.7779093	0.8313905644	heparan sulfate 6-O-sulfotransferase activity	molecular_function	catalytic activity	777792	sult2st3
+GO:0051922	1	512	52	17977	0.0192307692307692	0.7779093	0.8313905644	cholesterol sulfotransferase activity	molecular_function	catalytic activity	777792	sult2st3
+GO:0008233	11	512	468	17977	0.0235042735042735	0.7827845	0.8348616393	peptidase activity	molecular_function	catalytic activity	100150316,100332674,140621,321453,322527,336746,561021,565145,678524,792472,794838	pcsk9,usp48,casp3a,ctsla,dpp3,zgc:63831,si:dkey-103e21.5,adamts1,zgc:136872,zgc:158446,LOC794838
+GO:0004394	1	512	54	17977	0.0185185185185185	0.7904158	0.8412516710	heparan sulfate 2-O-sulfotransferase activity	molecular_function	catalytic activity	777792	sult2st3
+GO:0015297	1	512	57	17977	0.0175438596491228	0.8078699	0.8580481547	antiporter activity	molecular_function	transporter activity	558687	cax2
+GO:0003730	1	512	59	17977	0.0169491525423729	0.8186922	0.8677460715	mRNA 3'-UTR binding	molecular_function	binding	30967	igf2bp3
+GO:0003690	1	512	63	17977	0.0158730158730159	0.8385456	0.8864495389	double-stranded DNA binding	molecular_function	binding	394198	fosab
+GO:0016757	6	512	291	17977	0.0206185567010309	0.8397943	0.8864495389	transferase activity, transferring glycosyl groups	molecular_function	catalytic activity	337685,393641,553508,553952,791754,799852	ogt.1,aprt,ugt8,ugt2a2,si:ch211-219a4.3,si:ch211-219a4.6
+GO:0060090	1	512	64	17977	0.015625	0.8431601	0.8881748076	molecular adaptor activity	molecular_function	binding	564600	sept12
+GO:0051536	1	512	67	17977	0.0149253731343284	0.8562287	0.9000928752	iron-sulfur cluster binding	molecular_function	binding	322670	aco2
+GO:0003676	13	512	587	17977	0.0221465076660988	0.8581287	0.9002454460	nucleic acid binding	molecular_function	binding	30967,321940,321948,334222,336645,393599,393815,393974,402952,406277,566947,791754,799650	igf2bp3,xrn2,ddx46,hnrnpa0b,dhx16,ddb1,qki2,eif3g,zgc:77262,rbm4.3,ddx3a,si:ch211-219a4.3,ddx21
+GO:0008146	1	512	77	17977	0.012987012987013	0.8924334	0.9343231310	sulfotransferase activity	molecular_function	catalytic activity	777792	sult2st3
+GO:0008081	1	512	80	17977	0.0125	0.9014027	0.9417914157	phosphoric diester hydrolase activity	molecular_function	catalytic activity	563432	si:ch211-79e4.4
+GO:0016798	1	512	83	17977	0.0120481927710843	0.9096254	0.9471741682	hydrolase activity, acting on glycosyl bonds	molecular_function	catalytic activity	100003570	man2b2
+GO:0061630	6	512	329	17977	0.0182370820668693	0.9102473	0.9471741682	ubiquitin protein ligase activity	molecular_function	catalytic activity	321575,327035,334026,406350,563681,568531	maea,rnf2,si:dkey-40c23.2,uhrf1,si:ch211-212k18.15,ubr1
+GO:0004721	2	512	146	17977	0.0136986301369863	0.9230972	0.9586009385	phosphoprotein phosphatase activity	molecular_function	catalytic activity	321465,768133	ctdsp2,ezh2
+GO:0003674	29	512	1304	17977	0.022239263803681	0.9365673	0.9618123341	molecular_function	molecular_function	molecular_function	100006371,327053,393119,393152,393262,393342,394184,431732,436699,447841,447865,447894,449805,450011,492815,494496,550236,553736,555400,557021,560687,564374,566166,57952,724003,768197,792160,796589,797063	tmem151ba,rrp15,ankrd12,strumpellin,pwp1,zgc:64051,sh3bgrl,smpx,zgc:92658,glmp,zgc:92481,zgc:101715,glipr2l,tspo,cdca8,zgc:86609,cdca7a,zgc:112994,ccdc77,nub1,cmya5,si:ch211-69g19.2,zgc:136564,bcl7a,rsrp1,zgc:153142,irf1b,dda1,ndufb5
+GO:0004722	1	512	96	17977	0.0104166666666667	0.938043	0.9618123341	protein serine/threonine phosphatase activity	molecular_function	catalytic activity	321465	ctdsp2
+GO:0004843	1	512	92	17977	0.0108695652173913	0.9304093	0.9618123341	thiol-dependent ubiquitin-specific protease activity	molecular_function	catalytic activity	100332674	usp48
+GO:0004888	3	512	208	17977	0.0144230769230769	0.9382215	0.9618123341	transmembrane signaling receptor activity	molecular_function	molecular transducer activity	100332583,565474,569386	LOC100332583,chadla,pecam1
+GO:0008237	2	512	156	17977	0.0128205128205128	0.9393138	0.9618123341	metallopeptidase activity	molecular_function	catalytic activity	322527,565145	dpp3,adamts1
+GO:0008270	17	512	822	17977	0.0206812652068127	0.936766	0.9618123341	zinc ion binding	molecular_function	binding	103283056,30498,378847,393144,406350,406452,436825,494487,553526,557048,563150,565145,566660,567365,568531,571948,58153	tet3,egr1,mtr,trim25,uhrf1,sqstm1,s100b,nr1d1,zgc:152774,kmt2a,nr1d4a,adamts1,trim66,akap12b,ubr1,nr1d4b,slc40a1
+GO:0016746	2	512	155	17977	0.0129032258064516	0.9378509	0.9618123341	transferase activity, transferring acyl groups	molecular_function	catalytic activity	394060,777709	hmgcs1,zdhhc3b
+GO:0031267	1	512	98	17977	0.0102040816326531	0.9415404	0.9621717633	small GTPase binding	molecular_function	binding	407710	xpo7
+GO:0000977	6	512	360	17977	0.0166666666666667	0.9461062	0.9630009536	RNA polymerase II regulatory region sequence-specific DNA binding	molecular_function	binding	101883087,393749,567253,569109,569414,724016	LOC101883087,tfdp1b,atf5b,dbpb,purg,npas4a
+GO:0003735	2	512	160	17977	0.0125	0.944845	0.9630009536	structural constituent of ribosome	molecular_function	structural molecule activity	447945,794380	mrpl17,zgc:194655
+GO:0022857	4	512	269	17977	0.0148698884758364	0.9503735	0.9654289218	transmembrane transporter activity	molecular_function	transporter activity	100038771,100534752,393932,562772	slc13a4,slc16a1a,slc15a4,slco1c1
+GO:0004222	1	512	121	17977	0.00826446280991736	0.9700463	0.9782707818	metalloendopeptidase activity	molecular_function	catalytic activity	565145	adamts1
+GO:0004252	2	512	188	17977	0.0106382978723404	0.9720776	0.9782707818	serine-type endopeptidase activity	molecular_function	catalytic activity	100150316,792472	pcsk9,zgc:158446
+GO:0004725	1	512	124	17977	0.00806451612903226	0.9725499	0.9782707818	protein tyrosine phosphatase activity	molecular_function	catalytic activity	768133	ezh2
+GO:0008236	1	512	123	17977	0.00813008130081301	0.9717395	0.9782707818	serine-type peptidase activity	molecular_function	catalytic activity	100150316	pcsk9
+GO:0016791	2	512	185	17977	0.0108108108108108	0.969938	0.9782707818	phosphatase activity	molecular_function	catalytic activity	321465,557652	ctdsp2,si:dkeyp-27c8.2
+GO:0005085	2	512	214	17977	0.00934579439252336	0.9853893	0.9873138885	guanyl-nucleotide exchange factor activity	molecular_function	binding+++molecular function regulator	100151562,322404	fgd5a,nop53
+GO:0038023	1	512	143	17977	0.00699300699300699	0.9842124	0.9873138885	signaling receptor activity	molecular_function	molecular transducer activity	570145	clec19a
+GO:0004930	2	512	825	17977	0.00242424242424242	1	1.0000000000	G protein-coupled receptor activity	molecular_function	molecular transducer activity	565192,791773	gpr146,gpr39

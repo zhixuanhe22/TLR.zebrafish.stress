@@ -1,0 +1,390 @@
+go_f_term_id	go_f_term_candidate_gene_num	go_f_total_candidate_gene_num	go_f_term_gene_num	go_f_total_gene_num	go_f_rich_ratio	go_f_pvalue	go_f_qvalue	go_f_term_desc	go_f_term_level_1	go_f_term_level_2	gene_ids	gene_symbols
+GO:0005200	10	338	110	37501	0.0909090909090909	6.546745e-08	2.546684e-05	structural constituent of cytoskeleton	molecular_function	structural molecule activity	NM_001003558,NM_001024422,NM_001037410,NM_001076715,NM_001105126,NM_001190982,NM_198818,NM_212772,NM_213030,XM_005173471	NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GO:0019911	5	338	30	37501	0.166666666666667	6.838287e-06	1.330047e-03	structural constituent of myelin sheath	molecular_function	structural molecule activity	NM_001271460,XM_005165124,XM_005170079,XM_005170080,XM_005170081	NA,NA,NA,NA,NA
+GO:0003924	18	338	646	37501	0.0278637770897833	2.818698e-05	2.192947e-03	GTPase activity	molecular_function	catalytic activity	NM_001003558,NM_001024422,NM_001037410,NM_001076715,NM_001105126,NM_001190982,NM_001320406,NM_198818,NM_201018,NM_201329,NM_212642,NM_212772,NM_213030,NM_213350,XM_005167671,XM_005173471,XM_017351057,XM_694125	NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GO:0005525	22	338	877	37501	0.0250855188141391	1.868612e-05	2.192947e-03	GTP binding	molecular_function	binding	NM_001003558,NM_001024422,NM_001037410,NM_001076715,NM_001105126,NM_001190982,NM_001320406,NM_198818,NM_199851,NM_201018,NM_201329,NM_212642,NM_212772,NM_213030,NM_213350,XM_001335166,XM_001345921,XM_005167671,XM_005173471,XM_009306148,XM_017351057,XM_694125	NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GO:0008190	3	338	7	37501	0.428571428571429	2.472799e-05	2.192947e-03	eukaryotic initiation factor 4E binding	molecular_function	binding	NM_001007354,NM_199683,NM_212803	NA,NA,NA
+GO:0004129	4	338	22	37501	0.181818181818182	4.171302e-05	2.704394e-03	cytochrome-c oxidase activity	molecular_function	catalytic activity+++transporter activity	NM_001005592,NM_001303053,NM_199995,NM_214701	NA,NA,NA,NA
+GO:0016491	25	338	1171	37501	0.0213492741246798	7.167999e-05	3.938511e-03	oxidoreductase activity	molecular_function	catalytic activity	NM_001001730,NM_001005592,NM_001006031,NM_001017674,NM_001020500,NM_001020683,NM_001030070,NM_001077328,NM_001079977,NM_001110039,NM_130912,NM_131642,NM_131645,NM_198815,NM_198910,NM_199668,NM_200674,NM_200741,NM_201513,NM_203511,NM_214701,XM_002665870,XM_005158344,XM_009293357,XM_021468933	NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GO:0043395	2	338	2	37501	1	8.099766e-05	3.938511e-03	heparan sulfate proteoglycan binding	molecular_function	binding	NM_131098,XM_005158086	NA,NA
+GO:0004859	3	338	14	37501	0.214285714285714	0.0002453838	6.363620e-03	phospholipase inhibitor activity	molecular_function	molecular function regulator	NM_001291886,NM_001291887,NM_181761	NA,NA,NA
+GO:0005504	4	338	31	37501	0.129032258064516	0.0001683088	6.363620e-03	fatty acid binding	molecular_function	binding	NM_001291886,NM_001291887,NM_131605,NM_152961	NA,NA,NA,NA
+GO:0034784	2	338	3	37501	0.666666666666667	0.0002415415	6.363620e-03	pivalyl-CoA mutase activity	molecular_function	catalytic activity	NM_001003495,NM_001083567	NA,NA
+GO:0034951	2	338	3	37501	0.666666666666667	0.0002415415	6.363620e-03	o-hydroxylaminobenzoate mutase activity	molecular_function	catalytic activity	NM_001003495,NM_001083567	NA,NA
+GO:0042299	2	338	3	37501	0.666666666666667	0.0002415415	6.363620e-03	lupeol synthase activity	molecular_function	catalytic activity	NM_001003495,NM_001083567	NA,NA
+GO:0042300	2	338	3	37501	0.666666666666667	0.0002415415	6.363620e-03	beta-amyrin synthase activity	molecular_function	catalytic activity	NM_001003495,NM_001083567	NA,NA
+GO:0080011	2	338	3	37501	0.666666666666667	0.0002415415	6.363620e-03	baruol synthase activity	molecular_function	catalytic activity	NM_001003495,NM_001083567	NA,NA
+GO:0017116	3	338	19	37501	0.157894736842105	0.00063176	1.535966e-02	single-stranded DNA-dependent ATP-dependent DNA helicase activity	molecular_function	catalytic activity	NM_001082849,NM_173257,NM_198913	NA,NA,NA
+GO:0016717	2	338	5	37501	0.4	0.0007955585	1.820425e-02	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water	molecular_function	catalytic activity	NM_131645,NM_198815	NA,NA
+GO:0032422	2	338	6	37501	0.333333333333333	0.001186225	2.563564e-02	purine-rich negative regulatory element binding	molecular_function	binding	XM_009303209,XM_021479249	NA,NA
+GO:0036094	2	338	7	37501	0.285714285714286	0.001650824	3.210853e-02	small molecule binding	molecular_function	binding	NM_001045413,NM_213634	NA,NA
+GO:0050750	2	338	7	37501	0.285714285714286	0.001650824	3.210853e-02	low-density lipoprotein particle receptor binding	molecular_function	binding	NM_131098,XM_005158086	NA,NA
+GO:0003688	3	338	28	37501	0.107142857142857	0.00201152	3.726101e-02	DNA replication origin binding	molecular_function	binding	NM_001082849,NM_173257,NM_198913	NA,NA,NA
+GO:0003677	44	338	3184	37501	0.0138190954773869	0.003065449	5.420271e-02	DNA binding	molecular_function	binding	NM_001002622,NM_001002726,NM_001017769,NM_001024431,NM_001077276,NM_001082849,NM_001082940,NM_001089466,NM_001145694,NM_001285533,NM_001310015,NM_001347691,NM_131887,NM_173257,NM_198913,NM_199658,NM_200626,NM_205569,NM_205729,NM_205747,NM_212679,NM_212937,NM_213077,NM_213494,XM_005157583,XM_005157897,XM_005163022,XM_005168120,XM_005169610,XM_009292127,XM_009293357,XM_009297389,XM_009301764,XM_009303209,XM_009306903,XM_017356029,XM_017357326,XM_021467162,XM_021469728,XM_021469819,XM_021470300,XM_021471902,XM_021479249,XM_701324	NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GO:0000166	52	338	4149	37501	0.0125331405157869	0.009091994	8.225083e-02	nucleotide binding	molecular_function	binding	NM_001002387,NM_001003558,NM_001003890,NM_001007422,NM_001014352,NM_001024422,NM_001037410,NM_001076715,NM_001077391,NM_001077803,NM_001082849,NM_001105126,NM_001111212,NM_001127335,NM_001190982,NM_001200012,NM_001309465,NM_001310015,NM_131240,NM_173222,NM_173257,NM_198818,NM_198913,NM_199333,NM_199851,NM_200823,NM_201018,NM_201329,NM_206888,NM_212564,NM_212566,NM_212642,NM_212772,NM_213030,NM_213317,NM_213350,XM_001335166,XM_003198110,XM_005161953,XM_005163472,XM_005166291,XM_005167671,XM_005172318,XM_005173471,XM_009291142,XM_009296741,XM_017351057,XM_021467103,XM_021469728,XM_021470093,XM_021476247,XM_691233	NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GO:0000247	1	338	1	37501	1	0.009013093	8.225083e-02	C-8 sterol isomerase activity	molecular_function	catalytic activity	NM_001002328	NA
+GO:0000250	1	338	1	37501	1	0.009013093	8.225083e-02	lanosterol synthase activity	molecular_function	catalytic activity	NM_001083567	NA
+GO:0000253	1	338	1	37501	1	0.009013093	8.225083e-02	3-keto sterol reductase activity	molecular_function	catalytic activity	NM_001077328	NA
+GO:0002055	1	338	1	37501	1	0.009013093	8.225083e-02	adenine binding	molecular_function	binding	NM_200668	NA
+GO:0003723	27	338	1756	37501	0.015375854214123	0.005171849	8.225083e-02	RNA binding	molecular_function	binding	NM_001001944,NM_001003495,NM_001014289,NM_001020614,NM_001024431,NM_001114447,NM_001127335,NM_001326710,NM_199547,NM_200999,NM_201117,NM_205716,NM_213068,NM_213317,XM_005155999,XM_005156355,XM_005161526,XM_005163053,XM_005168996,XM_005168997,XM_005170455,XM_005173102,XM_017351261,XM_021466631,XM_021469377,XM_021477077,XM_694995	NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GO:0003729	12	338	556	37501	0.0215827338129496	0.004968722	8.225083e-02	mRNA binding	molecular_function	binding	NM_001014289,NM_199547,NM_201117,NM_205716,NM_213317,XM_005156355,XM_005163053,XM_005167788,XM_005168996,XM_005168997,XM_005170455,XM_005173102	NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GO:0004161	1	338	1	37501	1	0.009013093	8.225083e-02	dimethylallyltranstransferase activity	molecular_function	catalytic activity	NM_001025471	NA
+GO:0004163	1	338	1	37501	1	0.009013093	8.225083e-02	diphosphomevalonate decarboxylase activity	molecular_function	catalytic activity	NM_001007422	NA
+GO:0004337	1	338	1	37501	1	0.009013093	8.225083e-02	geranyltranstransferase activity	molecular_function	catalytic activity	NM_001025471	NA
+GO:0004465	2	338	14	37501	0.142857142857143	0.006861451	8.225083e-02	lipoprotein lipase activity	molecular_function	catalytic activity	NM_131127,NM_200128	NA,NA
+GO:0004667	1	338	1	37501	1	0.009013093	8.225083e-02	prostaglandin-D synthase activity	molecular_function	catalytic activity	NM_213634	NA
+GO:0004769	1	338	1	37501	1	0.009013093	8.225083e-02	steroid delta-isomerase activity	molecular_function	catalytic activity	NM_001002328	NA
+GO:0008398	1	338	1	37501	1	0.009013093	8.225083e-02	sterol 14-demethylase activity	molecular_function	catalytic activity	NM_001001730	NA
+GO:0008705	1	338	1	37501	1	0.009013093	8.225083e-02	methionine synthase activity	molecular_function	catalytic activity	NM_198072	NA
+GO:0010309	1	338	1	37501	1	0.009013093	8.225083e-02	acireductone dioxygenase [iron(II)-requiring] activity	molecular_function	catalytic activity	NM_199668	NA
+GO:0016213	1	338	1	37501	1	0.009013093	8.225083e-02	linoleoyl-CoA desaturase activity	molecular_function	catalytic activity	NM_131645	NA
+GO:0016722	1	338	1	37501	1	0.009013093	8.225083e-02	oxidoreductase activity, oxidizing metal ions	molecular_function	catalytic activity	NM_001020500	NA
+GO:0017172	1	338	1	37501	1	0.009013093	8.225083e-02	cysteine dioxygenase activity	molecular_function	catalytic activity	NM_200741	NA
+GO:0035755	1	338	1	37501	1	0.009013093	8.225083e-02	cardiolipin hydrolase activity	molecular_function	catalytic activity	NM_001089414	NA
+GO:0047865	1	338	1	37501	1	0.009013093	8.225083e-02	dimethylglycine dehydrogenase activity	molecular_function	catalytic activity	XM_021468933	NA
+GO:0000978	33	338	2385	37501	0.0138364779874214	0.009843927	8.702926e-02	RNA polymerase II proximal promoter sequence-specific DNA binding	molecular_function	binding	NM_001002622,NM_001024431,NM_001077329,NM_001077604,NM_001080054,NM_001082940,NM_001089466,NM_001114453,NM_001128679,NM_001285533,NM_001327898,NM_001347691,NM_131887,NM_199658,NM_205569,NM_205729,NM_205747,NM_212679,NM_212746,NM_212937,XM_001332966,XM_005157897,XM_005163022,XM_005163607,XM_009292127,XM_009301764,XM_009306903,XM_017357326,XM_021468456,XM_021469819,XM_021470300,XM_021471902,XM_678867	NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GO:0003682	9	338	399	37501	0.0225563909774436	0.0107898	9.327183e-02	chromatin binding	molecular_function	binding	NM_001002726,NM_001044991,NM_001142543,NM_131213,NM_173257,NM_198913,NM_199542,XM_005157436,XM_021468641	NA,NA,NA,NA,NA,NA,NA,NA,NA
+GO:0003743	4	338	106	37501	0.0377358490566038	0.01570017	1.144374e-01	translation initiation factor activity	molecular_function	binding	NM_001014289,NM_200999,NM_212803,XM_005155999	NA,NA,NA,NA
+GO:0004137	1	338	2	37501	0.5	0.01794519	1.144374e-01	deoxycytidine kinase activity	molecular_function	catalytic activity	NM_001014352	NA
+GO:0004452	1	338	2	37501	0.5	0.01794519	1.144374e-01	isopentenyl-diphosphate delta-isomerase activity	molecular_function	catalytic activity	NM_001025475	NA
+GO:0004506	1	338	2	37501	0.5	0.01794519	1.144374e-01	squalene monooxygenase activity	molecular_function	catalytic activity	NM_001110039	NA
+GO:0005094	1	338	2	37501	0.5	0.01794519	1.144374e-01	Rho GDP-dissociation inhibitor activity	molecular_function	molecular function regulator	NM_201157	NA
+GO:0005185	1	338	2	37501	0.5	0.01794519	1.144374e-01	neurohypophyseal hormone activity	molecular_function	binding+++molecular function regulator	NM_178291	NA
+GO:0015450	1	338	2	37501	0.5	0.01794519	1.144374e-01	P-P-bond-hydrolysis-driven protein transmembrane transporter activity	molecular_function	transporter activity	NM_001002499	NA
+GO:0017075	3	338	60	37501	0.05	0.01701033	1.144374e-01	syntaxin-1 binding	molecular_function	binding	NM_001002073,NM_001077173,XM_005167042	NA,NA,NA
+GO:0035174	1	338	2	37501	0.5	0.01794519	1.144374e-01	histone serine kinase activity	molecular_function	catalytic activity	NM_212566	NA
+GO:0043786	1	338	2	37501	0.5	0.01794519	1.144374e-01	cinnamate reductase activity	molecular_function	catalytic activity	NM_200674	NA
+GO:0044729	1	338	2	37501	0.5	0.01794519	1.144374e-01	hemi-methylated DNA-binding	molecular_function	binding	NM_213077	NA
+GO:0046624	1	338	2	37501	0.5	0.01794519	1.144374e-01	sphingolipid transporter activity	molecular_function	transporter activity	NM_001003570	NA
+GO:0047750	1	338	2	37501	0.5	0.01794519	1.144374e-01	cholestenol delta-isomerase activity	molecular_function	catalytic activity	NM_001002328	NA
+GO:0050786	1	338	2	37501	0.5	0.01794519	1.144374e-01	RAGE receptor binding	molecular_function	binding	NM_001002552	NA
+GO:0071813	1	338	2	37501	0.5	0.01794519	1.144374e-01	lipoprotein particle binding	molecular_function	binding	XM_005163870	NA
+GO:1990518	1	338	2	37501	0.5	0.01794519	1.144374e-01	single-stranded DNA-dependent ATP-dependent 3'-5' DNA helicase activity	molecular_function	catalytic activity	NM_001082849	NA
+GO:0003700	20	338	1329	37501	0.0150489089541008	0.01849382	1.160338e-01	DNA-binding transcription factor activity	molecular_function	transcription regulator activity	NM_001002622,NM_001080054,NM_001082940,NM_001197058,NM_001285533,NM_001347691,NM_131887,NM_199658,NM_205569,NM_205729,NM_205747,NM_212937,XM_005157897,XM_005163022,XM_005169610,XM_009292127,XM_009306903,XM_017357326,XM_021469819,XM_021471902	NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GO:0016853	5	338	170	37501	0.0294117647058824	0.01930876	1.192239e-01	isomerase activity	molecular_function	catalytic activity	NM_001003495,NM_001025475,NM_001083567,NM_001310015,NM_212758	NA,NA,NA,NA,NA
+GO:0000293	1	338	3	37501	0.333333333333333	0.02679701	1.303005e-01	ferric-chelate reductase activity	molecular_function	catalytic activity	NM_001020500	NA
+GO:0000976	5	338	180	37501	0.0277777777777778	0.0240032	1.303005e-01	transcription regulatory region sequence-specific DNA binding	molecular_function	binding	NM_001002622,NM_001327898,NM_205747,NM_212439,XM_005163022	NA,NA,NA,NA,NA
+GO:0001147	1	338	3	37501	0.333333333333333	0.02679701	1.303005e-01	transcription termination site sequence-specific DNA binding	molecular_function	binding	XM_005161526	NA
+GO:0004420	1	338	3	37501	0.333333333333333	0.02679701	1.303005e-01	hydroxymethylglutaryl-CoA reductase (NADPH) activity	molecular_function	catalytic activity	NM_001079977	NA
+GO:0004602	2	338	27	37501	0.0740740740740741	0.02450795	1.303005e-01	glutathione peroxidase activity	molecular_function	catalytic activity+++antioxidant activity	NM_001030070,XM_005158344	NA,NA
+GO:0004768	1	338	3	37501	0.333333333333333	0.02679701	1.303005e-01	stearoyl-CoA 9-desaturase activity	molecular_function	catalytic activity	NM_198815	NA
+GO:0004903	1	338	3	37501	0.333333333333333	0.02679701	1.303005e-01	growth hormone receptor activity	molecular_function	molecular transducer activity	NM_001111081	NA
+GO:0016538	3	338	69	37501	0.0434782608695652	0.02455617	1.303005e-01	cyclin-dependent protein serine/threonine kinase regulator activity	molecular_function	molecular function regulator	NM_001002110,NM_131513,XM_005174351	NA,NA,NA
+GO:0016866	1	338	3	37501	0.333333333333333	0.02679701	1.303005e-01	intramolecular transferase activity	molecular_function	catalytic activity	NM_001083567	NA
+GO:0030504	1	338	3	37501	0.333333333333333	0.02679701	1.303005e-01	inorganic diphosphate transmembrane transporter activity	molecular_function	transporter activity	NM_001030259	NA
+GO:0032896	1	338	3	37501	0.333333333333333	0.02679701	1.303005e-01	palmitoyl-CoA 9-desaturase activity	molecular_function	catalytic activity	NM_198815	NA
+GO:0042282	1	338	3	37501	0.333333333333333	0.02679701	1.303005e-01	hydroxymethylglutaryl-CoA reductase activity	molecular_function	catalytic activity	NM_001079977	NA
+GO:0044183	2	338	26	37501	0.0769230769230769	0.02282647	1.303005e-01	protein binding involved in protein folding	molecular_function	binding	NM_001200012,XM_003198110	NA,NA
+GO:0047066	1	338	3	37501	0.333333333333333	0.02679701	1.303005e-01	phospholipid-hydroperoxide glutathione peroxidase activity	molecular_function	catalytic activity	NM_001030070	NA
+GO:0051717	1	338	3	37501	0.333333333333333	0.02679701	1.303005e-01	inositol-1,3,4,5-tetrakisphosphate 3-phosphatase activity	molecular_function	catalytic activity	NM_200708	NA
+GO:0051800	1	338	3	37501	0.333333333333333	0.02679701	1.303005e-01	phosphatidylinositol-3,4-bisphosphate 3-phosphatase activity	molecular_function	catalytic activity	NM_200708	NA
+GO:0051978	1	338	3	37501	0.333333333333333	0.02679701	1.303005e-01	lysophospholipid transporter activity	molecular_function	transporter activity	NM_001003570	NA
+GO:0008201	5	338	190	37501	0.0263157894736842	0.02937658	1.410801e-01	heparin binding	molecular_function	binding	NM_131070,NM_131098,NM_131127,NM_200128,XM_005158086	NA,NA,NA,NA,NA
+GO:0051787	2	338	30	37501	0.0666666666666667	0.02984244	1.415696e-01	misfolded protein binding	molecular_function	binding	NM_001200012,XM_003198110	NA,NA
+GO:0003918	1	338	4	37501	0.25	0.03556928	1.504886e-01	DNA topoisomerase type II (ATP-hydrolyzing) activity	molecular_function	catalytic activity	NM_001310015	NA
+GO:0003999	1	338	4	37501	0.25	0.03556928	1.504886e-01	adenine phosphoribosyltransferase activity	molecular_function	catalytic activity	NM_200668	NA
+GO:0004386	6	338	265	37501	0.0226415094339623	0.03373756	1.504886e-01	helicase activity	molecular_function	catalytic activity	NM_001082849,NM_001127335,NM_173257,NM_198913,XM_005161526,XM_021469728	NA,NA,NA,NA,NA,NA
+GO:0004586	1	338	4	37501	0.25	0.03556928	1.504886e-01	ornithine decarboxylase activity	molecular_function	catalytic activity	NM_131801	NA
+GO:0004623	2	338	32	37501	0.0625	0.0336305	1.504886e-01	phospholipase A2 activity	molecular_function	catalytic activity	XM_009291571,XM_021472915	NA,NA
+GO:0005041	1	338	4	37501	0.25	0.03556928	1.504886e-01	low-density lipoprotein particle receptor activity	molecular_function	cargo receptor activity	XM_005163870	NA
+GO:0031072	2	338	33	37501	0.0606060606060606	0.03559114	1.504886e-01	heat shock protein binding	molecular_function	binding	NM_001200012,XM_003198110	NA,NA
+GO:0044548	1	338	4	37501	0.25	0.03556928	1.504886e-01	S100 protein binding	molecular_function	binding	NM_001002552	NA
+GO:0090554	1	338	4	37501	0.25	0.03556928	1.504886e-01	phosphatidylcholine-translocating ATPase activity	molecular_function	catalytic activity+++transporter activity	NM_001309465	NA
+GO:0090556	1	338	4	37501	0.25	0.03556928	1.504886e-01	phosphatidylserine-translocating ATPase activity	molecular_function	catalytic activity+++transporter activity	NM_001309465	NA
+GO:0004806	2	338	35	37501	0.0571428571428571	0.0396409	1.658098e-01	triglyceride lipase activity	molecular_function	catalytic activity	NM_131127,NM_200128	NA,NA
+GO:0001217	1	338	5	37501	0.2	0.04426271	1.704772e-01	bacterial-type RNA polymerase transcriptional repressor activity, sequence-specific DNA binding	molecular_function	transcription regulator activity	NM_001347691	NA
+GO:0003987	1	338	5	37501	0.2	0.04426271	1.704772e-01	acetate-CoA ligase activity	molecular_function	catalytic activity	XM_005161953	NA
+GO:0004364	2	338	37	37501	0.0540540540540541	0.04385582	1.704772e-01	glutathione transferase activity	molecular_function	catalytic activity	NM_001045060,XM_005158344	NA,NA
+GO:0008097	1	338	5	37501	0.2	0.04426271	1.704772e-01	5S rRNA binding	molecular_function	binding	NM_001079946	NA
+GO:0008195	2	338	37	37501	0.0540540540540541	0.04385582	1.704772e-01	phosphatidate phosphatase activity	molecular_function	catalytic activity	XM_005158809,XM_005158810	NA,NA
+GO:0015114	1	338	5	37501	0.2	0.04426271	1.704772e-01	phosphate ion transmembrane transporter activity	molecular_function	transporter activity	NM_001030259	NA
+GO:0038187	1	338	5	37501	0.2	0.04426271	1.704772e-01	pattern recognition receptor activity	molecular_function	molecular transducer activity	XM_002665908	NA
+GO:0050218	1	338	5	37501	0.2	0.04426271	1.704772e-01	propionate-CoA ligase activity	molecular_function	catalytic activity	XM_005161953	NA
+GO:0008289	7	338	359	37501	0.0194986072423398	0.04521341	1.724315e-01	lipid binding	molecular_function	binding	NM_131098,NM_131605,NM_152961,NM_199869,NM_206888,NM_213028,XM_005158086	NA,NA,NA,NA,NA,NA,NA
+GO:0004096	1	338	6	37501	0.166666666666667	0.05287801	1.820314e-01	catalase activity	molecular_function	catalytic activity+++antioxidant activity	NM_130912	NA
+GO:0004743	1	338	6	37501	0.166666666666667	0.05287801	1.820314e-01	pyruvate kinase activity	molecular_function	catalytic activity	NM_199333	NA
+GO:0008142	1	338	6	37501	0.166666666666667	0.05287801	1.820314e-01	oxysterol binding	molecular_function	binding	NM_199869	NA
+GO:0008198	2	338	41	37501	0.0487804878048781	0.05275258	1.820314e-01	ferrous iron binding	molecular_function	binding	NM_200741,NM_213013	NA,NA
+GO:0010997	1	338	6	37501	0.166666666666667	0.05287801	1.820314e-01	anaphase-promoting complex binding	molecular_function	binding	XM_009298475	NA
+GO:0016298	2	338	40	37501	0.05	0.0504722	1.820314e-01	lipase activity	molecular_function	catalytic activity	NM_131127,NM_200128	NA,NA
+GO:0016314	1	338	6	37501	0.166666666666667	0.05287801	1.820314e-01	phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase activity	molecular_function	catalytic activity	NM_200708	NA
+GO:0017150	1	338	6	37501	0.166666666666667	0.05287801	1.820314e-01	tRNA dihydrouridine synthase activity	molecular_function	catalytic activity	NM_200674	NA
+GO:0019136	1	338	6	37501	0.166666666666667	0.05287801	1.820314e-01	deoxynucleoside kinase activity	molecular_function	catalytic activity	NM_001014352	NA
+GO:0042393	6	338	291	37501	0.0206185567010309	0.04923395	1.820314e-01	histone binding	molecular_function	binding	NM_001002110,NM_213077,NM_213099,XM_017356029,XM_021468641,XM_021469728	NA,NA,NA,NA,NA,NA
+GO:1990757	1	338	6	37501	0.166666666666667	0.05287801	1.820314e-01	ubiquitin ligase activator activity	molecular_function	molecular function regulator	XM_009298475	NA
+GO:0019838	2	338	42	37501	0.0476190476190476	0.055069	1.862769e-01	growth factor binding	molecular_function	binding	NM_001111081,XM_009291142	NA,NA
+GO:0098882	2	338	42	37501	0.0476190476190476	0.055069	1.862769e-01	structural constituent of presynaptic active zone	molecular_function	structural molecule activity	XM_017355293,XM_021467758	NA,NA
+GO:0004499	1	338	7	37501	0.142857142857143	0.06141588	1.881164e-01	N,N-dimethylaniline monooxygenase activity	molecular_function	catalytic activity	NM_198910	NA
+GO:0004534	1	338	7	37501	0.142857142857143	0.06141588	1.881164e-01	5'-3' exoribonuclease activity	molecular_function	catalytic activity	NM_001001944	NA
+GO:0004657	1	338	7	37501	0.142857142857143	0.06141588	1.881164e-01	proline dehydrogenase activity	molecular_function	catalytic activity	XM_002665870	NA
+GO:0008796	1	338	7	37501	0.142857142857143	0.06141588	1.881164e-01	bis(5'-nucleosyl)-tetraphosphatase activity	molecular_function	catalytic activity	NM_212642	NA
+GO:0016208	2	338	44	37501	0.0454545454545455	0.05980667	1.881164e-01	AMP binding	molecular_function	binding	NM_200668,XM_005161953	NA,NA
+GO:0016405	1	338	7	37501	0.142857142857143	0.06141588	1.881164e-01	CoA-ligase activity	molecular_function	catalytic activity	NM_001126379	NA
+GO:0016896	1	338	7	37501	0.142857142857143	0.06141588	1.881164e-01	exoribonuclease activity, producing 5'-phosphomonoesters	molecular_function	catalytic activity	NM_001001944	NA
+GO:0030250	1	338	7	37501	0.142857142857143	0.06141588	1.881164e-01	guanylate cyclase activator activity	molecular_function	molecular function regulator	NM_131801	NA
+GO:0043295	1	338	7	37501	0.142857142857143	0.06141588	1.881164e-01	glutathione binding	molecular_function	binding	NM_001045060	NA
+GO:0050699	1	338	7	37501	0.142857142857143	0.06141588	1.881164e-01	WW domain binding	molecular_function	binding	NM_213347	NA
+GO:0097363	1	338	7	37501	0.142857142857143	0.06141588	1.881164e-01	protein O-GlcNAc transferase activity	molecular_function	catalytic activity	XM_009307793	NA
+GO:1990174	1	338	7	37501	0.142857142857143	0.06141588	1.881164e-01	phosphodiesterase decapping endonuclease activity	molecular_function	catalytic activity	XM_005163053	NA
+GO:0018024	3	338	103	37501	0.029126213592233	0.06652441	2.021718e-01	histone-lysine N-methyltransferase activity	molecular_function	catalytic activity	NM_001077279,XM_005155325,XM_005157583	NA,NA,NA
+GO:0004198	2	338	47	37501	0.0425531914893617	0.06716312	2.025306e-01	calcium-dependent cysteine-type endopeptidase activity	molecular_function	catalytic activity	XM_009295512,XM_677935	NA,NA
+GO:0001972	1	338	8	37501	0.125	0.069877	2.028519e-01	retinoic acid binding	molecular_function	binding	NM_213634	NA
+GO:0004601	2	338	48	37501	0.0416666666666667	0.06967877	2.028519e-01	peroxidase activity	molecular_function	catalytic activity+++antioxidant activity	NM_001030070,NM_130912	NA,NA
+GO:0004925	1	338	8	37501	0.125	0.069877	2.028519e-01	prolactin receptor activity	molecular_function	molecular transducer activity	XM_009295324	NA
+GO:0005381	1	338	8	37501	0.125	0.069877	2.028519e-01	iron ion transmembrane transporter activity	molecular_function	transporter activity	NM_131629	NA
+GO:0015288	1	338	8	37501	0.125	0.069877	2.028519e-01	porin activity	molecular_function	transporter activity	NM_001001404	NA
+GO:0003697	3	338	106	37501	0.0283018867924528	0.07118751	2.051255e-01	single-stranded DNA binding	molecular_function	binding	NM_001082849,NM_173257,NM_198913	NA,NA,NA
+GO:0000175	2	338	49	37501	0.0408163265306122	0.07222491	2.065845e-01	3'-5'-exoribonuclease activity	molecular_function	catalytic activity	NM_001001944,NM_001020614	NA,NA
+GO:0003785	2	338	50	37501	0.04	0.07480077	2.078393e-01	actin monomer binding	molecular_function	binding	NM_205581,XM_021481226	NA,NA
+GO:0008094	2	338	50	37501	0.04	0.07480077	2.078393e-01	DNA-dependent ATPase activity	molecular_function	catalytic activity	NM_001310015,XM_021469728	NA,NA
+GO:0015078	2	338	50	37501	0.04	0.07480077	2.078393e-01	proton transmembrane transporter activity	molecular_function	transporter activity	NM_213028,XM_005160272	NA,NA
+GO:0050660	3	338	108	37501	0.0277777777777778	0.07437576	2.078393e-01	flavin adenine dinucleotide binding	molecular_function	binding	NM_001110039,NM_198910,NM_200674	NA,NA,NA
+GO:0004370	1	338	9	37501	0.111111111111111	0.07826207	2.085202e-01	glycerol kinase activity	molecular_function	catalytic activity	NM_001077803	NA
+GO:0004634	1	338	9	37501	0.111111111111111	0.07826207	2.085202e-01	phosphopyruvate hydratase activity	molecular_function	catalytic activity	NM_212722	NA
+GO:0005506	5	338	251	37501	0.0199203187250996	0.07784483	2.085202e-01	iron ion binding	molecular_function	binding	NM_001001730,NM_131642,NM_198815,NM_199668,NM_200741	NA,NA,NA,NA,NA
+GO:0008308	1	338	9	37501	0.111111111111111	0.07826207	2.085202e-01	voltage-gated anion channel activity	molecular_function	transporter activity	NM_001001404	NA
+GO:0016765	1	338	9	37501	0.111111111111111	0.07826207	2.085202e-01	transferase activity, transferring alkyl or aryl (other than methyl) groups	molecular_function	catalytic activity	NM_001025471	NA
+GO:0097027	1	338	9	37501	0.111111111111111	0.07826207	2.085202e-01	ubiquitin-protein transferase activator activity	molecular_function	molecular function regulator	XM_009298475	NA
+GO:0046983	7	338	410	37501	0.0170731707317073	0.07937233	2.100397e-01	protein dimerization activity	molecular_function	binding	NM_001089466,NM_001128679,NM_212679,NM_212937,XM_005163022,XM_009301764,XM_009306903	NA,NA,NA,NA,NA,NA,NA
+GO:0008301	1	338	10	37501	0.1	0.08657178	2.245095e-01	DNA binding, bending	molecular_function	binding	NM_001017769	NA
+GO:0031369	1	338	10	37501	0.1	0.08657178	2.245095e-01	translation initiation factor binding	molecular_function	binding	XM_005155999	NA
+GO:0031419	1	338	10	37501	0.1	0.08657178	2.245095e-01	cobalamin binding	molecular_function	binding	NM_198072	NA
+GO:0017046	2	338	55	37501	0.0363636363636364	0.08810047	2.269608e-01	peptide hormone binding	molecular_function	binding	NM_001111081,NM_131629	NA,NA
+GO:0001222	1	338	11	37501	0.0909090909090909	0.09480679	2.334167e-01	transcription corepressor binding	molecular_function	binding	NM_212439	NA
+GO:0001227	3	338	118	37501	0.0254237288135593	0.09123178	2.334167e-01	DNA-binding transcription repressor activity, RNA polymerase II-specific	molecular_function	transcription regulator activity	NM_199658,NM_205729,XM_001332966	NA,NA,NA
+GO:0003713	5	338	266	37501	0.018796992481203	0.0939265	2.334167e-01	transcription coactivator activity	molecular_function	transcription regulator activity	NM_001077279,XM_005157436,XM_005158809,XM_005158810,XM_017356029	NA,NA,NA,NA,NA
+GO:0015187	1	338	11	37501	0.0909090909090909	0.09480679	2.334167e-01	glycine transmembrane transporter activity	molecular_function	transporter activity	NM_001076602	NA
+GO:0016174	1	338	11	37501	0.0909090909090909	0.09480679	2.334167e-01	NAD(P)H oxidase activity	molecular_function	catalytic activity	NM_198910	NA
+GO:0016936	1	338	11	37501	0.0909090909090909	0.09480679	2.334167e-01	galactoside binding	molecular_function	binding	NM_200072	NA
+GO:0030955	1	338	11	37501	0.0909090909090909	0.09480679	2.334167e-01	potassium ion binding	molecular_function	binding	NM_199333	NA
+GO:0042802	4	338	192	37501	0.0208333333333333	0.09642348	2.359040e-01	identical protein binding	molecular_function	binding	NM_001020500,NM_131098,NM_201117,XM_005158086	NA,NA,NA,NA
+GO:0003678	3	338	122	37501	0.0245901639344262	0.09838058	2.391878e-01	DNA helicase activity	molecular_function	catalytic activity	NM_001082849,NM_173257,NM_198913	NA,NA,NA
+GO:0004322	1	338	12	37501	0.0833333333333333	0.1029678	2.442346e-01	ferroxidase activity	molecular_function	catalytic activity	NM_213013	NA
+GO:0016891	1	338	12	37501	0.0833333333333333	0.1029678	2.442346e-01	endoribonuclease activity, producing 5'-phosphomonoesters	molecular_function	catalytic activity	NM_001089414	NA
+GO:0035925	1	338	12	37501	0.0833333333333333	0.1029678	2.442346e-01	mRNA 3'-UTR AU-rich region binding	molecular_function	binding	NM_201117	NA
+GO:1990404	1	338	12	37501	0.0833333333333333	0.1029678	2.442346e-01	protein ADP-ribosylase activity	molecular_function	catalytic activity	NM_001114447	NA
+GO:0003854	1	338	13	37501	0.0769230769230769	0.1110554	2.556246e-01	3-beta-hydroxy-delta5-steroid dehydrogenase activity	molecular_function	catalytic activity	NM_001017674	NA
+GO:0003916	1	338	13	37501	0.0769230769230769	0.1110554	2.556246e-01	DNA topoisomerase activity	molecular_function	catalytic activity	NM_001310015	NA
+GO:0003993	1	338	13	37501	0.0769230769230769	0.1110554	2.556246e-01	acid phosphatase activity	molecular_function	catalytic activity	XM_680749	NA
+GO:0004620	2	338	63	37501	0.0317460317460317	0.1106702	2.556246e-01	phospholipase activity	molecular_function	catalytic activity	NM_131127,NM_200128	NA,NA
+GO:0005337	1	338	13	37501	0.0769230769230769	0.1110554	2.556246e-01	nucleoside transmembrane transporter activity	molecular_function	transporter activity	NM_001012501	NA
+GO:0019955	2	338	65	37501	0.0307692307692308	0.1165283	2.666442e-01	cytokine binding	molecular_function	binding	NM_001111081,XM_009295324	NA,NA
+GO:0008353	1	338	14	37501	0.0714285714285714	0.1190703	2.677361e-01	RNA polymerase II CTD heptapeptide repeat kinase activity	molecular_function	catalytic activity	NM_212564	NA
+GO:0016262	1	338	14	37501	0.0714285714285714	0.1190703	2.677361e-01	protein N-acetylglucosaminyltransferase activity	molecular_function	catalytic activity	XM_009307793	NA
+GO:0044877	1	338	14	37501	0.0714285714285714	0.1190703	2.677361e-01	protein-containing complex binding	molecular_function	binding	XM_005155671	NA
+GO:0000981	29	338	2567	37501	0.0112972341254383	0.1245813	2.744896e-01	DNA-binding transcription factor activity, RNA polymerase II-specific	molecular_function	transcription regulator activity	NM_001002622,NM_001024431,NM_001077329,NM_001077604,NM_001082940,NM_001089466,NM_001114453,NM_001128679,NM_001347691,NM_131887,NM_205569,NM_205747,NM_212679,NM_212746,NM_212937,XM_005157897,XM_005163022,XM_005163607,XM_005169610,XM_005174607,XM_009292127,XM_009301764,XM_009303209,XM_009306903,XM_021468456,XM_021470300,XM_021471902,XM_021479249,XM_678867	NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GO:0004111	1	338	15	37501	0.0666666666666667	0.1270132	2.744896e-01	creatine kinase activity	molecular_function	catalytic activity	NM_173222	NA
+GO:0005515	12	338	913	37501	0.0131434830230011	0.1254855	2.744896e-01	protein binding	molecular_function	binding	NM_001003890,NM_001004595,NM_001015060,NM_001077173,NM_001142583,NM_131070,NM_199683,NM_199983,NM_205747,NM_213099,XM_005163022,XM_009291142	NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GO:0009982	1	338	15	37501	0.0666666666666667	0.1270132	2.744896e-01	pseudouridine synthase activity	molecular_function	catalytic activity	NM_001003495	NA
+GO:0016018	1	338	15	37501	0.0666666666666667	0.1270132	2.744896e-01	cyclosporin A binding	molecular_function	binding	NM_212758	NA
+GO:0034185	1	338	15	37501	0.0666666666666667	0.1270132	2.744896e-01	apolipoprotein binding	molecular_function	binding	NM_131127	NA
+GO:0071933	1	338	15	37501	0.0666666666666667	0.1270132	2.744896e-01	Arp2/3 complex binding	molecular_function	binding	NM_213110	NA
+GO:0004497	4	338	216	37501	0.0185185185185185	0.1320324	2.822011e-01	monooxygenase activity	molecular_function	catalytic activity	NM_001001730,NM_131642,NM_198910,NM_201513	NA,NA,NA,NA
+GO:0052689	2	338	70	37501	0.0285714285714286	0.1314983	2.822011e-01	carboxylic ester hydrolase activity	molecular_function	catalytic activity	NM_131127,NM_200128	NA,NA
+GO:0004865	1	338	16	37501	0.0625	0.1348846	2.836222e-01	protein serine/threonine phosphatase inhibitor activity	molecular_function	molecular function regulator	XM_005161356	NA
+GO:0008320	1	338	16	37501	0.0625	0.1348846	2.836222e-01	protein transmembrane transporter activity	molecular_function	transporter activity	NM_001002499	NA
+GO:0036312	1	338	16	37501	0.0625	0.1348846	2.836222e-01	phosphatidylinositol 3-kinase regulatory subunit binding	molecular_function	binding	XM_009307424	NA
+GO:0004711	1	338	17	37501	0.0588235294117647	0.1426853	2.875885e-01	ribosomal protein S6 kinase activity	molecular_function	catalytic activity	XM_021470093	NA
+GO:0005021	1	338	17	37501	0.0588235294117647	0.1426853	2.875885e-01	vascular endothelial growth factor-activated receptor activity	molecular_function	molecular transducer activity+++catalytic activity	XM_009291142	NA
+GO:0005315	1	338	17	37501	0.0588235294117647	0.1426853	2.875885e-01	inorganic phosphate transmembrane transporter activity	molecular_function	transporter activity	NM_001030259	NA
+GO:0016628	1	338	17	37501	0.0588235294117647	0.1426853	2.875885e-01	oxidoreductase activity, acting on the CH-CH group of donors, NAD or NADP as acceptor	molecular_function	catalytic activity	NM_200674	NA
+GO:0043548	1	338	17	37501	0.0588235294117647	0.1426853	2.875885e-01	phosphatidylinositol 3-kinase binding	molecular_function	binding	XM_021466764	NA
+GO:0046933	1	338	17	37501	0.0588235294117647	0.1426853	2.875885e-01	proton-transporting ATP synthase activity, rotational mechanism	molecular_function	catalytic activity+++transporter activity	NM_199968	NA
+GO:0046975	1	338	17	37501	0.0588235294117647	0.1426853	2.875885e-01	histone methyltransferase activity (H3-K36 specific)	molecular_function	catalytic activity	XM_005155325	NA
+GO:0051117	1	338	17	37501	0.0588235294117647	0.1426853	2.875885e-01	ATPase binding	molecular_function	binding	XM_005160272	NA
+GO:0050661	2	338	74	37501	0.027027027027027	0.1437714	2.882839e-01	NADP binding	molecular_function	binding	NM_001079977,NM_198910	NA,NA
+GO:0003810	1	338	18	37501	0.0555555555555556	0.1504159	3.000604e-01	protein-glutamine gamma-glutamyltransferase activity	molecular_function	catalytic activity	XM_009297220	NA
+GO:0001671	1	338	19	37501	0.0526315789473684	0.158077	3.137345e-01	ATPase activator activity	molecular_function	molecular function regulator	XM_021469844	NA
+GO:0008168	6	338	406	37501	0.0147783251231527	0.1622455	3.159082e-01	methyltransferase activity	molecular_function	catalytic activity	NM_001077279,NM_198072,NM_213410,XM_005155325,XM_005157583,XM_021467162	NA,NA,NA,NA,NA,NA
+GO:0008199	1	338	20	37501	0.05	0.1656691	3.159082e-01	ferric iron binding	molecular_function	binding	NM_213013	NA
+GO:0009008	1	338	20	37501	0.05	0.1656691	3.159082e-01	DNA-methyltransferase activity	molecular_function	catalytic activity	XM_021467162	NA
+GO:0009922	1	338	20	37501	0.05	0.1656691	3.159082e-01	fatty acid elongase activity	molecular_function	catalytic activity	NM_001040362	NA
+GO:0102336	1	338	20	37501	0.05	0.1656691	3.159082e-01	3-oxo-arachidoyl-CoA synthase activity	molecular_function	catalytic activity	NM_001040362	NA
+GO:0102337	1	338	20	37501	0.05	0.1656691	3.159082e-01	3-oxo-cerotoyl-CoA synthase activity	molecular_function	catalytic activity	NM_001040362	NA
+GO:0102338	1	338	20	37501	0.05	0.1656691	3.159082e-01	3-oxo-lignoceronyl-CoA synthase activity	molecular_function	catalytic activity	NM_001040362	NA
+GO:0102756	1	338	20	37501	0.05	0.1656691	3.159082e-01	very-long-chain 3-ketoacyl-CoA synthase activity	molecular_function	catalytic activity	NM_001040362	NA
+GO:0051213	3	338	157	37501	0.0191082802547771	0.1692004	3.210681e-01	dioxygenase activity	molecular_function	catalytic activity	NM_199668,NM_200741,XM_009293357	NA,NA,NA
+GO:0018741	1	338	21	37501	0.0476190476190476	0.173193	3.254690e-01	alkyl sulfatase activity	molecular_function	catalytic activity	XM_017353509	NA
+GO:0030544	1	338	21	37501	0.0476190476190476	0.173193	3.254690e-01	Hsp70 protein binding	molecular_function	binding	XM_009291501	NA
+GO:0019901	4	338	242	37501	0.0165289256198347	0.1757047	3.286016e-01	protein kinase binding	molecular_function	binding	NM_001002110,NM_001320406,NM_213350,XM_009291822	NA,NA,NA,NA
+GO:0005158	1	338	22	37501	0.0454545454545455	0.1806493	3.306204e-01	insulin receptor binding	molecular_function	binding	XM_021466764	NA
+GO:0005347	1	338	22	37501	0.0454545454545455	0.1806493	3.306204e-01	ATP transmembrane transporter activity	molecular_function	transporter activity	XM_009301545	NA
+GO:0008449	1	338	22	37501	0.0454545454545455	0.1806493	3.306204e-01	N-acetylglucosamine-6-sulfatase activity	molecular_function	catalytic activity	XM_017353509	NA
+GO:0020037	4	338	245	37501	0.0163265306122449	0.1810338	3.306204e-01	heme binding	molecular_function	binding	NM_001001730,NM_130912,NM_131642,XM_005160168	NA,NA,NA,NA
+GO:0043138	1	338	22	37501	0.0454545454545455	0.1806493	3.306204e-01	3'-5' DNA helicase activity	molecular_function	catalytic activity	NM_173257	NA
+GO:1990939	3	338	163	37501	0.0184049079754601	0.1825522	3.318355e-01	ATP-dependent microtubule motor activity	molecular_function	catalytic activity	NM_200823,XM_005163472,XM_021467103	NA,NA,NA
+GO:0004857	1	338	23	37501	0.0434782608695652	0.1880385	3.324863e-01	enzyme inhibitor activity	molecular_function	molecular function regulator	NM_001004595	NA
+GO:0005539	1	338	23	37501	0.0434782608695652	0.1880385	3.324863e-01	glycosaminoglycan binding	molecular_function	binding	XM_017353509	NA
+GO:0008253	1	338	23	37501	0.0434782608695652	0.1880385	3.324863e-01	5'-nucleotidase activity	molecular_function	catalytic activity	XM_021480521	NA
+GO:0015501	1	338	23	37501	0.0434782608695652	0.1880385	3.324863e-01	glutamate:sodium symporter activity	molecular_function	transporter activity	NM_212640	NA
+GO:0046873	1	338	23	37501	0.0434782608695652	0.1880385	3.324863e-01	metal ion transmembrane transporter activity	molecular_function	transporter activity	NM_131629	NA
+GO:0048306	1	338	23	37501	0.0434782608695652	0.1880385	3.324863e-01	calcium-dependent protein binding	molecular_function	binding	NM_001002552	NA
+GO:0003777	3	338	167	37501	0.0179640718562874	0.1916053	3.372600e-01	microtubule motor activity	molecular_function	catalytic activity	NM_200823,XM_005163472,XM_021467103	NA,NA,NA
+GO:0005179	3	338	168	37501	0.0178571428571429	0.1938862	3.392658e-01	hormone activity	molecular_function	binding+++molecular function regulator	NM_001007379,NM_178291,NM_205622	NA,NA,NA
+GO:0046961	1	338	24	37501	0.0416666666666667	0.1953613	3.392658e-01	proton-transporting ATPase activity, rotational mechanism	molecular_function	catalytic activity+++transporter activity	XM_005160272	NA
+GO:0070840	1	338	24	37501	0.0416666666666667	0.1953613	3.392658e-01	dynein complex binding	molecular_function	binding	XM_005157575	NA
+GO:0008017	9	338	715	37501	0.0125874125874126	0.1992517	3.444841e-01	microtubule binding	molecular_function	binding	NM_001077173,NM_001145694,NM_001327745,NM_200823,XM_005163472,XM_005167671,XM_005168648,XM_017351057,XM_021467103	NA,NA,NA,NA,NA,NA,NA,NA,NA
+GO:0000287	4	338	258	37501	0.0155038759689922	0.2047172	3.462391e-01	magnesium ion binding	molecular_function	binding	NM_199333,NM_212722,XM_005166291,XM_021470093	NA,NA,NA,NA
+GO:0004879	3	338	172	37501	0.0174418604651163	0.2030761	3.462391e-01	nuclear receptor activity	molecular_function	transcription regulator activity	NM_001285533,NM_205729,XM_021469819	NA,NA,NA
+GO:0016616	2	338	93	37501	0.021505376344086	0.2046599	3.462391e-01	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	molecular_function	catalytic activity	NM_001017674,NM_001079977	NA,NA
+GO:0019208	1	338	25	37501	0.04	0.2026182	3.462391e-01	phosphatase regulator activity	molecular_function	molecular function regulator	XM_009300171	NA
+GO:0030234	1	338	25	37501	0.04	0.2026182	3.462391e-01	enzyme regulator activity	molecular_function	molecular function regulator	NM_001005592	NA
+GO:0003886	1	338	26	37501	0.0384615384615385	0.2098099	3.533162e-01	DNA (cytosine-5-)-methyltransferase activity	molecular_function	catalytic activity	XM_021467162	NA
+GO:0004896	2	338	95	37501	0.0210526315789474	0.2112409	3.541927e-01	cytokine receptor activity	molecular_function	molecular transducer activity	NM_001111081,XM_009295324	NA,NA
+GO:0003876	1	338	27	37501	0.037037037037037	0.2169369	3.621397e-01	AMP deaminase activity	molecular_function	catalytic activity	XM_005167115	NA
+GO:0005484	2	338	97	37501	0.0206185567010309	0.2178424	3.621397e-01	SNAP receptor activity	molecular_function	binding	NM_001002073,XM_021477291	NA,NA
+GO:0004065	1	338	28	37501	0.0357142857142857	0.2239998	3.645854e-01	arylsulfatase activity	molecular_function	catalytic activity	XM_017353509	NA
+GO:0004467	1	338	28	37501	0.0357142857142857	0.2239998	3.645854e-01	long-chain fatty acid-CoA ligase activity	molecular_function	catalytic activity	NM_001126379	NA
+GO:0004708	1	338	28	37501	0.0357142857142857	0.2239998	3.645854e-01	MAP kinase kinase activity	molecular_function	catalytic activity	NM_001002387	NA
+GO:0005344	1	338	28	37501	0.0357142857142857	0.2239998	3.645854e-01	oxygen carrier activity	molecular_function	molecular carrier activity	XM_005160168	NA
+GO:0019825	1	338	28	37501	0.0357142857142857	0.2239998	3.645854e-01	oxygen binding	molecular_function	binding	XM_005160168	NA
+GO:0005198	4	338	270	37501	0.0148148148148148	0.2273307	3.684652e-01	structural molecule activity	molecular_function	structural molecule activity	NM_001039838,NM_198818,XM_005173471,XM_017358226	NA,NA,NA,NA
+GO:0050840	1	338	29	37501	0.0344827586206897	0.2309992	3.697888e-01	extracellular matrix binding	molecular_function	binding	NM_001001942	NA
+GO:0061575	1	338	29	37501	0.0344827586206897	0.2309992	3.697888e-01	cyclin-dependent protein serine/threonine kinase activator activity	molecular_function	molecular function regulator	NM_001002110	NA
+GO:1990841	1	338	29	37501	0.0344827586206897	0.2309992	3.697888e-01	promoter-specific chromatin binding	molecular_function	binding	NM_001077279	NA
+GO:0000062	1	338	30	37501	0.0333333333333333	0.2379356	3.762478e-01	fatty-acyl-CoA binding	molecular_function	binding	NM_001128768	NA
+GO:0016818	1	338	30	37501	0.0333333333333333	0.2379356	3.762478e-01	hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides	molecular_function	catalytic activity	NM_212642	NA
+GO:0031492	1	338	30	37501	0.0333333333333333	0.2379356	3.762478e-01	nucleosomal DNA binding	molecular_function	binding	NM_001142543	NA
+GO:0004972	1	338	32	37501	0.03125	0.2516219	3.962790e-01	NMDA glutamate receptor activity	molecular_function	molecular transducer activity+++transporter activity	XM_009295219	NA
+GO:0005518	1	338	33	37501	0.0303030303030303	0.2583729	4.052704e-01	collagen binding	molecular_function	binding	NM_001001942	NA
+GO:0019239	1	338	34	37501	0.0294117647058824	0.2650631	4.086228e-01	deaminase activity	molecular_function	catalytic activity	XM_005167115	NA
+GO:0019829	1	338	34	37501	0.0294117647058824	0.2650631	4.086228e-01	cation-transporting ATPase activity	molecular_function	catalytic activity+++transporter activity	XM_009296741	NA
+GO:0030507	1	338	34	37501	0.0294117647058824	0.2650631	4.086228e-01	spectrin binding	molecular_function	binding	XM_005168648	NA
+GO:0042577	1	338	34	37501	0.0294117647058824	0.2650631	4.086228e-01	lipid phosphatase activity	molecular_function	catalytic activity	NM_200708	NA
+GO:0046872	69	338	7109	37501	0.00970600647067098	0.2657624	4.086228e-01	metal ion binding	molecular_function	binding	NM_001001730,NM_001002552,NM_001005776,NM_001020500,NM_001077279,NM_001077329,NM_001077604,NM_001080054,NM_001089414,NM_001114453,NM_001285533,NM_001310015,NM_130912,NM_131127,NM_131213,NM_131642,NM_173257,NM_198072,NM_198815,NM_199333,NM_199658,NM_199668,NM_199983,NM_200128,NM_200674,NM_200741,NM_205729,NM_212566,NM_212746,NM_213013,NM_213077,NM_213410,NM_213494,XM_001332966,XM_005155325,XM_005156983,XM_005157583,XM_005160168,XM_005160589,XM_005163607,XM_005167115,XM_005167191,XM_005168120,XM_005172318,XM_009293111,XM_009293357,XM_009295324,XM_009295512,XM_009296741,XM_009301545,XM_009303492,XM_009306733,XM_009306903,XM_017353509,XM_017355293,XM_017356029,XM_017356449,XM_017357326,XM_017358926,XM_021466631,XM_021467162,XM_021467517,XM_021467758,XM_021468456,XM_021469819,XM_021469852,XM_021470300,XM_021480521,XM_678867	NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GO:0016740	39	338	3931	37501	0.00992113965911982	0.2865209	4.388056e-01	transferase activity	molecular_function	catalytic activity	NM_001002387,NM_001003890,NM_001014352,NM_001015060,NM_001025471,NM_001040362,NM_001045060,NM_001077279,NM_001077391,NM_001077757,NM_001077803,NM_001114447,NM_131213,NM_131240,NM_173222,NM_198072,NM_199333,NM_199983,NM_200668,NM_206888,NM_212564,NM_212566,NM_213077,XM_005155325,XM_005157583,XM_005158344,XM_005162256,XM_005166291,XM_005172318,XM_009291142,XM_009293111,XM_009307793,XM_017356029,XM_017358926,XM_021467162,XM_021467517,XM_021470093,XM_021476247,XM_691233	NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GO:0051010	2	338	118	37501	0.0169491525423729	0.2877377	4.389410e-01	microtubule plus-end binding	molecular_function	binding	XM_005157575,XM_005157740	NA,NA
+GO:0003712	5	338	398	37501	0.0125628140703518	0.2903243	4.390991e-01	transcription coregulator activity	molecular_function	transcription regulator activity	NM_001077276,NM_001077279,XM_009293357,XM_009297389,XM_017356029	NA,NA,NA,NA,NA
+GO:0005215	1	338	38	37501	0.0263157894736842	0.2912277	4.390991e-01	transporter activity	molecular_function	transporter activity	NM_001003570	NA
+GO:0015175	1	338	38	37501	0.0263157894736842	0.2912277	4.390991e-01	neutral amino acid transmembrane transporter activity	molecular_function	transporter activity	NM_212640	NA
+GO:0004693	1	338	39	37501	0.0256410256410256	0.2976224	4.411510e-01	cyclin-dependent protein serine/threonine kinase activity	molecular_function	molecular transducer activity+++catalytic activity	NM_212564	NA
+GO:0005385	1	338	39	37501	0.0256410256410256	0.2976224	4.411510e-01	zinc ion transmembrane transporter activity	molecular_function	transporter activity	NM_131629	NA
+GO:0008484	1	338	39	37501	0.0256410256410256	0.2976224	4.411510e-01	sulfuric ester hydrolase activity	molecular_function	catalytic activity	XM_017353509	NA
+GO:0016887	4	338	306	37501	0.0130718954248366	0.2982589	4.411510e-01	ATPase activity	molecular_function	catalytic activity	NM_001200012,NM_199542,XM_003198110,XM_005163472	NA,NA,NA,NA
+GO:0030295	1	338	39	37501	0.0256410256410256	0.2976224	4.411510e-01	protein kinase activator activity	molecular_function	molecular function regulator	NM_001327745	NA
+GO:0004438	1	338	40	37501	0.025	0.3039596	4.434312e-01	phosphatidylinositol-3-phosphatase activity	molecular_function	catalytic activity	NM_200708	NA
+GO:0005319	1	338	40	37501	0.025	0.3039596	4.434312e-01	lipid transporter activity	molecular_function	transporter activity	NM_001309465	NA
+GO:0005388	1	338	40	37501	0.025	0.3039596	4.434312e-01	calcium-transporting ATPase activity	molecular_function	catalytic activity+++transporter activity	XM_009296741	NA
+GO:0042626	2	338	123	37501	0.016260162601626	0.3043602	4.434312e-01	ATPase activity, coupled to transmembrane movement of substances	molecular_function	catalytic activity+++transporter activity	NM_001111212,NM_001309465	NA,NA
+GO:0003676	16	338	1539	37501	0.0103963612735543	0.3150703	4.509315e-01	nucleic acid binding	molecular_function	binding	NM_001001944,NM_001020614,NM_001114447,NM_001127335,NM_199547,NM_200626,NM_200999,NM_213317,XM_005156355,XM_005168996,XM_005168997,XM_005170455,XM_005173102,XM_017351261,XM_021469377,XM_021477077	NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GO:0016773	1	338	42	37501	0.0238095238095238	0.3164635	4.509315e-01	phosphotransferase activity, alcohol group as acceptor	molecular_function	catalytic activity	NM_001077803	NA
+GO:0016831	1	338	42	37501	0.0238095238095238	0.3164635	4.509315e-01	carboxy-lyase activity	molecular_function	catalytic activity	NM_001007422	NA
+GO:0019894	1	338	42	37501	0.0238095238095238	0.3164635	4.509315e-01	kinesin binding	molecular_function	binding	NM_001077173	NA
+GO:0048020	1	338	42	37501	0.0238095238095238	0.3164635	4.509315e-01	CCR chemokine receptor binding	molecular_function	binding	NM_001115054	NA
+GO:0051082	2	338	125	37501	0.016	0.3109906	4.509315e-01	unfolded protein binding	molecular_function	binding	NM_001200012,XM_003198110	NA,NA
+GO:0004143	1	338	43	37501	0.0232558139534884	0.3226311	4.547228e-01	diacylglycerol kinase activity	molecular_function	catalytic activity	XM_005172318	NA
+GO:0016772	1	338	43	37501	0.0232558139534884	0.3226311	4.547228e-01	transferase activity, transferring phosphorus-containing groups	molecular_function	catalytic activity	NM_173222	NA
+GO:0051011	1	338	43	37501	0.0232558139534884	0.3226311	4.547228e-01	microtubule minus-end binding	molecular_function	binding	XM_005168648	NA
+GO:0003727	1	338	45	37501	0.0222222222222222	0.3348005	4.668007e-01	single-stranded RNA binding	molecular_function	binding	XM_002665908	NA
+GO:0019003	1	338	45	37501	0.0222222222222222	0.3348005	4.668007e-01	GDP binding	molecular_function	binding	NM_201018	NA
+GO:0032452	1	338	45	37501	0.0222222222222222	0.3348005	4.668007e-01	histone demethylase activity	molecular_function	catalytic activity	XM_009293357	NA
+GO:0043130	2	338	133	37501	0.0150375939849624	0.3373639	4.686948e-01	ubiquitin binding	molecular_function	binding	NM_001002110,XM_021466631	NA,NA
+GO:0016702	1	338	46	37501	0.0217391304347826	0.3408032	4.717881e-01	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen	molecular_function	catalytic activity	NM_200741	NA
+GO:0005313	1	338	47	37501	0.0212765957446809	0.3467519	4.749524e-01	L-glutamate transmembrane transporter activity	molecular_function	transporter activity	NM_212640	NA
+GO:0016763	1	338	47	37501	0.0212765957446809	0.3467519	4.749524e-01	transferase activity, transferring pentosyl groups	molecular_function	catalytic activity	NM_001114447	NA
+GO:0046935	1	338	47	37501	0.0212765957446809	0.3467519	4.749524e-01	1-phosphatidylinositol-3-kinase regulator activity	molecular_function	molecular function regulator	NM_213038	NA
+GO:0003730	3	338	233	37501	0.0128755364806867	0.3505794	4.785101e-01	mRNA 3'-UTR binding	molecular_function	binding	XM_005168996,XM_005168997,XM_005173102	NA,NA,NA
+GO:0015171	1	338	48	37501	0.0208333333333333	0.3526471	4.796494e-01	amino acid transmembrane transporter activity	molecular_function	transporter activity	NM_001005944	NA
+GO:0005184	1	338	49	37501	0.0204081632653061	0.3584892	4.842094e-01	neuropeptide hormone activity	molecular_function	binding+++molecular function regulator	NM_178291	NA
+GO:0097153	1	338	49	37501	0.0204081632653061	0.3584892	4.842094e-01	cysteine-type endopeptidase activity involved in apoptotic process	molecular_function	catalytic activity	NM_131877	NA
+GO:0003953	1	338	50	37501	0.02	0.3642788	4.886360e-01	NAD+ nucleosidase activity	molecular_function	catalytic activity	XM_002665908	NA
+GO:0042800	1	338	50	37501	0.02	0.3642788	4.886360e-01	histone methyltransferase activity (H3-K4 specific)	molecular_function	catalytic activity	XM_005157583	NA
+GO:0008376	1	338	55	37501	0.0181818181818182	0.3924544	5.246212e-01	acetylgalactosaminyltransferase activity	molecular_function	catalytic activity	XM_005162256	NA
+GO:0003951	1	338	56	37501	0.0178571428571429	0.3979384	5.283209e-01	NAD+ kinase activity	molecular_function	catalytic activity	XM_005172318	NA
+GO:0004527	1	338	56	37501	0.0178571428571429	0.3979384	5.283209e-01	exonuclease activity	molecular_function	catalytic activity	NM_001001944	NA
+GO:0008083	3	338	256	37501	0.01171875	0.4065492	5.379171e-01	growth factor activity	molecular_function	binding+++molecular function regulator	NM_131019,NM_131070,NM_213110	NA,NA,NA
+GO:0042054	1	338	58	37501	0.0172413793103448	0.4087585	5.390070e-01	histone methyltransferase activity	molecular_function	catalytic activity	XM_005157583	NA
+GO:0030165	1	338	60	37501	0.0166666666666667	0.4193848	5.511510e-01	PDZ domain binding	molecular_function	binding	XM_009296741	NA
+GO:0003714	3	338	263	37501	0.0114068441064639	0.4233252	5.542942e-01	transcription corepressor activity	molecular_function	transcription regulator activity	NM_001114447,XM_005160589,XM_009303492	NA,NA,NA
+GO:0005540	1	338	61	37501	0.0163934426229508	0.4246264	5.542942e-01	hyaluronic acid binding	molecular_function	binding	NM_214688	NA
+GO:0004190	1	338	62	37501	0.0161290322580645	0.4298207	5.591982e-01	aspartic-type endopeptidase activity	molecular_function	catalytic activity	NM_200031	NA
+GO:0004518	2	338	163	37501	0.0122699386503067	0.4328495	5.612615e-01	nuclease activity	molecular_function	catalytic activity	NM_001001944,NM_001089414	NA,NA
+GO:0003950	1	338	64	37501	0.015625	0.4400696	5.668446e-01	NAD+ ADP-ribosyltransferase activity	molecular_function	catalytic activity	NM_001114447	NA
+GO:0032266	1	338	64	37501	0.015625	0.4400696	5.668446e-01	phosphatidylinositol-3-phosphate binding	molecular_function	binding	NM_201123	NA
+GO:0004864	1	338	65	37501	0.0153846153846154	0.4451249	5.695842e-01	protein phosphatase inhibitor activity	molecular_function	molecular function regulator	XM_005161356	NA
+GO:0035064	1	338	65	37501	0.0153846153846154	0.4451249	5.695842e-01	methylated histone binding	molecular_function	binding	NM_213077	NA
+GO:0016705	2	338	169	37501	0.0118343195266272	0.4510874	5.753213e-01	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	molecular_function	catalytic activity	NM_001001730,NM_131642	NA,NA
+GO:0051087	1	338	67	37501	0.0149253731343284	0.4550994	5.785414e-01	chaperone binding	molecular_function	binding	XM_009291501	NA
+GO:0019706	1	338	70	37501	0.0142857142857143	0.469727	5.951915e-01	protein-cysteine S-palmitoyltransferase activity	molecular_function	catalytic activity	NM_001077757	NA
+GO:0008009	1	338	71	37501	0.0140845070422535	0.4745154	5.993068e-01	chemokine activity	molecular_function	binding+++molecular function regulator	NM_001115054	NA
+GO:0008234	3	338	291	37501	0.0103092783505155	0.4885854	6.150800e-01	cysteine-type peptidase activity	molecular_function	catalytic activity	NM_131877,XM_005165268,XM_009295512	NA,NA,NA
+GO:0016409	1	338	75	37501	0.0133333333333333	0.4932415	6.189385e-01	palmitoyltransferase activity	molecular_function	catalytic activity	NM_001077757	NA
+GO:0004402	1	338	76	37501	0.0131578947368421	0.4978181	6.226728e-01	histone acetyltransferase activity	molecular_function	catalytic activity	XM_017356029	NA
+GO:0003725	1	338	77	37501	0.012987012987013	0.5023535	6.263318e-01	double-stranded RNA binding	molecular_function	binding	XM_009307784	NA
+GO:0000049	1	338	78	37501	0.0128205128205128	0.5068481	6.299166e-01	tRNA binding	molecular_function	binding	XM_009307784	NA
+GO:0008574	1	338	80	37501	0.0125	0.5157161	6.388967e-01	ATP-dependent microtubule motor activity, plus-end-directed	molecular_function	catalytic activity	XM_021467103	NA
+GO:0042803	2	338	193	37501	0.0103626943005181	0.5205309	6.428143e-01	protein homodimerization activity	molecular_function	binding	NM_001089414,NM_213411	NA,NA
+GO:0004197	2	338	196	37501	0.0102040816326531	0.5287918	6.448276e-01	cysteine-type endopeptidase activity	molecular_function	catalytic activity	NM_131877,XM_005165268	NA,NA
+GO:0005044	1	338	83	37501	0.0120481927710843	0.528721	6.448276e-01	scavenger receptor activity	molecular_function	cargo receptor activity	NM_173259	NA
+GO:0016788	1	338	83	37501	0.0120481927710843	0.528721	6.448276e-01	hydrolase activity, acting on ester bonds	molecular_function	catalytic activity	NM_001089414	NA
+GO:0042826	1	338	82	37501	0.0121951219512195	0.5244252	6.448276e-01	histone deacetylase binding	molecular_function	binding	XM_009301764	NA
+GO:0003755	1	338	84	37501	0.0119047619047619	0.5329781	6.479015e-01	peptidyl-prolyl cis-trans isomerase activity	molecular_function	catalytic activity	NM_212758	NA
+GO:0005524	35	338	3915	37501	0.00893997445721584	0.5468158	6.626522e-01	ATP binding	molecular_function	binding	NM_001002387,NM_001003890,NM_001007422,NM_001014352,NM_001077391,NM_001077803,NM_001082849,NM_001111212,NM_001127335,NM_001200012,NM_001309465,NM_001310015,NM_131240,NM_173222,NM_173257,NM_198913,NM_199333,NM_199542,NM_200823,NM_206888,NM_212564,NM_212566,NM_213317,XM_003198110,XM_005161953,XM_005163472,XM_005166291,XM_005172318,XM_009291142,XM_009296741,XM_021467103,XM_021469728,XM_021470093,XM_021476247,XM_691233	NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GO:0016301	17	338	1920	37501	0.00885416666666667	0.5651577	6.827526e-01	kinase activity	molecular_function	catalytic activity	NM_001002387,NM_001003890,NM_001014352,NM_001015060,NM_001077391,NM_001077803,NM_131240,NM_173222,NM_199333,NM_206888,NM_212564,NM_212566,XM_005166291,XM_005172318,XM_009291142,XM_021470093,XM_021476247	NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GO:0015293	2	338	215	37501	0.00930232558139535	0.5788345	6.971103e-01	symporter activity	molecular_function	transporter activity	NM_001003570,NM_212640	NA,NA
+GO:0031625	1	338	96	37501	0.0104166666666667	0.5811689	6.977614e-01	ubiquitin protein ligase binding	molecular_function	binding	XM_003198110	NA
+GO:0004970	1	338	97	37501	0.0103092783505155	0.5849536	7.001445e-01	ionotropic glutamate receptor activity	molecular_function	molecular transducer activity+++transporter activity	XM_009295219	NA
+GO:0008134	1	338	102	37501	0.00980392156862745	0.6033715	7.199740e-01	transcription factor binding	molecular_function	binding	XM_021469728	NA
+GO:0005125	2	338	228	37501	0.0087719298245614	0.6107728	7.243616e-01	cytokine activity	molecular_function	binding+++molecular function regulator	NM_001115054,NM_131019	NA,NA
+GO:0031490	1	338	104	37501	0.00961538461538462	0.6105084	7.243616e-01	chromatin DNA binding	molecular_function	binding	NM_199658	NA
+GO:0003690	1	338	109	37501	0.00917431192660551	0.6277954	7.350934e-01	double-stranded DNA binding	molecular_function	binding	NM_205569	NA
+GO:0004519	1	338	110	37501	0.00909090909090909	0.6311599	7.350934e-01	endonuclease activity	molecular_function	catalytic activity	NM_001089414	NA
+GO:0004842	4	338	478	37501	0.00836820083682008	0.6268931	7.350934e-01	ubiquitin-protein transferase activity	molecular_function	catalytic activity	NM_199983,NM_213077,XM_009293111,XM_021466631	NA,NA,NA,NA
+GO:0016779	1	338	109	37501	0.00917431192660551	0.6277954	7.350934e-01	nucleotidyltransferase activity	molecular_function	catalytic activity	XM_009307784	NA
+GO:0070615	1	338	110	37501	0.00909090909090909	0.6311599	7.350934e-01	nucleosome-dependent ATPase activity	molecular_function	catalytic activity	XM_021469728	NA
+GO:0071949	1	338	109	37501	0.00917431192660551	0.6277954	7.350934e-01	FAD binding	molecular_function	binding	XM_002665870	NA
+GO:0000977	5	338	610	37501	0.00819672131147541	0.6451383	7.359496e-01	RNA polymerase II regulatory region sequence-specific DNA binding	molecular_function	binding	XM_005157897,XM_005174607,XM_009301764,XM_009303209,XM_021479249	NA,NA,NA,NA,NA
+GO:0004715	1	338	112	37501	0.00892857142857143	0.6377982	7.359496e-01	non-membrane spanning protein tyrosine kinase activity	molecular_function	catalytic activity	NM_206888	NA
+GO:0005201	2	338	242	37501	0.00826446280991736	0.6430706	7.359496e-01	extracellular matrix structural constituent	molecular_function	structural molecule activity	XM_017351038,XM_021479394	NA,NA
+GO:0008092	1	338	114	37501	0.0087719298245614	0.6443173	7.359496e-01	cytoskeletal protein binding	molecular_function	binding	NM_181761	NA
+GO:0008138	1	338	113	37501	0.00884955752212389	0.6410725	7.359496e-01	protein tyrosine/serine/threonine phosphatase activity	molecular_function	catalytic activity	NM_200708	NA
+GO:0015276	1	338	111	37501	0.00900900900900901	0.6344941	7.359496e-01	ligand-gated ion channel activity	molecular_function	transporter activity	XM_009295219	NA
+GO:0035091	2	338	240	37501	0.00833333333333333	0.638589	7.359496e-01	phosphatidylinositol binding	molecular_function	binding	NM_201123,XM_005158402	NA,NA
+GO:0003724	1	338	116	37501	0.00862068965517241	0.6507195	7.360794e-01	RNA helicase activity	molecular_function	catalytic activity	NM_001127335	NA
+GO:0016757	4	338	493	37501	0.00811359026369168	0.650836	7.360794e-01	transferase activity, transferring glycosyl groups	molecular_function	catalytic activity	NM_001114447,NM_200668,XM_005162256,XM_009307793	NA,NA,NA,NA
+GO:0016787	25	338	2943	37501	0.00849473326537547	0.6509288	7.360794e-01	hydrolase activity	molecular_function	catalytic activity	NM_001001944,NM_001025475,NM_001077279,NM_001082849,NM_001089414,NM_001100034,NM_131127,NM_131877,NM_173257,NM_198913,NM_200031,NM_200128,NM_200708,NM_201018,NM_201117,NM_212642,XM_003200677,XM_005158809,XM_005158810,XM_005165268,XM_005167115,XM_009295512,XM_017353509,XM_021469728,XM_021480521	NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GO:0005509	13	338	1573	37501	0.00826446280991736	0.6642283	7.489415e-01	calcium ion binding	molecular_function	binding	NM_001001942,NM_001002552,NM_001005776,NM_001017860,NM_181761,NM_206888,NM_214688,XM_005163870,XM_009295512,XM_009296946,XM_009301545,XM_017353509,XM_017356726	NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GO:0044325	1	338	124	37501	0.00806451612903226	0.6751995	7.591116e-01	ion channel binding	molecular_function	binding	NM_001098748	NA
+GO:0004888	3	338	398	37501	0.00753768844221105	0.6977654	7.822212e-01	transmembrane signaling receptor activity	molecular_function	molecular transducer activity	XM_002665908,XM_005164273,XM_021477672	NA,NA,NA
+GO:0019905	1	338	134	37501	0.00746268656716418	0.7034076	7.862803e-01	syntaxin binding	molecular_function	binding	NM_001002073	NA
+GO:0004725	3	338	407	37501	0.00737100737100737	0.7120233	7.898305e-01	protein tyrosine phosphatase activity	molecular_function	catalytic activity	NM_001077279,NM_200708,XM_009307424	NA,NA,NA
+GO:0005546	1	338	137	37501	0.0072992700729927	0.7113836	7.898305e-01	phosphatidylinositol-4,5-bisphosphate binding	molecular_function	binding	XM_021474704	NA
+GO:0016829	2	338	276	37501	0.0072463768115942	0.7126748	7.898305e-01	lyase activity	molecular_function	catalytic activity	NM_001007422,NM_212722	NA,NA
+GO:0003774	3	338	419	37501	0.00715990453460621	0.7302226	8.069790e-01	motor activity	molecular_function	catalytic activity	NM_200823,XM_005163472,XM_021467103	NA,NA,NA
+GO:0004714	2	338	287	37501	0.00696864111498258	0.7326274	8.073429e-01	transmembrane receptor protein tyrosine kinase activity	molecular_function	molecular transducer activity+++catalytic activity	NM_001002387,XM_009291142	NA,NA
+GO:0043565	5	338	680	37501	0.00735294117647059	0.7355524	8.082765e-01	sequence-specific DNA binding	molecular_function	binding	NM_001082940,NM_001285533,NM_205729,XM_005169610,XM_021469819	NA,NA,NA,NA,NA
+GO:0005096	6	338	808	37501	0.00742574257425743	0.7380437	8.087296e-01	GTPase activator activity	molecular_function	molecular function regulator	NM_001040373,NM_001202443,NM_201157,XM_005158402,XM_005163963,XM_009297645	NA,NA,NA,NA,NA,NA
+GO:0008270	14	338	1793	37501	0.00780814277746793	0.7456018	8.147166e-01	zinc ion binding	molecular_function	binding	NM_001002552,NM_001285533,NM_131629,NM_198072,NM_205729,NM_213077,XM_005156983,XM_005157583,XM_009293357,XM_017356449,XM_017358926,XM_021466631,XM_021467517,XM_021469819	NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GO:0004674	11	338	1439	37501	0.00764419735927728	0.7519062	8.170154e-01	protein serine/threonine kinase activity	molecular_function	catalytic activity	NM_001002387,NM_001003890,NM_001077391,NM_131240,NM_206888,NM_212564,NM_212566,XM_005166291,XM_021470093,XM_021476247,XM_691233	NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GO:0017124	1	338	153	37501	0.0065359477124183	0.7504468	8.170154e-01	SH3 domain binding	molecular_function	binding	XM_005156355	NA
+GO:0005544	1	338	157	37501	0.00636942675159236	0.7593591	8.228153e-01	calcium-dependent phospholipid binding	molecular_function	binding	NM_181761	NA
+GO:0003824	6	338	835	37501	0.00718562874251497	0.7657042	8.273859e-01	catalytic activity	molecular_function	catalytic activity	NM_001080083,NM_131801,NM_173222,NM_199333,NM_200674,XM_017353509	NA,NA,NA,NA,NA,NA
+GO:0061630	5	338	711	37501	0.0070323488045007	0.7698173	8.295261e-01	ubiquitin protein ligase activity	molecular_function	catalytic activity	NM_131213,NM_213077,XM_017358926,XM_021467517,XM_021469852	NA,NA,NA,NA,NA
+GO:0016758	1	338	167	37501	0.00598802395209581	0.7802759	8.361634e-01	transferase activity, transferring hexosyl groups	molecular_function	catalytic activity	XM_005162256	NA
+GO:0050839	1	338	167	37501	0.00598802395209581	0.7802759	8.361634e-01	cell adhesion molecule binding	molecular_function	binding	XM_009296946	NA
+GO:0016746	2	338	323	37501	0.00619195046439629	0.7898671	8.441162e-01	transferase activity, transferring acyl groups	molecular_function	catalytic activity	NM_001077757,XM_017356029	NA,NA
+GO:0004722	1	338	179	37501	0.00558659217877095	0.8029966	8.534581e-01	protein serine/threonine phosphatase activity	molecular_function	catalytic activity	NM_200708	NA
+GO:0030246	2	338	331	37501	0.00604229607250755	0.8010245	8.534581e-01	carbohydrate binding	molecular_function	binding	NM_200072,NM_214688	NA,NA
+GO:0016874	1	338	190	37501	0.00526315789473684	0.8217594	8.710202e-01	ligase activity	molecular_function	catalytic activity	XM_005161953	NA
+GO:0016791	3	338	499	37501	0.00601202404809619	0.8292901	8.766137e-01	phosphatase activity	molecular_function	catalytic activity	NM_200708,XM_009307424,XM_680749	NA,NA,NA
+GO:0003735	1	338	200	37501	0.005	0.8372654	8.822730e-01	structural constituent of ribosome	molecular_function	structural molecule activity	NM_001004683	NA
+GO:0005516	3	338	509	37501	0.00589390962671906	0.83918	8.822730e-01	calmodulin binding	molecular_function	binding	NM_001015060,XM_005168648,XM_021476247	NA,NA,NA
+GO:0004683	1	338	206	37501	0.00485436893203883	0.8459156	8.869573e-01	calmodulin-dependent protein kinase activity	molecular_function	catalytic activity	XM_021476247	NA
+GO:0008233	5	338	810	37501	0.00617283950617284	0.8567598	8.959128e-01	peptidase activity	molecular_function	catalytic activity	NM_131877,NM_200031,XM_003200677,XM_005165268,XM_009295512	NA,NA,NA,NA,NA
+GO:0008236	1	338	217	37501	0.00460829493087558	0.8606009	8.975168e-01	serine-type peptidase activity	molecular_function	catalytic activity	XM_003200677	NA
+GO:0000149	1	338	225	37501	0.00444444444444444	0.8703966	9.031628e-01	SNARE binding	molecular_function	binding	XM_021477291	NA
+GO:0004672	13	338	1882	37501	0.00690754516471838	0.8706582	9.031628e-01	protein kinase activity	molecular_function	catalytic activity	NM_001002387,NM_001003890,NM_001077391,NM_131240,NM_206888,NM_212564,NM_212566,NM_213317,XM_005166291,XM_009291142,XM_021470093,XM_021476247,XM_691233	NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GO:0005102	2	338	409	37501	0.00488997555012225	0.8850155	9.156144e-01	signaling receptor binding	molecular_function	binding	NM_131019,XM_021476750	NA,NA
+GO:0004721	2	338	435	37501	0.00459770114942529	0.9047724	9.311018e-01	phosphoprotein phosphatase activity	molecular_function	catalytic activity	NM_001077279,NM_200708	NA,NA
+GO:0005085	5	338	885	37501	0.00564971751412429	0.9027771	9.311018e-01	guanyl-nucleotide exchange factor activity	molecular_function	binding+++molecular function regulator	NM_001040373,NM_001079946,XM_009296480,XM_009300171,XM_009302176	NA,NA,NA,NA,NA
+GO:0031267	1	338	285	37501	0.00350877192982456	0.9249982	9.494045e-01	small GTPase binding	molecular_function	binding	XM_005160503	NA
+GO:0038023	1	338	293	37501	0.00341296928327645	0.930278	9.523109e-01	signaling receptor activity	molecular_function	molecular transducer activity	XM_009295219	NA
+GO:0003779	7	338	1260	37501	0.00555555555555556	0.938859	9.539800e-01	actin binding	molecular_function	binding	NM_201336,NM_205581,NM_213110,XM_005160503,XM_009306733,XM_021474704,XM_021481226	NA,NA,NA,NA,NA,NA,NA
+GO:0004252	1	338	303	37501	0.0033003300330033	0.9363595	9.539800e-01	serine-type endopeptidase activity	molecular_function	catalytic activity	XM_003200677	NA
+GO:0051015	4	338	820	37501	0.0048780487804878	0.9392657	9.539800e-01	actin filament binding	molecular_function	binding	NM_001015060,NM_194378,XM_009306733,XM_021474704	NA,NA,NA,NA
+GO:0004713	1	338	314	37501	0.00318471337579618	0.94244	9.547114e-01	protein tyrosine kinase activity	molecular_function	catalytic activity	XM_009291142	NA
+GO:0046982	1	338	364	37501	0.00274725274725275	0.9635483	9.735592e-01	protein heterodimerization activity	molecular_function	binding	XM_005157575	NA
+GO:0022857	1	338	511	37501	0.00195694716242661	0.990519	9.982173e-01	transmembrane transporter activity	molecular_function	transporter activity	XM_005164503	NA
+GO:0003674	11	338	2397	37501	0.00458906967042136	0.9965496	9.998857e-01	molecular_function	molecular_function	molecular_function	NM_001002536,NM_001004604,NM_001006032,NM_001045308,NM_001079985,NM_001080634,NM_199762,NM_199823,NM_205747,NM_213176,XM_017357915	NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GO:0004930	2	338	1263	37501	0.00158353127474268	0.9998857	9.998857e-01	G protein-coupled receptor activity	molecular_function	molecular transducer activity	NM_001320482,XM_009295219	NA,NA
+GO:0005216	1	338	716	37501	0.00139664804469274	0.9985635	9.998857e-01	ion channel activity	molecular_function	transporter activity	XM_009295219	NA

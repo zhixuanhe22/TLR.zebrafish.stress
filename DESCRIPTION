@@ -1,0 +1,24 @@
+Package: TLR.zebrafish.stress
+Type: Package
+Title: Analysis of Toll-Like Receptor Pathway Genes in Zebrafish Stress Models
+Version: 1.0.0
+Authors@R: person("Zhixuan", "He", email = "Zhixuan.He22@student.xjtlu.edu.cn", role = c("aut", "cre"))
+Description: This package provides functions to perform Mann-Whitney U tests,
+    generate comparison plots of qPCR and RNA-seq results, and produce bubble
+    plots of GO enrichment comparing reserpine and chronic stress models in
+    zebrafish brain. All data are bundled within the package for reproducible
+    analysis.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Imports: 
+    ggplot2,
+    readxl, 
+    tidyr,
+    reshape2
+Depends: 
+    R (>= 4.0.0)
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+Config/roxygen2/version: 8.0.0

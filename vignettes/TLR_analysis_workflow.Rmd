@@ -1,0 +1,165 @@
+---
+title: "TLR Analysis Workflow"
+author: "Zhixuan He"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{TLR Analysis Workflow}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+# Overview
+
+This vignette provides a complete walkthrough for reproducing the core 
+analyses from "The Role of Toll-Like Receptor Signaling Pathways in 
+Zebrafish Models of Reserpine and Chronic Stress".
+
+All datasets are bundled with the package, so no manual downloads are required.
+
+# Setup
+
+```r
+library(TLR.zebrafish.stress)
+library(readxl)
+library(tidyr)
+```
+
+# 1. Mann-Whitney U Test
+
+The Mann-Whitney U test compares the expression of 15 TLR pathway genes 
+between control and treatment groups in both stress models. This 
+non-parametric test was chosen because of the small sample sizes and 
+non-normal data distribution.
+
+## Load and preprocess data
+
+```r
+data_path <- system.file("extdata", "expression_data_zhixuan_He.xlsx", package = "TLR.zebrafish.stress")
+raw <- read_excel(data_path, sheet = 1)
+
+raw <- raw %>% fill(Treatment, .direction = "down") %>% fill(Categories, .direction = "down")
+colnames(raw)[grep("NF-", colnames(raw))] <- "NFkB"
+raw <- raw[rowSums(is.na(raw[, 4:18])) < 15, ]
+raw <- raw[raw$Treatment %in% c("reserpine", "chronic stress (CS)"), ]
+
+gene_list <- c("TLR2","TLR3","TLR4","MyD88","IRAK1","IRAK4",
+               "TRAF3","TRAF6","TAK1","NEMO","NFkB","TRIF",
+               "TBK1","MAVS","FADD")
+```
+
+## Reserpine model
+
+```r
+res_data <- raw[raw$Treatment == "reserpine", ]
+res_mw <- run_mann_whitney(res_data, gene_list, "Categories", "Reserpine Model")
+``` 
+
+**Expected output:** *TLR4*, *MyD88*, and *FADD* show `Yes (*)` in the 
+Significant column (p < 0.05). Note that *FADD* is significantly downregulated 
+in the reserpine model and upregulated in the chronic stress model.
+
+## Chronic stress model
+
+```r
+cs_data <- raw[raw$Treatment == "chronic stress (CS)", ]
+cs_mw <- run_mann_whitney(cs_data, gene_list, "Categories", "Chronic Stress Model")
+```
+
+**Expected output:** Only *FADD* shows `Yes (*)`.
+
+# 2. qPCR vs RNA-seq Comparison
+
+This section compares the log2 fold changes measured by qPCR with those 
+from BGI whole-transcriptome RNA-seq for the 15 TLR pathway genes.
+
+## Reserpine model
+
+```r
+# Compute log2FC dynamically from raw Expression data
+qpcr_res <- calc_log2FC(gene_list, treatment = "reserpine")
+
+# Merge significance from Mann-Whitney test
+mw_res <- run_mann_whitney(res_data, gene_list, "Categories", "Reserpine Model")
+qpcr_res <- merge(qpcr_res, mw_res[, c("Gene", "Significant")], by = "Gene", all.x = TRUE)
+qpcr_res$Significant[is.na(qpcr_res$Significant)] <- "No"
+
+bgi_path <- system.file("extdata/BGI/Reserpine_DEG/Diff_exp/gene_diff.xls", 
+                        package = "TLR.zebrafish.stress")
+bgi_raw <- read.delim(bgi_path, header = TRUE, sep = "\t")
+
+name_map <- c("TLR2"="tlr2","TLR3"="tlr3","TLR4"="tlr4",
+              "MyD88"="myd88","IRAK1"="irak1","IRAK4"="irak4",
+              "TRAF3"="traf3","TRAF6"="traf6","TAK1"="tak1",
+              "NEMO"="nemo","NFkB"="nfkb1","TRIF"="ticam1",
+              "TBK1"="tbk1","MAVS"="mavs","FADD"="fadd")
+
+rnaseq_res <- data.frame(Gene = gene_list, log2FC = NA)
+for (i in seq_along(gene_list)) {
+  bgi_name <- name_map[gene_list[i]]    
+  row <- bgi_raw[bgi_raw$gene_symbol == bgi_name, ]
+  if (nrow(row) > 0) {
+    rnaseq_res$log2FC[i] <- row$diffexp_log2fc_Control.vs.Reserpine[1]
+  }
+}
+
+plot_qpcr_vs_rnaseq(qpcr_res, rnaseq_res, title = "qPCR vs RNA-seq: Reserpine Model")
+```
+
+Significantly changed genes (*TLR4*, *MyD88*, *FADD*) are marked with asterisks.
+
+## Chronic stress model
+
+```r
+# Compute log2FC dynamically from raw Expression data
+qpcr_cs <- calc_log2FC(gene_list, treatment = "chronic stress (CS)")
+
+# Merge significance from Mann-Whitney test
+cs_mw <- run_mann_whitney(cs_data, gene_list, "Categories", "Chronic Stress Model")
+qpcr_cs <- merge(qpcr_cs, cs_mw[, c("Gene", "Significant")], by = "Gene", all.x = TRUE)
+qpcr_cs$Significant[is.na(qpcr_cs$Significant)] <- "No"
+
+name_map <- c("TLR2"="tlr2","TLR3"="tlr3","TLR4"="tlr4",
+              "MyD88"="myd88","IRAK1"="irak1","IRAK4"="irak4",
+              "TRAF3"="traf3","TRAF6"="traf6","TAK1"="tak1",
+              "NEMO"="nemo","NFkB"="nfkb1","TRIF"="ticam1",
+              "TBK1"="tbk1","MAVS"="mavs","FADD"="fadd")
+              
+bgi_cs_path <- system.file("extdata/BGI/CS_DEG/Diff_exp/gene_diff.xls", package = "TLR.zebrafish.stress")
+bgi_cs <- read.delim(bgi_cs_path, header = TRUE, sep = "\t")
+
+rnaseq_cs <- data.frame(Gene = gene_list, log2FC = NA)
+for (i in seq_along(gene_list)) {
+  bgi_name <- name_map[gene_list[i]]
+  match_row <- bgi_cs[bgi_cs$gene_symbol == bgi_name, ]
+  if (nrow(match_row) > 0) {
+    lfc_col <- grep("log2fc", colnames(bgi_cs), ignore.case = TRUE, value = TRUE)
+    if (length(lfc_col) == 0) lfc_col <- colnames(bgi_cs)[4]
+    rnaseq_cs$log2FC[i] <- as.numeric(match_row[[lfc_col[1]]])[1]
+  }
+}
+
+plot_qpcr_vs_rnaseq(qpcr_cs, rnaseq_cs, title = "qPCR vs RNA-seq: Chronic Stress Model")
+```
+
+# 3. GO Enrichment Comparison
+
+This section uses BGI-generated GO enrichment results to compare biological 
+processes affected by reserpine and chronic stress.
+
+```r
+res_go <- system.file("extdata/BGI/Reserpine_GO/GO_enrichment/Control-vs-Reserpine/Control-vs-Reserpine_gene_go_P_rich_term.xls", package = "TLR.zebrafish.stress")
+cs_go <- system.file("extdata/BGI/CS_GO/GO_enrichment/Control-vs-Stress/Control-vs-Stress_gene_go_P_rich_term.xls", package = "TLR.zebrafish.stress")
+
+plot_go_comparison(reserpine_file = res_go, cs_file = cs_go, title = "GO BP: Reserpine vs Chronic Stress")
+```
+
+The plot highlights distinct pathway enrichment patterns: reserpine 
+predominantly affects cholesterol/sterol metabolism, while chronic stress 
+primarily affects cell cycle regulation.
+
+# Session Information
+
+```r
+sessionInfo()
+```
