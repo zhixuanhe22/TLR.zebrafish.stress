@@ -13,7 +13,7 @@ unpredictable stress (CS).
 
 ```r
 if (!require("devtools")) install.packages("devtools")
-devtools::install_github("ZhixuanHe22/TLR.zebrafish.stress", build_vignettes = TRUE)
+devtools::install_github("zhixuanhe22/TLR.zebrafish.stress", build_vignettes = TRUE)
 ```
 
 ## Functions
@@ -162,6 +162,9 @@ drafting initial versions of function documentation, and explaining error
 messages. All AI-generated content was reviewed and modified by the author
 to ensure accuracy and relevance to the project.
 
+## Repository
+
+https://github.com/zhixuanhe22/TLR.zebrafish.stress
 ## Contact
 Zhixuan.He22@student.xjtlu.edu.cn
 
